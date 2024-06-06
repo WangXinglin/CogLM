@@ -1,0 +1,1003 @@
+[
+  {
+    "question": "There is a piece of yellow plasticine. After kneading it into a ball, flatten it into a disc. What is the color of plasticine at this time?",
+    "candidates": [
+      "yellow",
+      "red",
+      "blue",
+      "green"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a square piece of paper. Fold it into a rectangle, and then unfold it into a square. How does the paper area change during this process?",
+    "candidates": [
+      "increased",
+      "decreased by",
+      "Unable to determine",
+      "unchanged"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If A+B-C=D, then A-C=?",
+    "candidates": [
+      "A+B",
+      "D-B",
+      "D+B",
+      "C"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chris has a book. He reads from page 1 to page 50. Then he turned back from page 50 to page 1. What are the pages of the book at this time?",
+    "candidates": [
+      "1",
+      "51",
+      "50",
+      "49"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a door, which must be opened or closed by two people, A and B, at the same time. Now the door is open. What should I do if I want to close it?",
+    "candidates": [
+      "Just a turn the key.",
+      "Just b turn the key.",
+      "A and b turn the key at the same time.",
+      "A turn the key first, and B turn the key again."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a clock, and the time displayed now is 12:00. At this time, the hour hand and the minute hand coincide. So if the hour hand and the minute hand of the clock are reversed now, what will the displayed time become?",
+    "candidates": [
+      "12:00",
+      "6:00",
+      "3:00",
+      "9:00"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a formula: 1+6=7. If you want to change 7 back to 1, how much should you subtract from 7?",
+    "candidates": [
+      "6",
+      "1",
+      "7",
+      "8"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a red button and a blue button. Pressing the red button will turn on the light; Press the blue button and the light will turn off. Now that the light is on, what should I do if I want to turn it off?",
+    "candidates": [
+      "Press the red button",
+      "Press the blue button",
+      "Press both buttons simultaneously",
+      "Press the blue button first, then the red button"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Jack has a pencil. He drew a picture with it. Then he erased all the lines on the painting with an eraser. How did the length of the pencil change at this time?",
+    "candidates": [
+      "increased",
+      "decreased",
+      "unchanged",
+      "Unable to determine"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Frank has a plate of pizza, and he ate half of it. Then he took out half a plate of pizza from the refrigerator and combined it with the rest. What is the number of pizza at this time?",
+    "candidates": [
+      "no more",
+      "A plate and a half",
+      "plateful",
+      "Two plates"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Kitty has a square piece of paper. She folds it into a rectangle and then unfolds it completely. What shape is the paper now?",
+    "candidates": [
+      "rectangle",
+      "square",
+      "diamond",
+      "circular"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Kitty has a square piece of paper. She folded it into a rectangle and then unfolded it completely. After unfolding, she cut off a corner with scissors. Is the paper still square?",
+    "candidates": [
+      "It's a square",
+      "Not a square, but a rectangle.",
+      "Not a square, but a diamond.",
+      "Not a square, but an irregular shape."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If A-1+5+C=B+D, then A-B=?",
+    "candidates": [
+      "D+1-5-C",
+      "C+5-1-D",
+      "A-1+5+C",
+      "6"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a glass full of water. If you pour out the water and fill it with water, will it still be the original glass?",
+    "candidates": [
+      "Yes",
+      "Not when the water is poured out.",
+      "Not when refilling with water.",
+      "Unable to determine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If you have a piece of blue plasticine with the initial shape of a cube, you first knead it into a sphere and then knead it into a cuboid. So in the end, what can be done to ensure that its color does not change?",
+    "candidates": [
+      "First knead it into a sphere, and then reduce it to a cube.",
+      "Pinch the plasticine back to the sphere.",
+      "The color of plasticine has not changed.",
+      "Just pinch the plasticine directly back to the cube."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "If A+1-5+C=B+D, then A+C-B plus what equals to D.",
+    "candidates": [
+      "6",
+      "4",
+      "3",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Xiaohua has a bottle of water. He pours it into a cylindrical cup. Then he poured water into a conical cup. Has the volume and weight of Xiaohua's water changed?",
+    "candidates": [
+      "The volume of water increases and the weight decreases.",
+      "The volume and weight of water have not changed.",
+      "The volume and weight of water increase.",
+      "The volume and weight of water are reduced."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a yellow button and a green button. Press the yellow button and the concert will be played. Press the green button and the concert will stop. Now the music is playing. What should I do if I want to stop the music?",
+    "candidates": [
+      "Press the yellow button",
+      "Press the green button",
+      "Press the green button first, then the yellow button.",
+      "Press the green button twice."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is an electric fan with three gears, which can be adjusted from small to large or from large to small by a rotatable knob. The electric fan is now in the first gear, so what should I do if I want to adjust it to the third gear?",
+    "candidates": [
+      "First rotate to the second gear, and then adjust to the third gear.",
+      "Rotate directly to third gear.",
+      "Adjust to the second wind.",
+      "First adjust to the third wind, and then adjust to the second wind."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a red button and a blue button. Press the red button and the light will turn on. Press the blue button and the light will turn off. Now that the light is off, what should I do if I want to turn it on first, then off and then on?",
+    "candidates": [
+      "Press the red button three times.",
+      "Press the blue button three times.",
+      "Press the red button first, then the blue button, then the red button.",
+      "Press the blue button first, then the red button, then the blue button."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a yellow button and a green button. Press the yellow button and the concert will be played. Press the green button and the concert will stop. Now that the music is stopped, what should I do if I want the music to be played first, then stopped and then played?",
+    "candidates": [
+      "Press the yellow button first, then the green button, then the yellow button.",
+      "Press the yellow button twice, and then press the green button again.",
+      "Press the green button three times.",
+      "Press the green button first, then the yellow button twice."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a switch and a key. The switch controls the switch of the light, and the rotating key and the reset key make the music play and stop respectively. Now the lights are off and the music is playing. What should I do if I want to turn off both the lights and the music?",
+    "candidates": [
+      "Reset the key and turn on the switch.",
+      "Turn off the switch and reset the key.",
+      "Turn off the switch and turn the key.",
+      "Turn on the switch and turn the key."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Nash has a rope. He tied it into a knot. The finished rope is half the length of the original rope. After that, he untied the rope again. How can he tie the same knot with this rope again?",
+    "candidates": [
+      "Extend the rope to twice its original length.",
+      "Shorten the rope to half of the original one.",
+      "No need to change the rope",
+      "Lengthen the rope to triple the original length."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lara has a glass of water and a glass of ice. She puts the ice in the water, waits for a while, and finds that the ice becomes smaller and the water becomes more. How can she recover water and ice to the original state?",
+    "candidates": [
+      "Measure out the water with the same weight as the original water, and freeze the rest into ice cubes.",
+      "The total weight of water and ice cubes has not changed, and no other operation is needed.",
+      "Freeze all the existing water into ice cubes.",
+      "Turn all the ice cubes into water now."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If you have a piece of plasticine with the initial shape of a cube, you first knead it into a sphere and then knead it into a cuboid. How can we change it back into a cube by the simplest means?",
+    "candidates": [
+      "First knead it into a sphere, and then reduce it to a cube.",
+      "Pinch the plasticine back to the sphere.",
+      "Knead plasticine into a sphere, then into a cuboid, and then back into a cube.",
+      "Just pinch the plasticine directly back to the cube."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "If you have a piece of plasticine with the initial shape of a cube, you first knead it into a sphere and then knead it into a cuboid. How can we make it into a sphere again by the simplest means?",
+    "candidates": [
+      "First knead it into a cube, and then knead it into a sphere.",
+      "Pinch the plasticine directly back to the sphere.",
+      "This plasticine can no longer be kneaded into a sphere.",
+      "Squeeze the plasticine back into a cube, then into a cuboid, and finally into a sphere."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If there are three containers A, B, C, A and B with X and Y originals, and C is empty, if X is moved to container C and Y is moved to container A, what is in container B?",
+    "candidates": [
+      "Original x",
+      "Empty",
+      "Original x and original y",
+      "Y original"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a formula: 3 times 4=12. If you change the multiplication sign into the division sign, will the result still be 12?",
+    "candidates": [
+      "Yes",
+      "Uncertain",
+      "Fault",
+      "The answer is 4."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a square. If you fold it diagonally twice and expand it again, what shape will it become?",
+    "candidates": [
+      "triangle",
+      "square",
+      "rectangle",
+      "diamond"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a banana. If it is peeled off and eaten, can it be restored to its original state?",
+    "candidates": [
+      "can",
+      "impossible",
+      "uncertain",
+      "Can restore it to an apple."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a word \"apple\". If the two letters 'p' in the middle of it are reversed, what will the word mean?",
+    "candidates": [
+      "banana",
+      "pear",
+      "apple",
+      "tangerine"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a word \"banana\". If the first \"an\" and the second \"an\" are reversed, what will the word mean?",
+    "candidates": [
+      "banana",
+      "apple",
+      "pear",
+      "tangerine"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a picture with a cat and a dog on it. The cat is on the left and the dog is on the right. If you rotate the picture 180 degrees, how will the position of the cat and dog change?",
+    "candidates": [
+      "The cat is on the left and the dog is on the right.",
+      "The cat is above and the dog is below.",
+      "The cat is on the right and the dog is on the left.",
+      "The cat is below and the dog is above."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Elective course A can teach us knowledge X and Z, elective course B can teach us knowledge Y, and elective course C can teach us knowledge W. If I want to master knowledge X and W, what courses should I take?",
+    "candidates": [
+      "Elective course B",
+      "Elective course A and B",
+      "Elective course B and C",
+      "Elective course A and C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Elective course A can teach us knowledge X and Z, elective course B can teach us knowledge Y, and elective course C can teach us knowledge W. If I want to master knowledge X and Y, what courses should I take?",
+    "candidates": [
+      "Elective course B",
+      "Elective course A and B",
+      "Elective course B and C",
+      "Elective course A and C"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a cup full of water and an empty bowl. If you pour the water from a cup into a bowl, how can you pour the water back into the cup?",
+    "candidates": [
+      "Drink the water in the bowl.",
+      "Freeze the water in the bowl into ice.",
+      "Evaporate the water from the bowl.",
+      "Pour the water from the bowl into the cup."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "There is a piece of paper with a square and a circle painted on it. If the paper is folded in half once and then unfolded as it is, how will the position of the square and the circle change?",
+    "candidates": [
+      "The square changes to the other side of the paper, and the circle remains the same.",
+      "The circle changes to the other side of the paper, and the square remains the same.",
+      "Both the square and the circle are transformed to the other side of the paper.",
+      "Neither shape changes."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Elective course A can teach us knowledge X, elective course B can teach us knowledge Y and Z, and elective course C can teach us knowledge W and Z. If I want to master knowledge X and W, what courses should I take?",
+    "candidates": [
+      "Elective course B",
+      "Elective course A and B",
+      "Elective course B and C",
+      "Elective course A and C"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "There is a formula: 5+3=8. If the plus sign is replaced by the minus sign, what should be the number to the right of the equal sign?",
+    "candidates": [
+      "5",
+      "2",
+      "3",
+      "8"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a cup full of water and cooking oil lighter than water, and there is an empty bowl. If the water in the cup is poured into the bowl, who is in the upper layer, water or cooking oil?",
+    "candidates": [
+      "water",
+      "oil",
+      "Mixing of water and oil",
+      "Not necessarily/maybe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a cube of clay that can be kneaded into different shapes. If you knead the clay into a ball and then knead it into a long strip, can the clay recover?",
+    "candidates": [
+      "cannot",
+      "can",
+      "It should be restored to a ball first, and then to a cube.",
+      "uncertain"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a number calculator that can input numbers and operators. If you enter 2+3=, the calculator will display 5. What should I do if I want the calculator to display 0?",
+    "candidates": [
+      "Press the clear key.",
+      "Press the minus key",
+      "Press the equal sign key",
+      "Press the minus key."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a piece of paper with a circle drawn on it. If you cut the paper in half and put the two halves together, will the shape of the circle change?",
+    "candidates": [
+      "Will turn into an ellipse",
+      "Will turn into a semicircle",
+      "Will turn into a triangle",
+      "Will not change."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "There is a magician who can conjure up different animals. If he conjured a cat first and then a dog, how many animals did he conjure up?",
+    "candidates": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "There is a box of chocolates, which can be shared with friends. If you give chocolate to three friends and get a piece back from each friend, will the total number of chocolates change?",
+    "candidates": [
+      "Will become more",
+      "Will be less",
+      "Unable to determine",
+      "Will not change."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "There is a glass full of water. If the water is poured out, how can the glass be restored?",
+    "candidates": [
+      "Get another glass of water",
+      "Take another half glass of water.",
+      "You don't need to do anything",
+      "Irrecoverable"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a time display that shows 1800, so if 18 and 00 are reversed, what time is displayed?",
+    "candidates": [
+      "0018",
+      "1080",
+      "8010",
+      "8100"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a standing photo of a person. If you turn him upside down, where is the head of the person?",
+    "candidates": [
+      "Lower position or level",
+      "Left",
+      "Right side",
+      "Above"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There is a word: \"apple\". If the first letter and the last letter are interchanged, does the word still mean apple?",
+    "candidates": [
+      "Yes",
+      "It became a 'banana'",
+      "Fault",
+      "Uncertain"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a book on the table, and after flipping it 90 degrees clockwise, what should you do to restore it?",
+    "candidates": [
+      "Flip it 90 degrees clockwise",
+      "Flip it 180 degrees clockwise",
+      "Flip 90 degrees counterclockwise",
+      "Flip 180 degrees counterclockwise"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a clock, and now the pointer points to 12 o'clock. If you put the clock upside down, what time will the pointer point to?",
+    "candidates": [
+      "6",
+      "15",
+      "9",
+      "12"
+    ],
+    "answer": 3
+  },
+  {
+        "question": "You are playing a number game. Pressing button A increases the number on the screen by 6, and then pressing button B decreases it by 3. Now, you want the number on the screen to return to its initial state. Which button should you press?",
+        "candidates": [
+            "Button A",
+            "Button B",
+            "Both Button A and Button B",
+            "It's impossible to return to the initial state"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are assembling a jigsaw puzzle, but one of the pieces is placed in the wrong position. What should you do if you want to complete the puzzle correctly?",
+        "candidates": [
+            "Remove the incorrect puzzle piece",
+            "Keep trying to assemble it",
+            "Remove the correct puzzle piece",
+            "Flip the entire puzzle over"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You are playing a maze game, and there's a revolving door in the maze. You enter the revolving door and walk forward for a while. If you want to return to the entrance of the revolving door, which direction should you walk?",
+        "candidates": [
+            "Walk forward",
+            "Walk backward",
+            "Walk left",
+            "Walk right"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are playing a video game, controlling a character to jump over a deep pit. If you want the character to return to the starting point of the pit, what should you do?",
+        "candidates": [
+            "Let the character keep moving forward",
+            "Make the character jump in the opposite direction over the pit",
+            "Make the character jump into the pit",
+            "Exit the game"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are reading a book placed upside down on a table. What should you do if you want to read the book's content normally?",
+        "candidates": [
+            "Examine the book cover carefully",
+            "Pick up the book",
+            "Reverse the book",
+            "Switch to another book to read"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You are playing a car driving simulator game, and your car has been moving in reverse for a while. If you want the car to return to its original position, what should you do?",
+        "candidates": [
+            "Continue reversing",
+            "Stop reversing and accelerate forward",
+            "Turn the steering wheel",
+            "Exit the game"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are playing a mobile app where your task is to drag and drop some shapes to their correct positions. What should you do if you want the shapes to return to their original positions?",
+        "candidates": [
+            "Keep trying to drag and drop them",
+            "Delete the shapes and start over",
+            "Shake your phone",
+            "Close the app"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If A + 2 = B, B - 1 = C, C + 3 = D, what is D - 5 equal to?",
+        "candidates": [
+            "A - 1",
+            "B - 5",
+            "C - 5",
+            "D + 5"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You are designing a math competition question. Given the following sequence: 2, 5, _, 11, what is the number in the third blank?",
+        "candidates": [
+            "13",
+            "8",
+            "15",
+            "16"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Your calculator displays: 3 x 4 = 12. If you want to find the value of 3, how should you reverse this multiplication operation?",
+        "candidates": [
+            "12 divided by 4 = 3",
+            "12 - 4 = 3",
+            "12 + 4 = 3",
+            "3 - 4 = 12"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If A leads to B, B leads to C, E leads to D, and now you want C to happen, what should you do?",
+        "candidates": [
+            "Execute E",
+            "Execute D",
+            "Execute F",
+            "Execute A"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "A shop received a batch of exercise books, sold half of them, and then received 3 more. Now the shop has 10 exercise books. How many exercise books did the shop initially receive?",
+        "candidates": [
+            "16 books",
+            "9 books",
+            "7 books",
+            "14 books"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "After a bus arrives at stop A, 6 passengers get off, and 28 passengers get on. At that moment, the number of passengers on the bus is exactly twice the number before it reached stop A. How many passengers were on the bus before reaching stop A?",
+        "candidates": [
+            "22 passengers",
+            "60 passengers",
+            "66 passengers",
+            "94 passengers"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If a plane will land at 10 AM and fly for 6 hours, what time will it take off?",
+        "candidates": [
+            "4 PM",
+            "10 PM",
+            "4 AM",
+            "12 PM"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If A multiply B = 36 and you know A is 6, what is B?",
+        "candidates": [
+            "3",
+            "4",
+            "6",
+            "9"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You are reasoning through a math problem, knowing that A leads to B, B leads to C, and E leads to D. Now you want D to happen. What should you do?",
+        "candidates": [
+            "Execute A",
+            "Execute B",
+            "Execute E",
+            "Execute C"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If X + 4 = Y, Y - 2 = Z, Z + 6 = W, what is W - 8 equal to?",
+        "candidates": [
+            "X - 4",
+            "Y - 4",
+            "Z - 4",
+            "W - 4"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are participating in a math competition, knowing that A's double is B, B's double is C, and C's double is D. What is one-fourth of D?",
+        "candidates": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You have a bicycle that travels at a speed of 15 kilometers per hour. How long does it take to ride 45 kilometers?",
+        "candidates": [
+            "1 hour",
+            "2 hours",
+            "3 hours",
+            "4 hours"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You have a light bulb with a switch. If the switch is in the off position, how should you operate it to turn on the light?",
+        "candidates": [
+            "Press the switch",
+            "Don't press the switch",
+            "Close the light",
+            "Disconnect the light"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You are playing a number game. If the number is even, you can add 2, and if it's odd, you can subtract 1. Which of the following numbers can get you to 7?",
+        "candidates": [
+            "8",
+            "6",
+            "5",
+            "None of them"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "You are playing a game where you need to press a red button, then a blue button, and finally a green button. Now you want to press the green button. What should you do?",
+        "candidates": [
+            "Press the red button",
+            "Press the blue button",
+            "Press the yellow button",
+            "Press the red button first, then the blue button"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "You are designing a math competition question. Given the following sequence: 4, 9, _, 19, what is the number in the third blank?",
+        "candidates": [
+            "14",
+            "12",
+            "15",
+            "16"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You have a faucet, and the water temperature can be adjusted by turning a knob to the right for hotter water and to the left for colder water. If you feel the water has become hotter, which way did you turn the knob?",
+        "candidates": [
+            "Turn the knob to the left",
+            "Turn the knob to the right",
+            "Don't make any changes",
+            "Unscrew the faucet"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Your calculator displays: 24 ÷ 3 = 8. If you want to find the value of 3, how should you reverse this division operation?",
+        "candidates": [
+            "24 / 8 = 3",
+            "8 - 3 = 5",
+            "8 + 3 = 11",
+            "3 - 8 = -5"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You have a light bulb with two switches. If all switches are in the off position, how should you operate them to turn on the light bulb?",
+        "candidates": [
+            "Turn on the first switch",
+            "Turn on the second switch",
+            "Turn on both switches simultaneously",
+            "Don't make any changes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Your watch shows 12:30, but in fact you have accidentally sped it up by 30 minutes. What should the correct time be?",
+        "candidates": [
+            "12:00",
+            "11:00",
+            "10:00",
+            "1:00"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "While solving a addition problem, you mistakenly read 26 as 29, and the result is 29. What should the correct product be?",
+        "candidates": [
+            "29",
+            "28",
+            "27",
+            "26"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "You have a glass containing 250 milliliters of water. If you want to reduce the water volume to 150 milliliters, what should you do?",
+        "candidates": [
+            "Pour out all the water",
+            "Pour in 50 milliliters of water",
+            "Pour out 100 milliliters of water",
+            "It's impossible to reduce it to 150 milliliters"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You have a stick that is 20 centimeters long. You want to cut it into two segments, with one segment three times longer than the other. Where should you cut it?",
+        "candidates": [
+            "At 5 centimeters",
+            "At 10 centimeters",
+            "At 16 centimeters",
+            "It's impossible to cut it into two segments"
+        ],
+        "answer": 0
+    },
+
+    {
+        "question": "You have a rope, but it doesn't burn evenly. The top half burns in 10 minutes, and the bottom half takes 20 minutes to burn. How can you make the rope burn for a total of 20 minutes?",
+        "candidates": [
+            "Light both ends of the rope",
+            "Light the top half of the rope",
+            "Light the bottom half of the rope",
+            "Measure it with your fingers"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You have a sequence of numbers: 3, 6, 9, 12, 15. You want to make their sum equal to one-third of what it is now. What should you do?",
+        "candidates": [
+            "Divide each number by 3",
+            "Multiply each number by 3",
+            "Subtract 2 from each number",
+            "It cannot be done"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You are playing cards, and your hand consists of the Ace of Hearts, King of Diamonds, Queen of Clubs, and 10 of Clubs. After playing one card, your cards have no numbers on them. What card did you play?",
+        "candidates": [
+            "Ace of Hearts",
+            "King of Diamonds",
+            "Queen of Clubs",
+            "10 of Clubs"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "You have a positive number less than 10, and you perform an operation on it to make it greater than 10. Which of the following operations could you have done?",
+        "candidates": [
+            "Add 10 to it",
+            "Subtract 10 from it",
+            "Multiply it by 1",
+            "Divide it by 2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You have a piece of paper with a square drawn on it. How can you transform the shape into a triangle?",
+        "candidates": [
+            "Erase the shape",
+            "Erase 1/3 of the square",
+            "Rotate the square",
+            "Fold the square in half diagonally"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "You have two containers, A with 1 liter of water and B with 2 liters of water. Both containers have a total capacity of 3 liters. How can you make sure both containers have exactly 1.5 liters of water?",
+        "candidates": [
+            "Fill container A to the top and pour it into container B",
+            "Fill container B to the top and pour it into container A",
+            "Pour the entire contents of A into B and then pour half of B's contents into A",
+            "It's not possible to have 1.5 liters in both containers"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You have a bag with 12 cookies. You want to distribute them equally to yourself and your friends, with each person getting 3 cookies. How many friends do you have?",
+        "candidates": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You have two coins that add up to 35 cents. One of the coins is 25 cents. What is the denomination of the other coin?",
+        "candidates": [
+            "5 cents",
+            "10 cents",
+            "15 cents",
+            "25 cents"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are playing cards, and your hand consists of two hearts and two clubs. You need to play a black card. What card should you play?",
+        "candidates": [
+            "Hearts",
+            "Clubs",
+            "Diamonds",
+            "Spades"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If your left hand is on the east side of the Earth, where is your right hand?",
+        "candidates": [
+            "East",
+            "South",
+            "West",
+            "North"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If a rectangle has a width of 10 centimeters and a length of 20 centimeters, what operation can be performed to turn it into a square?",
+        "candidates": [
+            "Decrease the length by 10 centimeters",
+            "Increase the length by 10 centimeters",
+            "Decrease the width by 5 centimeters",
+            "Increase the width by 20 centimeters"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If it will be Monday in three days, what day is it today?",
+        "candidates": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If your birthday is on the 15th day of May, what season is your birthday in?",
+        "candidates": [
+            "Spring",
+            "Summer",
+            "Autumn",
+            "Winter"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "A piece of paper is folded several times to get 8 layers. How many times was it folded?",
+        "candidates": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If you have 10 pencils, and you put 5 of them in one box and 5 in another, how many boxes at least do you have?",
+        "candidates": [
+            "0 boxes",
+            "1 box",
+            "2 boxes",
+            "5 boxes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If you walk one mile south, one mile east, one mile north, and one mile west, are you back where you started?",
+        "candidates": [
+            "Yes",
+            "No",
+            "It depends on your starting point",
+            "It depends on your speed"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You are playing a number game where you add twice the previous number each time. The 5th number in the sequence is 81. What are the first five numbers?",
+        "candidates": [
+            "1, 2, 4, 8, 81",
+            "1, 3, 6, 12, 81",
+            "1, 3, 9, 27, 81",
+            "1, 2, 4, 16, 81"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "In a math test, it is known that A is twice B, B is three times C, and C is four times D. What is the value of A?",
+        "candidates": [
+            "1/24 * B",
+            "1/24 * C",
+            "1/24 * D",
+            "1/4 * B"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You are playing a number game where you can either add 2 or subtract 1 from the current number. Starting from 1, how many steps does it take at least to reach the number 7?",
+        "candidates": [
+            "3 steps",
+            "4 steps",
+            "8 steps",
+            "5 steps"
+        ],
+        "answer": 0
+    }
+]

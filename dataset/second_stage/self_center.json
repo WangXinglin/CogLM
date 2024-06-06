@@ -1,0 +1,898 @@
+[
+    {
+        "question": "Despite the endless jokes about lawyers, your friend is currently studying law. What will you do when he is here?",
+        "candidates": [
+            "You always tell lawyer jokes because you think these jokes are great.",
+            "You control yourself and don't tell these jokes."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are good at skiing and want to go skiing for vacation, but your friend doesn't know how to ski and don't want to learn that. How will you arrange your trip?",
+        "candidates": [
+            "Develop a skiing plan and plan a snow themed trip that includes various skiing activities",
+            "Develop a vacation plan that not only include skiing but also other activities"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You like to tell ghost stories around the campfire, but there is a timid girl in the team. What kind of story will you tell on your next camping trip?",
+        "candidates": [
+            "Ghost stories",
+            "adventure or interesting anecdotes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "As long as you remember, your favorite food is chocolate, and your friend is allergic to chocolate. Today you need to prepare a friend's lunch, what would you choose?",
+        "candidates": [
+            "Chocolate cake",
+            "vegetarian burger"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What dishes would you order when you go out for dinner with your sister who is losing weight?",
+        "candidates": [
+            "Braised pork leg in brown sauce in Brown Sauce",
+            "Vegetable Salad"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are a plant enthusiast, and your friend asked you to help take care of her cat. What plants will you put in their house?",
+        "candidates": [
+            "Toxic plants",
+            "safe plants"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "At your birthday party, your favorite music is rock music, but you know your friends like pop music. What type of music can you play?",
+        "candidates": [
+            "Rock music",
+            "pop music"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You enjoy painting and often showcase your works to your friends. Your friend is color blind. How will you showcase your latest artwork to him?",
+        "candidates": [
+            "Display a colorful painting",
+            "verbally explain the colors and composition or display a clearly shaped and contrasting painting."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You enjoy attending lively parties, but your friend has social phobia. Would you invite him to your party?",
+        "candidates": [
+            "Yes",
+            "No"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You and your friend originally planned to go hiking tomorrow, but he told you today that he has severe flu and may not be able to go tomorrow. Would you be angry about this?",
+        "candidates": [
+            "Yes",
+            "No"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "On the amusement park, you are waiting in line while your friend is riding a carousel. How do you think the carousel he saw moves?",
+        "candidates": [
+            "Rotate",
+            "Rest"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If you run to the end of a cave and only see a little sky, and your friend stands at the entrance of the cave, how much sky do you think he can see?",
+        "candidates": [
+            "A little bit",
+            "more"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You and your friends are in line, with a little boy in front of you and your friend behind you. Who is in front of your friend?",
+        "candidates": [
+            "You",
+            "Little boy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If you could see the rain sliding down the window outside, what would you think the friend sitting on the other side without a window saw?",
+        "candidates": [
+            "Scenery of rain sliding",
+            "inside the room"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If you win a baseball game, how would your friends who support the other team feel?",
+        "candidates": [
+            "They will be as happy as you",
+            "they may feel disappointed because the team has lost"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Imagine living in a house where you have a pet cat, but your neighbor is allergic to cats. How should you introduce your pet when your neighbor visits?",
+        "candidates": [
+            "Take the cat to his place to play",
+            "lock it in another room."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You and your friends from the suburbs of your city have made an appointment to play at the sports stadium downstairs. What time do you prefer to choose?",
+        "candidates": [
+            "At 8 am as you are very close here.",
+            "At 9:30 am as friends may need a long drive"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "As a Sichuan native, what kind of dishes would you cook for your Guangdong friend who comes to your home as a guest?",
+        "candidates": [
+            "Authentic Sichuan cuisine",
+            "light and less spicy dishes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "It has been snowing heavily recently and you just bought a pair of gloves. How would you arrange to spend the weekend with your girlfriend who has caught a cold?",
+        "candidates": [
+            "Outdoor snowball fights to showing off her new gloves",
+            "indoor movie nights."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are the team leader for the school project, and you can easily understand the task, but one of your team members is in trouble. What is the best practice?",
+        "candidates": [
+            "Do your own thing",
+            "assuming they will eventually understand.",
+            "Take some time to explain the task until they understand it."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "You were standing near the stage at the concert, while your friend was behind you. Do you have the same views on what happens on stage?",
+        "candidates": [
+            "Yes the exact same viewpoint",
+            "No the viewpoint may be different."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Visiting an amusement park excites you a lot, but your friend gets carsick. What projects would you suggest you play next?",
+        "candidates": [
+            "Roller coaster",
+            "watch themed performances"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Imagine you drew a picture in your favorite red color. When you show it to friends who like blue, how will they react?",
+        "candidates": [
+            "They will like it because red is a great color.",
+            "They may appreciate your efforts but they may not like this color as much as you do."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "The holiday is coming, and you have an appointment with a friend with a leg disability to go out and play. What would you suggest doing？",
+        "candidates": [
+            "Watching movie",
+            "Go hiking"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What should you do if you like loud music but your neighbors don't?",
+        "candidates": [
+            "Turn up your music and enjoy it",
+            "listen to your loud music through headphones."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You have a party at home, but there is an elderly person next door with a bad heart. How would you arrange the music for the party?",
+        "candidates": [
+            "Play rock loudly because the party should be lively",
+            "reduce the volume as not everyone likes noise"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "On a gentle afternoon, when you visit your friend who has a broken leg, what would you ask him to do?",
+        "candidates": [
+            "Playing football",
+            "reading together"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When you go to the signing party for writer Yu Hua, which book would you find him to sign?",
+        "candidates": [
+            "'To Live'",
+            "'Red Sorghum'"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When you're at a friend's house, they all take off their shoes before entering, but you usually don't do this at home. What would you do?",
+        "candidates": [
+            "Put on your shoes because that's what you do at home.",
+            "Take off your shoes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You and a friend in a wheelchair are in the museum. You want to go to the exhibition upstairs, but there is no elevator there. What should you do?",
+        "candidates": [
+            "Suggest going to the exhibition separately",
+            "staying together and finding something else to do"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are a night owl who works efficiently late at night, but your roommate prefers to go to bed early. How do you arrange late night work?",
+        "candidates": [
+            "Continue your late night work as usual",
+            "use headphones and dim lights",
+            "and don't disturb your roommate"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You have now taken a sip of pure water in a milk box, but no one else has. What liquid do others think is in the box when they see it?",
+        "candidates": [
+            "Milk",
+            "purified water"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You are selecting a gift for a friend who likes plants but has difficulty taking care of them due to a busy schedule. What is your gift?",
+        "candidates": [
+            "A high maintenance orchid because you like it.",
+            "The succulents that are juicy and do not require much care"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are selecting a bouquet for a friend who is allergic to pollen at a flower shop. What would you do?",
+        "candidates": [
+            "Choose bright and beautiful flowers",
+            "choose flowers with low pollen content"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You're wearing superhero attire to a makeup ball. Someone asked how they looked in pirate attire. How did you respond?",
+        "candidates": [
+            "Say 'You'll look better as a superhero'.",
+            "Praise their pirate style"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You like to eat vegetarian food, and you are cooking for a friend who likes to eat meat. What can you do?",
+        "candidates": [
+            "Make a vegetarian meal",
+            "Make some foods that are both vegetarian and meat rich"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are the leader of a learning group and enjoy lively discussions on this topic. However, one member of your group is very shy and silent. How will you conduct group learning?",
+        "candidates": [
+            "Continue lively discussions",
+            "encourage quiet participants and ease the discussion"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You find cycling in busy areas exciting, but you ride a bike with a friend who likes less crowded places. Which route should you suggest?",
+        "candidates": [
+            "Cross the busy city streets",
+            "Choose a quiet and scenic route"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You and your friends are having dinner. You like the taste of onions, but your friends don't. Do your friends think the food is as delicious as you imagine?",
+        "candidates": [
+            "Yes because onions make food delicious",
+            "No because they don't like the taste of onions."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You enjoy watching romantic comedies, but you are organizing a movie club meeting for a group that prefers action movies. What genre would you choose for the next movie?",
+        "candidates": [
+            "Romantic Comedy",
+            "Action Film"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You like to play video games late at night, but your brother and sisters have an important exam the next morning. What should you do?",
+        "candidates": [
+            "continue playing.",
+            "Use headphones to avoid any noise interference"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You like to try exotic food, but you are cooking for a picky friend. What are you preparing?",
+        "candidates": [
+            "Exotic cuisine",
+            "simple and familiar dishes"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You enjoy high-intensity training, but you exercise with a beginner friend. How should you plan your daily exercise?",
+        "candidates": [
+            "High intensity training",
+            "suitable for beginners' rhythm training"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You need to pick pizza for lunch. You like extra cheese, but your friend is not lactose tolerant. What pizza should you order?",
+        "candidates": [
+            "Premium cheese pizza",
+            "lactose free or vegan pizza"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You are an expert in strategy games, and your friend is a beginner. What kind of board games would you prepare for the party?",
+        "candidates": [
+            "Strategy game",
+            "a simple and fun game"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "As a car enthusiast, you are planning to travel from Beijing to Xi'an with your car sick brother. What kind of travel method are you planning to adopt?",
+        "candidates": [
+            "Plan long-distance road trips",
+            " Find alternative options such as train travel or closer destinations."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Assuming you have a child in kindergarten at home, where would you choose to put the washed fruit?",
+        "candidates": [
+            "Place the cabinet that can be reached by oneself",
+            "On a lower coffee table that children can reach"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "You like rock climbing, but your friend has acrophobia. What activities should you suggest you go out and play together?",
+        "candidates": [
+            "An activity that does not involve height",
+            "a day of rock climbing"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "You and your desk mate each received a closed cardboard box, and when you opened it, you found a piece of paper inside. At the same time, you find your desk mate struggling to hold his box. What may be inside his box?",
+        "candidates": [
+            "A piece of paper",
+            "a solid metal ball"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "As a national second level track and field athlete, you have convinced a friend who has just started running to join you. Where will you take him for his first run?",
+        "candidates": [
+            "Your regular 10 kilometer off-road run",
+            "a shorter and easier route"
+        ],
+        "answer": 1
+    },
+    {
+		"question": "I like to eat meat, but my friend is a vegetarian. If I have to buy a gift for her, which one would I choose?",
+		"candidates": [
+			"Beef steak.",
+			"Chicken leg.",
+			"Vegetarian recipe.",
+			"Pork tenderloin."
+		],
+		"answer": 2
+	},
+	{
+		"question": "You are fond of video games, but your cousin enjoys outdoor sports. What birthday gift would you give to him?",
+		"candidates": [
+			"Game cartridge.",
+			"Camping tent.",
+			"Barbie.",
+			"High heels."
+		],
+		"answer": 1
+	},
+	{
+		"question": "Your close friend gets sick with vomiting and diarrhea after eating seafood, while you enjoy eating seafood. This time, he is hosting a party at home. What gift would be appropriate to bring?",
+		"candidates": [
+			"Blue crab.",
+			"Shrimp.",
+			"Turkey.",
+			"Salmon."
+		],
+		"answer": 2
+	},
+	{
+		"question": "Your friend doesn't enjoy indoor entertainment activities, but you do. You are planning to go out and play with her tomorrow. Where would be a good place to go?",
+		"candidates": [
+			"Park",
+			"Clothing store.",
+			"Movie theater.",
+			"KTV"
+		],
+		"answer": 0
+	},
+	{
+		"question": "You enjoy drinking coffee, but your friend is a tea enthusiast. If you have to buy a gift for her, which one would you choose?",
+		"candidates": [
+			"A bag of premium coffee beans.",
+			"A can of high-quality tea leaves.",
+			"An exquisite coffee machine.",
+			"A cup of new coffee beverage."
+		],
+		"answer": 1
+	},
+	{
+		"question": "You have a passion for photography, but your cousin is interested in music. What birthday gift would you give to him?",
+		"candidates": [
+			"Digital camera.",
+			"Photography guide.",
+			"Photography art exhibition tickets.",
+			"Concert tickets."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You love eating cream cakes, but your partner follows an extremely healthy diet. On his/her birthday, what kind of cake would you choose?",
+		"candidates": [
+			"Vegetarian and sugar-free cake.",
+			"Cream-heavy chocolate cake.",
+			"Cream and fruit mixed cake.",
+			"Mango and strawberry cake."
+		],
+		"answer": 0
+	},
+	{
+		"question": "You enjoy smoking, but your close friend has hypertension. If you have to choose a gift for her, which one would you choose?",
+		"candidates": [
+			"Pickled canned food.",
+			"Healthy diet recipe book.",
+			"Massage tools.",
+			"Cigarettes."
+		],
+		"answer": 1
+	},
+	{
+		"question": "Your friend is very focused on personal care and beauty, while you don't enjoy spending time and effort on beauty routines. Her birthday is approaching, what kind of gift would you give her?",
+		"candidates": [
+			"Skincare cream.",
+			"Deep-fried potato chips.",
+			"All-natural dishwashing liquid.",
+			"Cooking recipes."
+		],
+		"answer": 0
+	},
+	{
+		"question": "Your partner is very passionate about handicrafts, while you prefer industrial products. If you have to choose a gift for him/her, which one would you choose?",
+		"candidates": [
+			"Handmade artwork.",
+			"Electric guitar.",
+			"Jigsaw puzzle.",
+			"Robotic arm."
+		],
+		"answer": 0
+	},
+	{
+		"question": "You are traveling with a friend by car, and you initially planned to go watch a movie. However, your friend suddenly feels unwell during the journey. What destination would you choose instead?",
+		"candidates": [
+			"Hospital.",
+			"Movie theater.",
+			"Amusement park.",
+			"Billiards hall."
+		],
+		"answer": 0
+	},
+	{
+		"question": "You love cats, but your friend is a dog lover. What gift would you give him on his birthday?",
+		"candidates": [
+			"Pet cat.",
+			"Pet dog.",
+			"Bear.",
+			"Toy truck."
+		],
+		"answer": 1
+	},
+	{
+		"question": "You love animals, but your friend is allergic to animal fur. What destination would you choose when going out together on the weekend?",
+		"candidates": [
+			"Movie theater.",
+			"Zoo.",
+			"Pet salon.",
+			"Cat cafe."
+		],
+		"answer": 0
+	},
+	{
+		"question": "You enjoy playing basketball, tennis and soccer, and as far as you know, your good friend only likes playing soccer. What destination would you choose to spend the weekend together?",
+		"candidates": [
+			"Football field.",
+			"Indoor basketball court.",
+			"Tennis court.",
+			"Billiards hall."
+		],
+		"answer": 0
+	},
+	{
+		"question": "Your friend is suffering from severe obesity, and you enjoy drinking carbonated beverages. Which type of drink would you choose to buy for him?",
+		"candidates": [
+			"Cola.",
+			"Milk tea.",
+			"Fruit juice.",
+			"Sugar-free black coffee."
+		],
+		"answer": 3
+	},
+	{
+		"question": "During your holiday visit to your elders, you learn that they don't like using social media, while you frequently use your phone for internet access. How would you leave something behind to facilitate communication with them?",
+		"candidates": [
+			"Social media account.",
+			"Game account.",
+			"Home phone number.",
+			"Bank account."
+		],
+		"answer": 2
+	},
+	{
+		"question": "Your younger brother has poor dental health, and you enjoy eating sweets. What type of snack would you choose to give him as a gift?",
+		"candidates": [
+			"White spirit.",
+			"Lollipop.",
+			"Cream cookies.",
+			"Natural yogurt."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy watching videos, but your younger brother has poor eyesight. How would you choose your weekend activity accordingly?",
+		"candidates": [
+			"Watching TV.",
+			"Playing mobile games.",
+			"Going to the park.",
+			"Watching a tablet."
+		],
+		"answer": 2
+	},
+	{
+		"question": "Your friend doesn't enjoy eating sweets, but you have a sweet tooth. What type of beverage would you choose for him?",
+		"candidates": [
+			"Milk tea.",
+			"Ice cream.",
+			"Profiteroles.",
+			"Mineral water."
+		],
+		"answer": 3
+	},
+	{
+		"question": "Your boyfriend enjoys playing badminton, while you prefer playing soccer. If you have to buy a gift for him, which one would you choose?",
+		"candidates": [
+			"Football.",
+			"Basketball.",
+			"Tennis racket.",
+			"Badminton racket."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy sports, while your friend is a food enthusiast. What gift would you buy for him on his birthday?",
+		"candidates": [
+			"Running shoes.",
+			"Lobster.",
+			"Sports jerseys.",
+			"Sports underwear."
+		],
+		"answer": 1
+	},
+	{
+		"question": "If your girlfriend enjoys listening to pop music while you prefer classical music, how would you comfort her when she feels down?",
+		"candidates": [
+			"Playing classical music.",
+			"Jazz dancing.",
+			"Telling stories.",
+			"Singing pop songs."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy singing, but your friend is enthusiastic about various outdoor activities. What kind of destination would you choose when traveling with him?",
+		"candidates": [
+			"Movie theater.",
+			"Yoga studio.",
+			"Billiards hall.",
+			"Basketball court."
+		],
+		"answer": 3
+	},
+	{
+		"question": "If you are an adventurous person, but your partner prefers comfort and safety, how would you plan an enjoyable weekend activity?",
+		"candidates": [
+			"Rock climbing.",
+			"Camping.",
+			"Hiking adventure.",
+			"Vacation villa."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy large parties, but your friend doesn't like socializing with strangers. When preparing a birthday party for him, whom would you invite?",
+		"candidates": [
+			"Close friends.",
+			"Alumni.",
+			"Strangers.",
+			"Colleagues."
+		],
+		"answer": 0
+	},
+	{
+		"question": "You enjoy playing video games, while your friend enjoys watching movies. What activities would you consider when spending the weekend together?",
+		"candidates": [
+			"Playing cards.",
+			"Going for a walk in the park.",
+			"Playing video games together.",
+			"Watching a movie."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You and your friends are planning a summer trip, and one of your friends is interested in history and culture, while you enjoy food. Which destination would you choose from the following options?",
+		"candidates": [
+			"Adventure exploration area.",
+			"Food capital.",
+			"Natural scenic spot.",
+			"Historic and cultural city."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You are a mountain enthusiast. Your friend is planning an outing, he likes the seaside. What would you suggest he go?",
+		"candidates": [
+			"Beach vacation.",
+			"Urban exploration.",
+			"Countryside vacation.",
+			"Mountain hiking."
+		],
+		"answer": 0
+	},
+	{
+		"question": "You and your friend are planning to spend a sunny weekend together. One of you enjoys cycling, while you like both fishing and cycling. Which activity would you choose from the following options?",
+		"candidates": [
+			"Fishing.",
+			"Fitness workout.",
+			"Park picnic.",
+			"Mountain biking."
+		],
+		"answer": 3
+	},
+	{
+		"question": "If your family wants to spend a winter vacation together, and you enjoy hot springs while your family members prefer outdoor activities, how would you make a choice?",
+		"candidates": [
+			"Home party.",
+			"Countryside farm.",
+			"Hot springs resort.",
+			"Ski resort."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You and your friends are planning to watch movies on the weekend. You and your friends enjoy watching comedies and suspense films, respectively. What type of movie would you plan to watch?",
+		"candidates": [
+			"Comedies movie",
+			"Suspense movie",
+			"literary movie",
+			"Suspense film with comedy elements"
+		],
+		"answer": 3
+	},
+	{
+		"question": "You have just had a wonderful vacation with your family, while your friend has recently lost a loved one. What would you talk about when you meet?",
+		"candidates": [
+			"Sharing holiday experiences.",
+			"Expressing the cherished value of family bond.",
+			"Talk about a funny incident involving my younger brother during the vacation.",
+			"Express condolences."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You are on your way to the park when an elderly person walking in front of you suddenly slips and falls. What would you do?",
+		"candidates": [
+			"Act as if nothing happened and continue on your way.",
+			"Pause your journey, help the elderly person and take him to the hospital."
+		],
+		"answer": 1
+	},
+	{
+		"question": "It's holiday time, and you are enjoying playing games in your room when distant relatives come to visit. What would you do?",
+		"candidates": [
+			"Pretend you don't know and continue playing games.",
+			"Go out and talk with them, help your parents serve tea and water, and warmly entertain them."
+		],
+		"answer": 1
+	},
+	{
+		"question": "You are sleeping in your dormitory. Suddenly, your roommate starts crying loudly upon learning about the death of a relative. What would you do?",
+		"candidates": [
+			"Pretend you didn't hear, put on earplugs and continue sleeping.",
+			"Scold your roommate and ask him to leave the dormitory.",
+			"Ask your roommate to lower his voice so as not to disturb your sleep.",
+			"Get up to ask your roommate what happened and comfort him."
+		],
+		"answer": 3
+	},
+	{
+		"question": "Your friend pursues a healthy lifestyle, while you have been smoking and drinking for years. If it's his birthday, what gift would you give him?",
+		"candidates": [
+			"liquor",
+			"wine",
+			"Cigarettes",
+			"Tea leaves."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You are planning a trip with your parents, and you enjoy extreme sports while your parents prefer leisure activities. How would you make a choice?",
+		"candidates": [
+			"Mountain climbing.",
+			"Skydiving.",
+			"Bungee jumping.",
+			"Camping."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy eating nuts, but your friend just had their wisdom teeth removed and can't consume hard foods. What gift would you bring when visiting them?",
+		"candidates": [
+			"Cashew.",
+			"Almond.",
+			"Walnut.",
+			"Soft tofu."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy eating spicy food, but your friend has a sensitive stomach and is sensitive to spicy food. How would you go about ordering dishes during a meal together?",
+		"candidates": [
+			"Spicy grilled chicken wings.",
+			"Spicy rabbit head.",
+			"Spicy duck neck.",
+			"Steamed chicken leg."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy tabletop games, while your friend enjoys video games. What gift would you give to your friend?",
+		"candidates": [
+			"Collection of tabletop games.",
+			"Newly released video games.",
+			"Mahjong.",
+			"Playing cards."
+		],
+		"answer": 1
+	},
+	{
+		"question": "You and your significant other are celebrating your anniversary, and you enjoy drawing while your partner enjoys playing games. What gift would you give for your anniversary?",
+		"candidates": [
+			"A collection of famous paintings.",
+			"Portable music player.",
+			"Watch.",
+			"Game controller."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy consuming health supplements, while your friend enjoys fried food. How would you choose a gift for them?",
+		"candidates": [
+			"Fish liver oil.",
+			"Sea cucumber.",
+			"Protein powder.",
+			"Fried chicken."
+		],
+		"answer": 3
+	},
+	{
+		"question": "Your friend pays great attention to hair care, while you focus more on facial care. How would you choose a gift for them?",
+		"candidates": [
+			"Bucket hat.",
+			"Facial cleanser.",
+			"Jeans.",
+			"Hair care products."
+		],
+		"answer": 3
+	},
+	{
+		"question": "Now that it's winter, you feel that the indoor temperature is too high, but your roommate finds it comfortably cool. How would you choose to address this situation?",
+		"candidates": [
+			"Open the window.",
+			"Turn on the air conditioning for cooling.",
+			"Turn on the indoor fan.",
+			"Use a handheld fan."
+		],
+		"answer": 3
+	},
+	{
+		"question": "You enjoy electronic music, while your friend prefers folk music. When celebrating his success, how would you decide on the destination for your outing?",
+		"candidates": [
+			"Electronic music festival",
+			"Rock music festival",
+			"hip-hop music festival",
+			"folk music festival"
+		],
+		"answer": 3
+	},
+	{
+		"question": "After the exam, you scored high in mathematics, while your classmate didn't do well but has always excelled in English. What subject would you ask about their grades in?",
+		"candidates": [
+			"Mathematics",
+			"English",
+			"Physics",
+			"Chemistry"
+		],
+		"answer": 1
+	},
+	{
+		"question": "You are enjoying your video game when your roommate starts feeling discomfort in his heart. What would you do?",
+		"candidates": [
+			"Stop playing the game and take your roommate to the hospital immediately.",
+			"Continue playing the game and let your roommate take a taxi to the hospital by himself.",
+			"Ask your roommate to wait for 10 minutes until you finish the current round of the game.",
+			"Pretend to have a sudden emergency and leave, letting your roommate figure out a solution on his own."
+		],
+		"answer": 0
+	},
+	{
+		"question": "You love drinking cola, but your friend is currently trying to lose weight. What beverage would you buy for them?",
+		"candidates": [
+			"Mentholated spirits.",
+			"Mineral water",
+			"cola",
+			"yogurt"
+		],
+		"answer": 1
+	},
+	{
+		"question": "It's summer, and you feel that the room is a bit hot, while your roommate is currently running a fever. Will you turn on the air conditioner to lower the room temperature?",
+		"candidates": [
+			"Yes",
+			"No"
+		],
+		"answer": 1
+	},
+	{
+		"question": "The place you want to go to has a long queue forming, and you want to enter as quickly as possible. Which position in the queue would you choose to stand in?",
+		"candidates": [
+			"Standing at the front of the queue.",
+			"Standing at the back of the queue.",
+			"Standing on the left side.",
+			"Standing in the middle."
+		],
+		"answer": 1
+	}
+]

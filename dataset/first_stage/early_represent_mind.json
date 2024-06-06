@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "How would you describe a soccer ball?",
+        "candidates": [
+            "Round",
+            "Huge",
+            "Sad",
+            "Insignificant"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following items matches the description: high temperature, spherical?",
+        "candidates": [
+            "Soccer ball",
+            "Flower",
+            "Orange",
+            "Sun"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When you see a child bouncing and singing on their way home from school, what do you think their mood is?",
+        "candidates": [
+            "Anxious",
+            "Calm",
+            "Happy",
+            "Afraid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose a shape that is a triangle:",
+        "candidates": [
+            "Apple",
+            "Sandwich",
+            "Fish",
+            "Triangle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which description is most relevant to a dog?",
+        "candidates": [
+            "Red",
+            "Fast",
+            "Four-legged",
+            "Happy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select an option that is the color yellow:",
+        "candidates": [
+            "Grass",
+            "Sky",
+            "Sunflower",
+            "Tree"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which object is typically used for writing?",
+        "candidates": [
+            "Bird",
+            "Tree",
+            "Pen",
+            "Elephant"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If you see a child laughing and dancing, what do you think their mood is?",
+        "candidates": [
+            "Angry",
+            "Afraid",
+            "Happy",
+            "Sad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How would you describe the moon?",
+        "candidates": [
+            "Blue",
+            "Round",
+            "Pointed",
+            "Red"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following items typically has bristles and is used for cleaning teeth?",
+        "candidates": [
+            "Telephone",
+            "Television",
+            "Toothbrush",
+            "Bicycle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a child crying while hugging a teddy bear, what do you think their mood is?",
+        "candidates": [
+            "Bored",
+            "Angry",
+            "Sad",
+            "Afraid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose a shape that is circular:",
+        "candidates": [
+            "Ball",
+            "Star",
+            "Cube",
+            "Leaf"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which object is typically used for eating?",
+        "candidates": [
+            "Shoe",
+            "Chair",
+            "Chopsticks",
+            "Fan"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How would you describe the color of snow?",
+        "candidates": [
+            "Red",
+            "Green",
+            "White",
+            "Yellow"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following items matches the description: used for riding, typically has two wheels?",
+        "candidates": [
+            "Comb",
+            "Bicycle",
+            "Book",
+            "Car"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When you see a child drawing and smiling, what do you think their mood is?",
+        "candidates": [
+            "Angry",
+            "Nervous",
+            "Sad",
+            "Happy"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Select a shape that is square:",
+        "candidates": [
+            "Flower",
+            "Apple",
+            "Banana",
+            "Book"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items is typically used for telling time?",
+        "candidates": [
+            "Flower",
+            "Television",
+            "Watch",
+            "Shoe"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How would you describe the color of the sun?",
+        "candidates": [
+            "Blue",
+            "Yellow",
+            "Green",
+            "White"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following items matches the description: used for flying, typically has wings?",
+        "candidates": [
+            "Car",
+            "Airplane",
+            "Bicycle",
+            "Television"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When you see a child dancing to music, what do you think their mood is?",
+        "candidates": [
+            "Bored",
+            "Anxious",
+            "Happy",
+            "Afraid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select a shape that is heart-shaped:",
+        "candidates": [
+            "Sun",
+            "Tree",
+            "Book",
+            "Heart"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items is typically used for flying?",
+        "candidates": [
+            "Fish",
+            "Bird",
+            "Fishing rod",
+            "Train"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "How would you describe the color of fire?",
+        "candidates": [
+            "purple",
+            "Yellow",
+            "black",
+            "Green"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following items matches the description: used for watching movies, typically has a screen and sound?",
+        "candidates": [
+            "Television",
+            "Ice cream",
+            "Chair",
+            "Book"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When you see a child fall down and start crying, what do you think their mood is?",
+        "candidates": [
+            "Happy",
+            "Joyful",
+            "Sad",
+            "Angry"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select an option that is the color orange:",
+        "candidates": [
+            "Cloud",
+            "Grass",
+            "Train",
+            "Orange"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items is typically used for shaving?",
+        "candidates": [
+            "Toothbrush",
+            "Television",
+            "Computer",
+            "Razor"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How would you describe the color of grass?",
+        "candidates": [
+            "Blue",
+            "Green",
+            "Red",
+            "Purple"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following items matches the description: used for sleeping, soft?",
+        "candidates": [
+            "Desk lamp",
+            "Chair",
+            "Bed",
+            "Television"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a child sitting alone and looking downcast, what do you think their mood is?",
+        "candidates": [
+            "Surprised",
+            "Calm",
+            "Sad",
+            "Nervous"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select a shape that is star-shaped:",
+        "candidates": [
+            "Fish",
+            "Moon",
+            "Star",
+            "Flower"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following items is typically used for shading from the sun?",
+        "candidates": [
+            "Umbrella",
+            "Ice cream",
+            "Television",
+            "Book"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "How would you describe the color of the ocean water?",
+        "candidates": [
+            "Blue",
+            "Yellow",
+            "Green",
+            "Purple"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following items matches the description: used for eating, often with a knife and fork?",
+        "candidates": [
+            "Chair",
+            "Airplane",
+            "Plate",
+            "Television"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a child dancing to music, what do you think their mood is?",
+        "candidates": [
+            "Bored",
+            "Angry",
+            "Happy",
+            "Afraid"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select a shape that is rectangular:",
+        "candidates": [
+            "Flower",
+            "Apple",
+            "Banana",
+            "Book"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items is typically used for telling time?",
+        "candidates": [
+            "Flower",
+            "Television",
+            "Wristwatch",
+            "Shoe"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "How would you describe the color of the sky?",
+        "candidates": [
+            "Blue",
+            "Yellow",
+            "Red",
+            "Green"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following items matches the description: used for driving, typically has four wheels?",
+        "candidates": [
+            "Comb",
+            "Bicycle",
+            "Book",
+            "Car"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When you see a child playing happily on the playground, what do you think their mood is?",
+        "candidates": [
+            "Angry",
+            "Afraid",
+            "Happy",
+            "Sad"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select a shape that is oval:",
+        "candidates": [
+            "Moon",
+            "Star",
+            "Flower",
+            "Egg"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items is typically used for washing dishes?",
+        "candidates": [
+            "Faucet",
+            "Television",
+            "Computer",
+            "Dish brush"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "How would you describe the color of the sky?",
+        "candidates": [
+            "Blue",
+            "Yellow",
+            "Red",
+            "Green"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following items matches the description: being able to fly, typically has feathers?",
+        "candidates": [
+            "Car",
+            "Airplane",
+            "Bicycle",
+            "Bird"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When you see a child quietly reading a book, what do you think their mood is?",
+        "candidates": [
+            "Happy",
+            "Anxious",
+            "Sad",
+            "Bored"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following items matches the description: used for flying, typically has wings?",
+        "candidates": [
+            "Bicycle",
+            "Airplane",
+            "Television",
+            "Basketball"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When you see a child holding a toy doll and smiling, what do you think their mood is?",
+        "candidates": [
+            "Afraid",
+            "Angry",
+            "Happy",
+            "Surprised"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select a shape that is trapezoidal:",
+        "candidates": [
+            "Circular",
+            "Square",
+            "Rectangular",
+            "Trapezoid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items is typically used for swimming?",
+        "candidates": [
+            "Airplane",
+            "Bird",
+            "Bicycle",
+            "Swim ring"
+        ],
+        "answer": 3
+    },
+        {
+        "question": "Choose a geometric shape that has four equal sides and four right angles:",
+        "candidates": [
+            "Circle",
+            "Square",
+            "Triangle",
+            "Rectangle"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Select a shape that is heart-shaped:",
+        "candidates": [
+            "Circle",
+            "Square",
+            "Triangle",
+            "Heart"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Select a shape that resembles a crescent:",
+        "candidates": [
+            "Moon",
+            "Star",
+            "Flower",
+            "Banana"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following items is typically used for flying?",
+        "candidates": [
+            "Car",
+            "Airplane",
+            "Boat",
+            "Train"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "When you see a child happily playing in a park, what do you think his mood is?",
+        "candidates": [
+            "Joyful",
+            "Anxious",
+            "Sad",
+            "Bored"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Select a shape that is triangular:",
+        "candidates": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Rectangle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose a shape that is hexagonal:",
+        "candidates": [
+            "Star",
+            "Triangle",
+            "Circle",
+            "Hexagon"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of these objects is typically found underwater?",
+        "candidates": [
+            "Submarine",
+            "seagull",
+            "Sailboat",
+            "Car"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When you see a rainbow after a rain shower, what do you think of it?",
+        "candidates": [
+            "Colorful phenomenon",
+            "Giant candy",
+            "Small bridge",
+            "Reflection of dream"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What do you associate with the smell of freshly baked cookies?",
+        "candidates": [
+            "Deliciousness",
+            "Sadness",
+            "Anger",
+            "Fear"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Choose a color that is often associated with love and passion:",
+        "candidates": [
+            "Blue",
+            "Green",
+            "Yellow",
+            "Red"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When you see a snowflake falling from the sky, what do you think it looks like?",
+        "candidates": [
+            "A delicate crystal",
+            "A big rock",
+            "A yellow sun",
+            "A red apple"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which color makes people feel oppressive?",
+        "candidates": [
+            "Blue",
+            "Black",
+            "Yellow",
+            "Red"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Select an animal that is known for hibernating during the winter:",
+        "candidates": [
+            "Penguin",
+            "Squirrel",
+            "Bear",
+            "Giraffe"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you hear the sound of thunder, what do you think is happening?",
+        "candidates": [
+            "Someone is clapping",
+            "The sky is talking",
+            "A storm is coming",
+            "Birds are singing"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What do you associate with the smell of a blooming flower?",
+        "candidates": [
+            "Fragrance",
+            "Spiciness",
+            "Saltiness",
+            "Sourness"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Choose a musical instrument that is played with a bow:",
+        "candidates": [
+            "Piano",
+            "Violin",
+            "Drums",
+            "Trumpet"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is usually associated with nighttime?",
+        "candidates": [
+            "Moon",
+            "Sun",
+            "Rain",
+            "Wind"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Select a beverage that is typically served hot:",
+        "candidates": [
+            "Iced tea",
+            "Lemonade",
+            "Coffee",
+            "Soda"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose a season that is characterized by falling leaves and cooler temperatures:",
+        "candidates": [
+            "Spring",
+            "Summer",
+            "Autumn",
+            "Winter"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a kitten playing with a ball of yarn, what do you think it's doing?",
+        "candidates": [
+            "Reading a book",
+            "Watching TV",
+            "Playing",
+            "Sleeping"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a group of birds flying in the sky, what do you think of?",
+        "candidates": [
+            "Freedom",
+            "Concert",
+            "Airshow",
+            "Plane tickets"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Choose a mode of transportation that is typically found in the water:",
+        "candidates": [
+            "Car",
+            "Bicycle",
+            "Boat",
+            "Motorcycle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a bee buzzing around flowers, what is it most likely doing?",
+        "candidates": [
+            "Singing a song",
+            "Building a nest",
+            "Collecting nectar",
+            "Reading a newspaper"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What do you associate with the smell of freshly cut grass?",
+        "candidates": [
+            "Cleanliness",
+            "Sweetness",
+            "Sourness",
+            "Bitterness"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Select a shape that has three sides:",
+        "candidates": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Rectangle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose an animal that is known for its long neck:",
+        "candidates": [
+            "Elephant",
+            "Giraffe",
+            "Lion",
+            "Tiger"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is commonly used to send letters and packages?",
+        "candidates": [
+            "Bicycle",
+            "Airplane",
+            "Mailbox",
+            "Train"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a squirrel gathering nuts for the winter, what do you think it's preparing for?",
+        "candidates": [
+            "A summer picnic",
+            "A birthday party",
+            "A winter hibernation",
+            "A dance competition"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What do you think of when you see a lighthouse on the coast?",
+        "candidates": [
+            "A tall building",
+            "A library",
+            "A signal for ships",
+            "A restaurant"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose a fruit that is typically red and heart-shaped:",
+        "candidates": [
+            "Banana",
+            "Apple",
+            "Grape",
+            "Strawberry"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "When you hear the sound of waves on the beach, what do you feel?",
+        "candidates": [
+            "Peacefulness",
+            "Hunger",
+            "Angry",
+            "Confusion"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Select an object that is used for taking photographs:",
+        "candidates": [
+            "Shovel",
+            "Spoon",
+            "Camera",
+            "Bicycle"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose a musical instrument that is played by striking keys:",
+        "candidates": [
+            "Flute",
+            "Guitar",
+            "Piano",
+            "Trumpet"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is commonly used to navigate the seas?",
+        "candidates": [
+            "paddle",
+            "Compass",
+            "Clothes",
+            "Microscope"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What do you associate with the smell of a campfire in the woods?",
+        "candidates": [
+            "Relaxation",
+            "Adventure",
+            "Frustration",
+            "Confusion"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Select a planet in our solar system known for its beautiful rings:",
+        "candidates": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Choose a bird that is known for its colorful plumage and the ability to mimic sounds:",
+        "candidates": [
+            "Penguin",
+            "Eagle",
+            "Parrot",
+            "Ostrich"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is a common tool used for gardening?",
+        "candidates": [
+            "Bicycle",
+            "Laptop",
+            "Shovel",
+            "Television"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a spider weaving a web, what do you think it's creating?",
+        "candidates": [
+            "A sandwich",
+            "A blanket",
+            "A sink",
+            "A book"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What do you associate with the smell of a blooming rose?",
+        "candidates": [
+            "Romance",
+            "Comedy",
+            "Drama",
+            "Science fiction"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Choose a mode of transportation that can travel on rails:",
+        "candidates": [
+            "Car",
+            "Bicycle",
+            "Train",
+            "Helicopter"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a chef in a restaurant kitchen, what do you think they are doing?",
+        "candidates": [
+            "Reading a novel",
+            "Painting a picture",
+            "Cooking a meal",
+            "Watching a movie"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Select a fruit that is often used to make juice:",
+        "candidates": [
+            "Pear",
+            "Pineapple",
+            "Banana",
+            "Orange"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Select a type of weather associated with heavy rainfall:",
+        "candidates": [
+            "Sunny",
+            "Cloudy",
+            "Rainy",
+            "Windy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Choose a musical instrument that is played by blowing into it:",
+        "candidates": [
+            "Guitar",
+            "Flute",
+            "Piano",
+            "Drums"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a common tool used for woodworking?",
+        "candidates": [
+            "Screwdriver",
+            "Hammer",
+            "Saw",
+            "Calculator"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "When you see a cat chasing its tail, what do you think it's doing?",
+        "candidates": [
+            "Solving a puzzle",
+            "Exercising",
+            "Grooming itself",
+            "Writing a letter"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What do you associate with the smell of freshly brewed coffee?",
+        "candidates": [
+            "Alertness",
+            "Peaceful",
+            "Annoyance",
+            "Indifference"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Select a planet in our solar system known for its brilliant blue color:",
+        "candidates": [
+            "Mars",
+            "Venus",
+            "Earth",
+            "Saturn"
+        ],
+        "answer": 2
+    }
+]

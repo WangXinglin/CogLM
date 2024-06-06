@@ -1,0 +1,902 @@
+[
+	{
+		"question": "Context:sentence1: well i i'm doing computer science computer engineering\t sentence2: I switched my major last semester.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: [Requires free registration.\t sentence2: Registration is only one of the requirements. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Never know where they won't turn up next. \t sentence2: Everyone knows where they will turn up next.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Fixing current levels of damage would be impossible.\t sentence2: Fixing the damage could never be done.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1:  It was utterly mad.\t sentence2: It was perfectly normal.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: The sacred is not mysterious to her.\t sentence2: The woman does not know anything sacred.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: i don't know no i don't\t sentence2: Yes, I am well informed about that.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Under Ferdinand and Isabella, Spain underwent a dramatic transformation.\t sentence2: Ferdinand started his transformation by emancipating the peasant class.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: hi Cynthia what did you wear to work today\t sentence2: You did not go to work today. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: and take it easy now good night\t sentence2: Goodnight, and take care.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: It's come back? cried Julius excitedly.\t sentence2: They were excited to hear it will come back.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: Three more days went by in dreary inaction.\t sentence2: The next three days were packed with action.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Or just a philosophy of any weapon to hand?\t sentence2: They don't allow any weapon.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Treasure Beach (South Coast)\t sentence2: Treasure Beach is on the North  Coast.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: 'You should do the fixing.'\t sentence2: I'll take care of fixing this.. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Took forever.\t sentence2: Lasted two years\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Good sir, Jon began.\t sentence2: Jon stayed silent.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: The DO concentration must not fall below\t sentence2: The DO concentration is irrelevant.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Nothing prior to May 7, 1915.\t sentence2: Not a thing before May 7, 1915.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: that's their signal\t sentence2: That's their sign.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: He walked out into the street and I followed.\t sentence2: I watched him go but didn't follow.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Trial of Galileo\t sentence2: Galileo's Trial\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: Cases in Comparative\t sentence2: Cases care not related to law.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: This one ended up being surprisingly easy!\t sentence2: This question was very easy to answer. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: We briefly discussed the Nazi angle\t sentence2: We talked about the Nazi angle.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1:  Jon sat down on the ground cross legged.\t sentence2: Jon was standing on the ground.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: I see, said Tuppence thoughtfully.\t sentence2: I can't comprehend it, said Tuppence fitfully.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Because the paper did not say that.\t sentence2: The paper did not state as much.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: The pieces paying 33.\t sentence2: More than 30 pieces paying.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: HE KNOWS ABOUT THE MINES.\t sentence2: He has no idea that the mines exist. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: They were quite, tetanic in character.\"\t sentence2: They were tense in how they acted.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: To be sure, not all auctions are rip-offs.\t sentence2: Every single auction is a rip-off.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: we're thinking about putting one of those in\t sentence2: We are considering taking one those out.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: him?\" she asked.\t sentence2: She asked about him.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: And here, current history adds a major point.\t sentence2: Current American history adds a major point.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: In short, most of the whale is incompressible.\t sentence2: Every part of a whale is compressable.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: The truth?\t sentence2: Is that true?\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: But Fish is not an upbeat pragmatist.\t sentence2: Fish is the nickname of a human. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Occasionally, he'd wince and apologise for any incoherence.\t sentence2: He winced and apologized for any confusing speech, sometimes.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: oh for heaven sakes for the drugs yeah uh-huh\t sentence2: I don't really believe that.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Among runners-up is Boston solo Eleanor Newhoff.\t sentence2: Eleanor Newhoff was one of the runners-up.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: appropriate agency representatives, help resolve\t sentence2: the right agency employees, help fix\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: And Alan Tonelson, of the U.S.\t sentence2: Alan Tonelson has never once been to the U.S.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: and maybe we'll run across each other again\t sentence2: Perhaps we will cross paths in the future.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: They did this to us.\t sentence2: The practical joke was played on them.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Answer? said Julius.\t sentence2: Julius asked for an answer.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: It's mighty lucky you did say it.\t sentence2: I don't know why you said it.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: You'll even be able to consult a traditional herbalist to cure your ailments.\t sentence2: You will not be allowed to consult with traditional herbalists.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+  		"question": "Context:sentence1: i don't know what kind of a summer we're expecting this year i imagine it's going to be hot again\t sentence2: I work in the weather station, so I know all about the predictions for the weather this summer.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+  		"candidates": [
+   			"entailment",
+   			"neutral",
+   			"contradiction"
+  		],
+  		"answer": 2
+ 	},
+	{
+  		"question": "Context:sentence1: Economic growth also depends on education to enhance the knowledge and skills of the nation's work\t sentence2: Economic growth has been increase quickly in recent years as knowledge is being spread faster and more efficiently.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+  		"candidates": [
+   			"entailment",
+   			"neutral",
+	  		"contradiction"
+  		],
+  		"answer": 1
+ 	},
+	{
+		"question": "Context:sentence1: He reported masterfully on the '72 campaign and the Hell's Angels.\t sentence2: He did an extraordinarily bad job reporting on the Hell's Angels.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: I was deeply impressed by the power and eloquence of the counsel for the defence.\t sentence2: The counsel for his defence did not impress me in any way.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: The cold air and the abundance of water gave them all good cheer that eve.\t sentence2: They were all sick and tired from the heat and a lack of water. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Other examples of cumulative case studies come from two international agencies.\t sentence2: There are examples given by UNICEF and Doctors without Borders.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Decline in total expenditure (income) elasticity of demand from 0.36 to 0.25 over same period.\t sentence2: Economists suggest that this change is minor and therefore not noteworthy.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+  		"question": "Context:sentence1: What's more, there is no evidence of any competitive evaluation of Tripp before she was offered this job.\t sentence2: There is increasing evidence that the board brought in experts to evaluate Tripp prior to making an offer. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+  		"candidates": [
+   			"entailment",
+			"neutral",
+			"contradiction"
+  		],
+  		"answer": 2
+ 	},
+	{
+		"question": "Context:sentence1: For ideological free-marketeers (like myself), theories like Smith and Wright's can be intellectually jarring.\t sentence2: I can appreciate their position even if it does contradict my opinions. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: The management of the cafe has established the rules for the use of their facility.\t sentence2: The management of the cafe enforces a strict dress code.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: His ruthless campaigns resulted in more than 600,000 Irish dead or deported.\t sentence2: 600,000 Irish died or were deported due to his ruthless campaigns. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: This popular show spawned the aquatic show at the Bellagio.\t sentence2: Bellagio's water display is now just as well liked as this popular show.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: His plan was to drive straight up to the house.\t sentence2: Driving directly to the house was no longer an option with the roadblock.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: She would be almost certainly sent to you under an assumed one.\t sentence2: The person told the other person that she would be sent to them.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: Cabourg is the most stately of the old Channel resorts.\t sentence2: Cabourg is the least stately of the old Channel resorts.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: I take it Americans have a higher opinion of morality than you have even.\t sentence2: Morality is of high value to everyone no matter who they are.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: There's nobody telling that landlord to fix the property, Simmons said. \t sentence2: The property suffered from a leaking roof and substandard plumbing.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: In fact, the Lions of Delos were made from Naxos marble.\t sentence2: There are five Lions of Delos, and also two Tigers of Delos.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: In both Britain and America, the term covers nearly everybody.\t sentence2: In both Britain and America the term covers almost everyone.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: Had we had more money we would have facilitated more conferences.\t sentence2: The reason we did not have more conferences was not a money issue.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: The Office of Information and Regulatory Affairs of OMB approved the\t sentence2: The motion was quickly approve because everyone thought it was amazing.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: right and uh there's usually nobody running against you know the incumbents\t sentence2: The incumbents are running completely unopposed by any other candidate.  \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: This guide will introduce you to many, but not all, of the popular Aegean Islands.\t sentence2: There are some popular Aegean islands that are not introduced in the guide.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: yeah i've i wish they'd split that bowling season up into uh three seasons\t sentence2: I am happy with the bowling season schedule as is.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: Even after we hire good people, we need to take steps to retain them.\t sentence2: It's necessary to do what's needed to retain good people even after they get hired.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: We can leave them and let them die, said Thorn.\t sentence2: Thorn told us we could leave them to die. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: This is especially true on Menorca, where cold winter winds limit the season's length.\t sentence2: This is especially untrue on Menorca, where warm summer weather extends the season's length.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: The final reason for the teen renaissance is boomer self-obsession.\t sentence2: Boomer self-obsession is one of the reasons for teen renaissance.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: Using teams can also assist in integrating different perspectives, flattening organizational structure, and streamlining operations.\t sentence2: Streamlining operations is one of the areas in which the teams can assist.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: We will also need any able bodied men to help us spike the river.\t sentence2: We will need disabled men to help us spike the river.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: The last 12 years of his life are a blank.\t sentence2: He can't remember the last 12 years of his life\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: findings, the Administrator has determined that an environmental impact statement need not be prepared.\t sentence2: The Administrator believes a environmental impact statement should be prepared.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Context:sentence1: His mother died when he was young, and he was adopted by the Brodkeys.\t sentence2: He changed his name to Brodkey when he was adopted.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: But there's John \u201dand Miss Howard, surely they were speaking the truth?\"\t sentence2: I know them so well and am sure they are being truthful.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: yep because it's when it's self propelled it's heavy yeah\t sentence2: it's heavy when it's self propelled, in case you were wondering\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: It takes a deeper fire than most salamanders can stir, Ser Perth.\t sentence2: The fire would be more than Ser Perth had ever stirred.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: On the Use of Generalized Additive Models in Time-Series Studies of Air Pollution and Health.\t sentence2: A series of studies on pollution and it's effects. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: For more than a year, Clinton's surrogates have been calling Starr an out-of-control prosecutor.\t sentence2: Clinton's supporters are stating that Starr is out of line.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: General Accounting Office, A Model of Strategic Human Capital Management, GAO-02-373SP (Washington, D.C.: Mar.\t sentence2: The GAO may be a model of strategic human capital management.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: You will need-all of you will need-to be highly visible personally and professionally.\t sentence2: There is a need for everyone to be personally and professionally visible.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Context:sentence1: Summer boasts long, warm days with hazy views.\t sentence2: Be sure to keep a shade umbrella with you during the Summer.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: and these comments were considered in formulating the interim rules.\t sentence2: The interim rules were put together in a manner that satisfied everyone as a result.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: The good news, however, can be found in reports like this one.\t sentence2: The good news is that the puppy's life was able to be saved. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: All-inclusive units are in villas and a great house in tropical setting overlooking Caribbean.\t sentence2: The all-inclusive units are considered villas and each have a kitchen as well.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: This was the saturation and 125-piece walk sequence Enhanced Carrier Route mail volume in 1996.\t sentence2: The 125 piece walk sequence was too small for optimal efficiency.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Also, the Holy Family are said to have sheltered here on their return from Egypt.\t sentence2: The Holy family spent a total of three days here.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: The final aim of screening must be improved outcomes through referral and counseling.\t sentence2: Screening needs to make sure all alcoholics get into treatment.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: But I've seen five other bodies come down like this.\t sentence2: It is unacceptable the way these bodies are coming down.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: The last thing we want is any more attention or any more bounty hunters.\t sentence2: They thought than more attention would make it harder to hide. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: 'I don't suppose you could forget I ever said that?'\t sentence2: Would you please forget that I threatened to kill your mom?\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Nowadays it is bordered by ancient columns and lined with expensive shops.\t sentence2: The shops have only been around for the last fifty years.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Context:sentence1: Inflation is supposed to be a deadly poison, not a useful medicine.\t sentence2: Inflation is meant to be something that harms, not something that heals.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+		"candidates": [
+			"entailment",
+			"neutral",
+			"contradiction"
+		],
+		"answer": 0
+	}
+]

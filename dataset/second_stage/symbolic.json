@@ -1,0 +1,998 @@
+[
+    {
+        "question": "Which item is more similar to a computer?",
+        "candidates": [
+            "Phone",
+            "Cat",
+            "Cup",
+            "Bag"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is more similar to a rocket?",
+        "candidates": [
+            "Phone",
+            "Piano",
+            "Duck",
+            "Horse and Carriage"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which item is more similar to a car?",
+        "candidates": [
+            "Train",
+            "Smartphone",
+            "Beverage",
+            "Tissue"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What is closer to water?",
+        "candidates": [
+            "Cat",
+            "Stand",
+            "Villa",
+            "Cloud"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What item would you use to represent the sun?",
+        "candidates": [
+            "Basketball",
+            "Umbrella",
+            "Computer",
+            "Palm"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What item would you use to represent music?",
+        "candidates": [
+            "Umbrella",
+            "Orange",
+            "Guitar",
+            "Coffee cup"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What item would you use to represent rainy weather?",
+        "candidates": [
+            "Coffee cup",
+            "Umbrella",
+            "Toy airplane",
+            "Laptop"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What item would you use to represent knowledge?",
+        "candidates": [
+            "Library",
+            "Coffee cup",
+            "Firecracker",
+            "Soccer ball"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What item would you use to represent love?",
+        "candidates": [
+            "Rose",
+            "Mirror",
+            "Gloves",
+            "Coffee cup"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What item would you use to represent trees?",
+        "candidates": [
+            "Wood",
+            "Television",
+            "Pencil",
+            "Knife"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What common characteristic do you think exists between an incandescent light bulb and the sun?",
+        "candidates": [
+            "Color",
+            "Shape",
+            "Size",
+            "Ability to emit light"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What common characteristic do you think exists between the beginning and the end?",
+        "candidates": [
+            "Shape",
+            "Color",
+            "Positions",
+            "Size"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What common characteristic do you think exists between a candle and an electric lamp?",
+        "candidates": [
+            "Shape",
+            "Color",
+            "Material",
+            "Purpose"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "What common characteristic do you think exists between wood and alcohol?",
+        "candidates": [
+            "Form",
+            "Color",
+            "Flammable",
+            "Volatility"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "What common characteristic do you think exists between an apple and a heart?",
+        "candidates": [
+            "Whether it is a fruit",
+            "Whether it is an organ",
+            "Whether it is red",
+            "Whether it beats"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Please classify the following items into two categories: elephant, monkey, cat, whale, rabbit. What is the basis for classification?",
+        "candidates": [
+            "Color",
+            "Size",
+            "Form",
+            "Material"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Please classify the following items into two categories:orange, paper, wood, banana, apple. What is the basis for classification?",
+        "candidates": [
+            "Color",
+            "Shape",
+            "Length",
+            "Material"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Please classify the following animals into two categories: lion, tiger, giraffe, zebra, elephant, penguin. What is the most suitable basis for classification?",
+        "candidates": [
+            "Habitat",
+            "Size",
+            "Color",
+            "Whether they are carnivores"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Please classify the following holidays into two categories: Christmas, Thanksgiving, Valentine's Day, Halloween, Mother's Day, April Fool's Day. What is a more appropriate basis for classification?",
+        "candidates": [
+            "Whether they are related to friends",
+            "Whether they are public holidays",
+            "Whether they are related to seasons",
+            "Whether they are related to religion"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Please classify the following foods into two categories: pizza, sushi, hamburger, salad, fried chicken, ice cream. What is a more appropriate basis for classification?",
+        "candidates": [
+            "Eating utensils",
+            "Cuisine",
+            "Price",
+            "Color"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Please classify the following fruits into two categories: apple, banana, watermelon, pumpkin, orange, strawberry. What is a more appropriate basis for classification?",
+        "candidates": [
+            "Color",
+            "Shape",
+            "Presence of seeds",
+            "Whether they are autumn fruits"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Please classify the following items into two categories: dog, cat, pencil, tissue, elephant, tail. What is a more appropriate basis for classification?",
+        "candidates": [
+            "Whether they are animals",
+            "Whether they are pets",
+            "Color",
+            "Size"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Please classify the following items into two categories: peanuts, ears, backpack, sandwich, apartment, mashed potatoes. What is a more appropriate basis for classification?",
+        "candidates": [
+            "Color",
+            "Size",
+            "Whether it is food",
+            "Price"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Please classify the following items into two categories: hat, boots, phone, scarf, gloves, notebook. What is a more appropriate basis for classification?",
+        "candidates": [
+            "Color",
+            "Size",
+            "Whether they are worn in winter",
+            "Whether they can be eaten"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item is the most suitable to represent teamwork and collaboration?",
+        "candidates": [
+            "Gloves",
+            "Hammer",
+            "Jigsaw puzzle",
+            "Piano"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which mode of transportation best represents speed and excitement?",
+        "candidates": [
+            "Bicycle",
+            "Horse-drawn carriage",
+            "Electric vehicle",
+            "Motorcycle"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If you were to symbolize speed and agility with an animal, which one would be the most suitable?",
+        "candidates": [
+            "Cheetah",
+            "Turtle",
+            "Elephant",
+            "Snail"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If you were to symbolize strength and stability with a building, which one would be the most suitable?",
+        "candidates": [
+            "Leaning Tower of Pisa",
+            "Palace of Versailles",
+            "Golden Gate Bridge",
+            "Pyramid"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If you were to choose a song to symbolize courage and determination, which one would you select?",
+        "candidates": [
+            "\"Let It Go\" (from \"Frozen\")",
+            "\"Happy\" (by Pharrell Williams)",
+            "\"Shape of You\" (by Ed Sheeran)",
+            "\"Smooth Operator\" (by Sade)"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Among the following historical events, which one is less similar to the others?",
+        "candidates": [
+            "American Revolutionary War",
+            "French Revolution",
+            "Moon landing",
+            "World War I"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which color is most associated with a Chinese wedding?",
+        "candidates": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is most related to the brain?",
+        "candidates": [
+            "Cake",
+            "Gloves",
+            "Books",
+            "Garden"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item is more similar to an elephant?",
+        "candidates": [
+            "Ant",
+            "Hippopotamus",
+            "Tree",
+            "Flower"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which item is more related to peace?",
+        "candidates": [
+            "Knife",
+            "Olive branch",
+            "Key",
+            "Trumpet"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which item is more related to festival?",
+        "candidates": [
+            "Christmas tree",
+            "Makeup brush",
+            "Clouds",
+            "Hourglass"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is more related to summer?",
+        "candidates": [
+            "Sled",
+            "Sweater",
+            "Ice cream",
+            "Christmas tree"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item is more related to eggs?",
+        "candidates": [
+            "Seeds",
+            "Ointment",
+            "Flag",
+            "Mirror"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is more related to poetry?",
+        "candidates": [
+            "Mouse",
+            "Eye",
+            "Sculpture",
+            "Lipstick"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which natural phenomenon is most similar to tornado?",
+        "candidates": [
+            "Rainbow",
+            "Hurricane",
+            "Raindrop",
+            "Cloudy"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which one is less similar to the others?",
+        "candidates": [
+            "New York",
+            "Tokyo",
+            "Paris",
+            "Moon"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which one is less similar to the others?",
+        "candidates": [
+            "Guitar",
+            "Violin",
+            "Flute",
+            "Bamboo"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which item is most similar to music?",
+        "candidates": [
+            "Paintbrush",
+            "Dance",
+            "Teapot",
+            "Pocketknife"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which item best represents creativity?",
+        "candidates": [
+            "Hammer",
+            "Paintbrush",
+            "Keyboard",
+            "Screwdriver"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the item that is different from the others:",
+        "candidates": [
+            "Snake",
+            "Big tree",
+            "Tiger",
+            "Crow"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the item that is different from the others:",
+        "candidates": [
+            "Iron pot",
+            "Small",
+            "Rice",
+            "Plate"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Identify the item that is different from the others:",
+        "candidates": [
+            "Cat",
+            "Bird",
+            "Goldfish",
+            "Television"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the item that is different from the others:",
+        "candidates": [
+            "Train",
+            "Bicycle",
+            "Airplane",
+            "Pigeon"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the item that is different from the others:",
+        "candidates": [
+            "Prairie",
+            "Grassland",
+            "Forest",
+            "Volcano"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Identify the item that is different from the others:",
+        "candidates": [
+            "Apple",
+            "Banana",
+            "Orange",
+            "Tomato"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which item is more related to a bird? ",
+        "candidates": [
+            "Airplane",
+            "car",
+            "train",
+            "ship"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If you were to represent the moon with an object, which one would you choose? ",
+        "candidates": [
+            "Basketball",
+            "Torch",
+            "Silver plate",
+            "Glasses"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Please categorize the following items into two groups based on the most appropriate feature: Flowers, Piano, Snowflake, Book, Cloud, Speaker. ",
+        "candidates": [
+            "Material",
+            "Color",
+            "Audibility",
+            "Shape"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item below best represents knowledge? ",
+        "candidates": [
+            "TV remote control",
+            "Books",
+            "Soccer ball",
+            "Sand pile"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If you were to represent laughter with an object, which one would you choose? ",
+        "candidates": [
+            "Smiley face icon",
+            "Toy dog",
+            "Cotton candy",
+            "Gloves"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If you were to represent love with an object, which one would you choose? ",
+        "candidates": [
+            "Jigsaw puzzle",
+            "Red rose",
+            "Wallet",
+            "Speaker"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "If you were to represent courage with an object, which one would you choose? ",
+        "candidates": [
+            "Shield",
+            "Laptop",
+            "Pillow",
+            "Hourglass"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If you were to represent wisdom with an object, which one would you choose? ",
+        "candidates": [
+            "TV remote control",
+            "Water cup",
+            "Books",
+            "Stuffed animal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item below best represents health? ",
+        "candidates": [
+            "Soccer ball",
+            "Headphones",
+            "Bank card",
+            "Clothes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When thinking of time, what item comes to mind? ",
+        "candidates": [
+            "Wristwatch",
+            "Table",
+            "Wallet",
+            "Ocean"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If you were to represent warmth with an object, which one would you choose? ",
+        "candidates": [
+            "Ice cube",
+            "Campfire",
+            "Stone",
+            "Television"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What item would you use to represent hope? ",
+        "candidates": [
+            "Extinguished campfire",
+            "Morning sun",
+            "Evening sun",
+            "Tunnel"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What item would you use to represent sadness? ",
+        "candidates": [
+            "Evening sun",
+            "Morning sun",
+            "Bright stars"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When thinking of a classroom, what item comes to mind? ",
+        "candidates": [
+            "Books",
+            "Games",
+            "Cigarettes",
+            "Beer"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When thinking of technology, what comes to mind? ",
+        "candidates": [
+            "Computer",
+            "Tree",
+            "Flower",
+            "River"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is most similar to headphones? ",
+        "candidates": [
+            "Speaker",
+            "Water cup",
+            "Microphone",
+            "Bedroom"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is most similar to pants? ",
+        "candidates": [
+            "Skirt",
+            "Winter coat",
+            "Shoes",
+            "Beverage"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is most similar to a mobile phone? ",
+        "candidates": [
+            "Landline phone",
+            "Rocket",
+            "Car",
+            "Headphones"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is most similar to a textbook? ",
+        "candidates": [
+            "Magazine",
+            "Water cup",
+            "Mobile phone",
+            "Napkin"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If you were to represent delicious food with an item, what would you think of? ",
+        "candidates": [
+            "Steel bars",
+            "Cement",
+            "Poisonous mushrooms",
+            "Tomato omelette"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If you were to represent a classroom with an item, which one would you choose? ",
+        "candidates": [
+            "Teacher",
+            "Bed",
+            "Breathing machine",
+            "Playing cards"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is more similar to thinking? ",
+        "candidates": [
+            "Train",
+            "Grass",
+            "Pen",
+            "Flower"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If you were to represent diligence with an item, which one would you choose? ",
+        "candidates": [
+            "Candle",
+            "Rose",
+            "Teddy bear",
+            "Alarm clock"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "If you were to represent creativity with an item, which one would you choose? ",
+        "candidates": [
+            "Tissue",
+            "Toy airplane",
+            "Paintbrush",
+            "Umbrella"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If you were to represent adventure with an item, which one would you choose? ",
+        "candidates": [
+            "Map",
+            "Red ball",
+            "Mobile phone",
+            "Bedroom"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item best represents exploration? ",
+        "candidates": [
+            "Telescope",
+            "Bouquet",
+            "Chopsticks",
+            "Cigarette"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When mentioning long voyages, what do you think of? ",
+        "candidates": [
+            "Sailboat",
+            "Computer",
+            "Glasses",
+            "Bicycle"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When mentioning travel, what comes to mind? ",
+        "candidates": [
+            "Backpack",
+            "Glasses",
+            "Table",
+            "Blanket"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When mentioning ping pong, what do you think of? ",
+        "candidates": [
+            "Racket",
+            "Book",
+            "Headphones",
+            "Wallet"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "When talking about artificial intelligence, which of the following is most relevant to it? ",
+        "candidates": [
+            "Programming",
+            "Drinking water",
+            "Eating",
+            "Sleeping"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following activities can lead to progress? ",
+        "candidates": [
+            "Learning",
+            "Sleeping in",
+            "Drinking beverages"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "What do you associate with danger? ",
+        "candidates": [
+            "Reading",
+            "Massage",
+            "Extreme sports",
+            "Playing games"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item best represents freedom? ",
+        "candidates": [
+            "Wristwatch",
+            "Kite",
+            "Lion in the zoo",
+            "TV remote control"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which item best represents love and romance? ",
+        "candidates": [
+            "Laptop",
+            "Gloves",
+            "Coffee pot",
+            "Rose"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items best represents time? ",
+        "candidates": [
+            "Water cup",
+            "Ocean",
+            "Sun",
+            "Hourglass"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items best represents art? ",
+        "candidates": [
+            "Oil painting",
+            "Laptop",
+            "Book",
+            "Classroom"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Please evenly categorize the following items into two groups: Bottled water, Milk tea, Bread, Fried rice. Based on what feature would it be most appropriate to classify them? ",
+        "candidates": [
+            "Edible or not",
+            "Drinkable or not",
+            "Color"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which item best represents wealth? ",
+        "candidates": [
+            "Gold bar",
+            "Glasses",
+            "Bouquet",
+            "Cigarette"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is more similar to a ship? ",
+        "candidates": [
+            "Sailboat",
+            "Bicycle",
+            "Airplane",
+            "Computer"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Which item is more similar to a water cup? ",
+        "candidates": [
+            "Oil bottle",
+            "Bicycle",
+            "Headphones",
+            "Pillow"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "If you were to represent summer with an item, which one would you choose? ",
+        "candidates": [
+            "Snowman",
+            "Intense sun",
+            "Ice cube",
+            "Fallen leaves"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "What do you associate with danger? ",
+        "candidates": [
+            "Reading",
+            "Massage",
+            "Extreme sports",
+            "Playing games"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item best represents freedom? ",
+        "candidates": [
+            "Wristwatch",
+            "Kite",
+            "Lion in the zoo",
+            "TV remote control"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which item best represents love and romance? ",
+        "candidates": [
+            "Laptop",
+            "Gloves",
+            "Coffee pot",
+            "Rose"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items best represents time? ",
+        "candidates": [
+            "Water cup",
+            "Ocean",
+            "Sun",
+            "Hourglass"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which of the following items best represents art? ",
+        "candidates": [
+            "Oil painting",
+            "Laptop",
+            "Book",
+            "Classroom"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Please evenly categorize the following items into two groups: Bottled water, Milk tea, Bread, Fried rice. Based on what feature would it be most appropriate to classify them? ",
+        "candidates": [
+            "Size",
+            "Drinkable or not",
+            "Length"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Which item best represents love? ",
+        "candidates": [
+            "Gold bar",
+            "Glasses",
+            "Bouquet",
+            "Cigarette"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Which item is more similar to a Phone? ",
+        "candidates": [
+            "Sailboat",
+            "Bicycle",
+            "Airplane",
+            "Computer"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Which item is closer to a headset? ",
+        "candidates": [
+            "Oil bottle",
+            "Bicycle",
+            "Headphones",
+            "Pillow"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "If you were to represent autumn with an item, which one would you choose? ",
+        "candidates": [
+            "Snowman",
+            "Intense sun",
+            "Ice cube",
+            "Fallen leaves"
+        ],
+        "answer": 3
+    }
+]

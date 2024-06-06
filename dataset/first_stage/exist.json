@@ -1,0 +1,402 @@
+[
+	{
+		"question": "Assuming there is a small ball on the table. We covered it with a cloth. Is the small ball still on the table now?",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "It's now nighttime, and the sun is not in the sky. Does this mean the sun no longer exists?",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "After school, all the students have left the campus. Tomorrow is not a day off, so these students will return to the campus to continue their studies.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "After eating a hamburger, it's as if the hamburger has disappeared from the world.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When a toy car is placed in different locations in a room, does it cease to be the same toy car?",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When a book is opened to different pages, does it become a different book?",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When a toy is placed on a chair and then on the floor, it remains the same toy.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Because mom cut her hair, she is no longer the same person as she was before the haircut.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Dad left for work in the morning, and it's now noon, so he's likely eating lunch.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "When a cup is turned upside down and placed on the table, it remains the same cup.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "A train quickly headed towards the distance until it disappeared. This means that this train will never appear again.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When candy is placed into an opaque jar, it becomes invisible, but the candy in the jar still exists.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "After pouring a bottle of water into the ocean, the amount of water in the ocean increases accordingly.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Originally, there were five books in the room. Later, one book was hidden under the table (the table is in the room). Now, there are only four books left in the room.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "We put the newly purchased computer into the car trunk and went home. Should we go and buy another computer because there is no computer at home at this moment?",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A big fish gave birth to a school of little fish, and these little fish suddenly appeared in the world.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Pour a cup of milk into a river, and the milk will flow with the river into the distance, not disappear.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "After a heavy snow, no flowers can be seen in the garden, suggesting that there are no flowers in the garden anymore.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "In winter, after the lake freezes over, the water in the lake disappears.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A snail is crawling on a leaf, and then disappears behind another leaf. It's still on the leaf.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Assuming a balloon containing a special gas explodes in a closed room (gas cannot escape either), the total amount of special gas in the room decreases.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "After a gust of wind, two leaves fell down, which suggests that the tree has lost two leaves.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "The fish became larger after eating, indicating that some of the food became part of the fish.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "When a little bird flies up a big tree covered in leaves, I can't see it anymore, which means the bird must not be on the tree anymore.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When Jack wears different tops, his height also changes.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Assuming a character in a movie kills someone, then the actor portraying this character is a killer.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If a flower blooms out of a patch of soil, then this flower is created out of thin air.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "When I put a pen in a different room, it becomes a different pen.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If an object falls into a well, then it disappears.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If a small fish dies, it completely disappears from this world.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A sheet of paper that has been painted black is still the same sheet of paper.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "If a giraffe has a short neck due to malnutrition, it becomes a sika deer.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "An aluminium block oxidizes in the air and its surface turns into aluminium oxide, it's no longer the same aluminium block as before.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "The puppy we keep at home is missing, it may have run off somewhere else.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "If my money is lost, then it might have been stolen.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "The wind blown by the fan is not generated by the fan out of thin air.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Each one of us truly exists.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "If a person is eaten by a megalodon, then that person is transformed into nutrients absorbed by the megalodon.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "There is an apple on the table, which suggests that someone put it there.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "I walked on the road and saw a mobile phone, which indicates that someone has lost a phone.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	},
+	{
+		"question": "An old friend whom I have not seen for twenty years seems like a stranger, as if I have never met this person before.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If a drop of black edible coloring is added into milk, turning it black, then it is no longer milk.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If a pastry chef shapes a cake to look like a pair of shoes, then it is no longer a cake, but a pair of shoes.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If an actor puts on a dinosaur headpiece, then he becomes a dinosaur.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A potato, after several processing steps, turns into potato chips, and it's no longer a potato.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "The snowman left at the door yesterday only has some water stains left today, indicating that someone must have moved the snowman away.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Tornadoes, dust storms, and other natural disasters appear to come out of nowhere.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "A basin of water evaporated after being placed in the sun for several hours, indicating that it had disappeared from the Earth.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If someone earns a lot more money than I do, it must be because they were born lucky, not because I lack ability.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 1
+	},
+	{
+		"question": "If an apple falls from a tree and is missing after two days, it is possible that it was picked up by someone.",
+		"candidates": [
+			"True",
+			"False"
+		],
+		"answer": 0
+	}
+]

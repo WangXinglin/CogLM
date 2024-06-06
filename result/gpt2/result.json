@@ -1,0 +1,3726 @@
+{
+	"third_stage": {
+		"self_center": [
+			{
+				"question": "Despite the endless jokes about lawyers, your friend is currently studying law. What will you do when he is here?",
+				"candidates": [
+					"You always tell lawyer jokes because you think these jokes are great.",
+					"You control yourself and don't tell these jokes."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You are good at skiing and want to go skiing for vacation, but your friend doesn't know how to ski. How will you arrange your trip?",
+				"candidates": [
+					"Develop a skiing plan and plan a snow themed trip that includes various activities",
+					"not just skiing"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You like to tell ghost stories around the campfire, but there is a timid girl in the team. What kind of story will you tell on your next camping trip?",
+				"candidates": [
+					"Ghost stories",
+					"adventure or interesting anecdotes"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "As long as you remember, your favorite food is chocolate, and your friend is allergic to chocolate. Today you need to prepare a friend's lunch, what would you choose?",
+				"candidates": [
+					"Chocolate cake",
+					"vegetarian burger"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "What dishes would you order when you go out for dinner with your sister who is losing weight?",
+				"candidates": [
+					"Braised pork leg in brown sauce in Brown Sauce",
+					"Vegetable Salad"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Because you are a plant enthusiast, your friend asked you to help take care of her cat. What plants will you put in their house?",
+				"candidates": [
+					"Toxic plants",
+					"safe plants"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "At your birthday party, your favorite music is rock music, but you know your friends like pop music. What type of music can you play?",
+				"candidates": [
+					"Rock music",
+					"pop music"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You enjoy painting and often showcase your works to your friends. Your friend is color blind. How will you showcase your latest artwork to him?",
+				"candidates": [
+					"Display a colorful painting",
+					"verbally explain the colors and composition or display a clearly shaped and contrasting painting."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You enjoy attending lively parties, but your friend has social phobia. Would you invite him to your party?",
+				"candidates": [
+					"Yes",
+					"No"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You went to bed early last night, but your roommate went to bed late due to big homework. Will you invite him to climb the mountain tomorrow morning?",
+				"candidates": [
+					"Yes",
+					"No"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "On the amusement park, you are waiting in line while your friend is riding a carousel. How do you think the carousel he saw moves?",
+				"candidates": [
+					"Rotate",
+					"Rest"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If you run to the end of a cave and only see a little sky, and your friend stands at the entrance of the cave, how much sky do you think he can see?",
+				"candidates": [
+					"A little bit",
+					"more"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You are sitting in the front row of the classroom, and your friend is sitting in the back row. Assuming the teacher drew a big smiling face on the blackboard, what would you think your friend could see?",
+				"candidates": [
+					"Smiling face",
+					"the back of your head"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If you could see the rain sliding down the window outside, what would you think the friend sitting on the other side without a window saw?",
+				"candidates": [
+					"Scenery of rain sliding",
+					"inside the room"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If you win a baseball game, how would your friends who support the other team feel?",
+				"candidates": [
+					"They will be as happy as you",
+					"they may feel disappointed because the team has lost"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Imagine living in a house where you have a pet cat, but your neighbor is allergic to cats. How should you introduce your pet when your neighbor visits?",
+				"candidates": [
+					"Take the cat to his place to play",
+					"lock it in another room."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You and your friends from the suburbs of your city have made an appointment to play at the sports stadium downstairs. What time do you prefer to choose?",
+				"candidates": [
+					"At 8 am as you are very close here. At 9:30 am as friends may need a long drive"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "As a Sichuan native, what kind of dishes would you cook for your Guangdong friend who comes to your home as a guest?",
+				"candidates": [
+					"Authentic Sichuan cuisine",
+					"light and less spicy dishes"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "It has been snowing heavily recently and you just bought a pair of gloves. How would you arrange to spend the weekend with your girlfriend who has caught a cold?",
+				"candidates": [
+					"Outdoor snowball fights to showing off her new gloves",
+					"indoor movie nights."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You are the team leader for the school project, and you can easily understand the task, but one of your team members is in trouble. What is the best practice?",
+				"candidates": [
+					"Do your own thing",
+					"assuming they will eventually understand.",
+					"Take some time to explain the task until they understand it."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You were standing near the stage at the concert, while your friend was behind you. Do you have the same views on what happens on stage?",
+				"candidates": [
+					"Yes the exact same viewpoint",
+					"No the viewpoint may be different."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Visiting an amusement park excites you a lot, but your friend gets carsick. What projects would you suggest you play next?",
+				"candidates": [
+					"Roller coaster",
+					"watch themed performances"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Imagine you drew a picture in your favorite red color. When you show it to friends who like blue, how will they react?",
+				"candidates": [
+					"They will like it because red is a great color.",
+					"They may appreciate your efforts but they may not like this color as much as you do."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "The holiday is coming, and your single roommate invited you to watch a movie together. Which movie would you recommend?",
+				"candidates": [
+					"'Love Letter'",
+					"'Oppenheimer'"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "What should you do if you like loud music but your neighbors don't?",
+				"candidates": [
+					"Turn up your music and enjoy it",
+					"listen to your loud music through headphones."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You have a party at home, but there is an elderly person next door with a bad heart. How would you arrange the music for the party?",
+				"candidates": [
+					"Play rock loudly because the party should be lively",
+					"reduce the volume as not everyone likes noise"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "On a gentle afternoon, when you visit your friend who has a broken leg, what would you ask him to do?",
+				"candidates": [
+					"Playing football",
+					"reading together"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When you go to the signing party for writer Yu Hua, which book would you find him to sign?",
+				"candidates": [
+					"'To Live'",
+					"'Red Sorghum'"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "When you're at a friend's house, they all take off their shoes before entering, but you usually don't do this at home. What would you do?",
+				"candidates": [
+					"Put on your shoes because that's what you do at home.",
+					"Take off your shoes"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You and a friend in a wheelchair are in the museum. You want to go to the exhibition upstairs, but there is no elevator there. What should you do?",
+				"candidates": [
+					"Suggest going to the exhibition separately",
+					"staying together and finding something else to do"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You are a night owl who works efficiently late at night, but your roommate prefers to go to bed early. How do you arrange late night work?",
+				"candidates": [
+					"Continue your late night work as usual",
+					"use headphones and dim lights",
+					"and don't disturb your roommate"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You have now taken a sip of pure water in a milk box, but no one else has. What liquid do others think is in the box when they see it?",
+				"candidates": [
+					"Milk",
+					"purified water"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "You are selecting a gift for a friend who likes plants but has difficulty taking care of them due to a busy schedule. What is your gift?",
+				"candidates": [
+					"A high maintenance orchid because you like it.",
+					"The meat is juicy and does not require much care"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You are selecting a bouquet for a friend who is allergic to pollen at a flower shop. What would you do?",
+				"candidates": [
+					"Choose bright and beautiful flowers",
+					"choose flowers with low pollen content"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Wearing superhero attire to attend a makeup ball. Someone asked them how they looked in pirate attire. How did you respond?",
+				"candidates": [
+					"Say 'You'll look better as a superhero'.",
+					"Praise their pirate style"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "You like to eat vegetarian food, and you are cooking for a friend who likes to eat meat. What can you do?",
+				"candidates": [
+					"Make a vegetarian meal",
+					"Make some foods that are both vegetarian and meat rich"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You are the leader of a learning group and enjoy lively discussions on this topic. However, one member of your group is very shy and silent. How will you conduct group learning?",
+				"candidates": [
+					"Continue lively discussions",
+					"encourage quiet participants and ease the discussion"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You find cycling in busy areas exciting, but you ride a bike with a friend who likes less crowded places. Which route should you suggest?",
+				"candidates": [
+					"Cross the busy city streets",
+					"Choose a quiet and scenic route"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You and your friends are having dinner. You like the taste of onions, but your friends don't. Do your friends think the food is as delicious as you imagine?",
+				"candidates": [
+					"Yes because onions make food delicious",
+					"No because they don't like the taste of onions."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You enjoy watching romantic comedies, but you are organizing a movie club meeting for a group that prefers action movies. What genre would you choose for the next movie?",
+				"candidates": [
+					"Romantic Comedy",
+					"Action Film"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You like to play video games late at night, but your brother and sisters have an important exam the next morning. What should you do?",
+				"candidates": [
+					"If you like to play electronic games",
+					"continue playing.",
+					"Use headphones to avoid any noise interference"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You like to try exotic food, but you are cooking for a picky friend. What are you preparing?",
+				"candidates": [
+					"Exotic cuisine",
+					"simple and familiar dishes"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You enjoy high-intensity training, but you exercise with a beginner friend. How should you plan your daily exercise?",
+				"candidates": [
+					"High intensity training",
+					"suitable for beginners' rhythm training"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You need to pick pizza for lunch. You like extra cheese, but your friend is not lactose tolerant. What pizza should you order?",
+				"candidates": [
+					"Premium cheese pizza",
+					"lactose free or vegan pizza"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You are an expert in strategy games, and your friend is a beginner. What kind of board games would you prepare for the party?",
+				"candidates": [
+					"Strategy game",
+					"a simple and fun game"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "As a car enthusiast, you are planning to travel from Beijing to Xi'an with your car sick brother. What kind of travel method are you planning to adopt?",
+				"candidates": [
+					"Plan long-distance road trips",
+					" Find alternative options such as train travel or closer destinations."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Assuming you have a child in kindergarten at home, where would you choose to put the washed fruit?",
+				"candidates": [
+					"Place the cabinet that can be reached by oneself",
+					"On a lower coffee table that children can reach"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "You like rock climbing, but your friend has acrophobia. What activities should you suggest you go out and play together?",
+				"candidates": [
+					"An activity that does not involve height",
+					"a day of rock climbing"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "You and your desk mate each received a closed cardboard box, and when you opened it, you found a piece of paper inside. At the same time, you find your desk mate struggling to hold his box. What may be inside his box?",
+				"candidates": [
+					"A piece of paper",
+					"a solid metal ball"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "As a national second level track and field athlete, you have convinced a friend who has just started running to join you. Where will you take him for his first run?",
+				"candidates": [
+					"Your regular 10 kilometer off-road run",
+					"a shorter and easier route"
+				],
+				"answer": "B"
+			}
+		],
+		"conservation": [
+			{
+				"id": "0000-0000",
+				"question": "Pour a glass of water into two cups with different shapes, one is tall and thin, and the other is short and fat. Which cup has more water? ",
+				"candidates": [
+					"The tall and thin cup",
+					"The short and fat cup",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0001",
+				"question": "Divide a piece of dough into two equal halves, one half is rolled into small balls, and the other half is stretched into long strips. Which half of the dough is more? ",
+				"candidates": [
+					"The half with small balls",
+					"The half with long strips",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0002",
+				"question": "Fold a long rope into two shapes, U-shaped and S-shaped. Which shape of the rope is longer? ",
+				"candidates": [
+					"The U-shaped",
+					"The S-shaped",
+					"The same length"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0003",
+				"question": "Put a pile of equally sized small stones into boxes with different shapes, one box is rectangular, and the other is circular. Which box has more stones? ",
+				"candidates": [
+					"The rectangular box",
+					"The circular box",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0004",
+				"question": "Pour a cup of water into two glasses of the same height but different widths. Which glass has more water?",
+				"candidates": [
+					"The wide glass",
+					"The narrow glass",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0005",
+				"question": "A piece of eraser is divided in half, one half is cut into small pieces, and the other half is kept intact. Which half of the eraser is more? ",
+				"candidates": [
+					"The half that is cut into small pieces",
+					"The half that is kept intact",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0006",
+				"question": "Divide a piece of chocolate into two pieces, one is rectangular, and the other is square. Which piece of chocolate is more? ",
+				"candidates": [
+					"The rectangular piece",
+					"The square piece",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0007",
+				"question": "Place a pile of equally sized small balls into two cups of different sizes but the same height. Which cup has more small balls?",
+				"candidates": [
+					"The large cup",
+					"The small cup",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0008",
+				"question": "A piece of paper is folded in half, one half is kept intact, and the other half is torn into two halves. Which half of the paper is more?",
+				"candidates": [
+					"The half that is kept intact",
+					"The half that is torn into two halves",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0009",
+				"question": "Put a pile of the same number of candies into two boxes of different shapes, one box is rectangular, and the other is circular. Which box has more candies? ",
+				"candidates": [
+					"The rectangular box",
+					"The circular box",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0010",
+				"question": "A piece of bread is evenly cut into two halves, one half is sliced, and the other half is kept intact. Which half of the bread has more?",
+				"candidates": [
+					"The sliced half",
+					"The intact half",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0011",
+				"question": "Pour a cup of orange juice completely into two glasses of different heights but the same width. Which glass has more orange juice?",
+				"candidates": [
+					"The taller glass",
+					"The shorter glass",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0012",
+				"question": "Place a pile of equally sized building blocks into two boxes of different shapes, one box is triangular, and the other is square. Which box has more building blocks?",
+				"candidates": [
+					"The triangular box",
+					"The square box",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0013",
+				"question": "A piece of chocolate is evenly divided into two pieces, one piece is thin, and the other piece is thick. Which piece of chocolate has more?",
+				"candidates": [
+					"The thick piece",
+					"The thin piece",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0014",
+				"question": "Pour a cup of milk into two glasses of different heights but the same width. Which glass has more milk? ",
+				"candidates": [
+					"The taller glass",
+					"The shorter glass",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0015",
+				"question": "A pile of the same number of books is placed into two boxes of different sizes but the same thickness. Which box has more books? ",
+				"candidates": [
+					"The larger box",
+					"The smaller box",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0016",
+				"question": "A sheet of paper is folded in half, one half is torn into small pieces, and the other half is kept intact. Which half of the paper has more?",
+				"candidates": [
+					"The half that is torn into small pieces",
+					"The half that is kept intact",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0017",
+				"question": "A block of butter is evenly divided into two pieces, one piece is cut into small chunks, and the other piece is kept intact. Which piece of butter has more?",
+				"candidates": [
+					"The piece cut into small chunks",
+					"The piece kept intact",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0018",
+				"question": "A piece of chocolate is evenly divided into two pieces, one piece is triangular in shape, and the other piece is circular in shape. Which piece of chocolate has more? ",
+				"candidates": [
+					"The triangular-shaped piece",
+					"The circular-shaped piece",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0019",
+				"question": "A piece of eraser is evenly divided into two halves, one half is shaped like a cone, and the other half is kept intact. Which half of the eraser has more? ",
+				"candidates": [
+					"The half shaped like a cone",
+					"The half kept intact",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0020",
+				"question": "A stack of coins of the same size is evenly divided into two stacks. Which stack looks larger?",
+				"candidates": [
+					"The first stack",
+					"The second stack",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0021",
+				"question": "One large cardboard box and one small cardboard box, which one can hold more books? ",
+				"candidates": [
+					"The large cardboard box",
+					"The small cardboard box",
+					"The same amount"
+				],
+				"answer": "A"
+			},
+			{
+				"id": "0000-0022",
+				"question": "If a line segment is evenly divided into two segments, which segment is longer? ",
+				"candidates": [
+					"The first segment",
+					"The second segment",
+					"The same length"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0023",
+				"question": "One large circle and one small circle, which circle has a longer circumference?",
+				"candidates": [
+					"The large circle",
+					"The small circle",
+					"The same length"
+				],
+				"answer": "A"
+			},
+			{
+				"id": "0000-0024",
+				"question": "A pile of bricks of the same size is evenly divided into two piles. Which pile looks larger?",
+				"candidates": [
+					"The first pile",
+					"The second pile",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0025",
+				"question": "Two ropes of the same size are rolled into a compact ball and a straight line segment. Which rope is longer?",
+				"candidates": [
+					"The compact ball",
+					"The straight line segment",
+					"The same length"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0026",
+				"question": "If a rope is turned from a horizontal direction to a vertical direction, does the length of the rope change? ",
+				"candidates": [
+					"It changes",
+					"It doesn't change"
+				],
+				"answer": "B"
+			},
+			{
+				"id": "0000-0027",
+				"question": "If a size-identical orange balloon and a size-identical red balloon are placed in a room, which balloon is larger? ",
+				"candidates": [
+					"The orange balloon",
+					"The red balloon",
+					"The same size"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0028",
+				"question": "Suppose there are two plates, one large and one small, both containing the same number of cookies. Which plate has more cookies?",
+				"candidates": [
+					"The large plate",
+					"The small plate",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0029",
+				"question": "Suppose there are two piles of toys of the same size and quantity. One pile of toys is stacked into a tall tower, and the other pile of toys is stacked into a wide plane. Both piles of toys are completely used. Which shape has a larger volume?",
+				"candidates": [
+					"The tall tower shape is larger",
+					"The wide plane shape is larger",
+					"The same size"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0030",
+				"question": "Suppose there are two piles of the same number of books, one pile of books is arranged in a row, and the other pile of books is stacked into a stack. Which pile of books has more?",
+				"candidates": [
+					"The pile arranged in a row has more",
+					"The pile stacked into a stack has more",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0031",
+				"question": "If a pile of the same number of sugar cubes, some stacked into a tall tower, and others spread out on the table, which pile of sugar appears to have more?",
+				"candidates": [
+					"The pile stacked into a tall tower appears to have more",
+					"The pile spread out on the table appears to have more",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0032",
+				"question": "Fold one line segment into a small circular loop, and then straighten another line segment of the same length. What is the relationship between the lengths of these two line segments? ",
+				"candidates": [
+					"The same length",
+					"The circular loop is longer",
+					"The straightened one is longer"
+				],
+				"answer": "A"
+			},
+			{
+				"id": "0000-0033",
+				"question": "There are two boxes of the same size, one filled with bricks, and the other filled with cotton. What is the relationship in weight between these two boxes? ",
+				"candidates": [
+					"The same weight",
+					"The one with bricks is heavier",
+					"The one with cotton is heavier"
+				],
+				"answer": "B"
+			},
+			{
+				"id": "0000-0034",
+				"question": "There are two sets of the same number of toy cars, one set arranged in a row, and the other set arranged in a circle. Which set of toy cars has more?",
+				"candidates": [
+					"The set arranged in a row has more",
+					"The set arranged in a circle has more",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0035",
+				"question": "Divide a piece of clay into two halves, one half is empty, and the other half is solid. What is the relationship in weight between these two halves of clay?",
+				"candidates": [
+					"The empty half is lighter",
+					"The solid half is heavier",
+					"The same weight"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0036",
+				"question": "There are two sets of the same number of toy building blocks, one set stacked into one pile, and the other set stacked into two piles. Which set of toy building blocks has more?",
+				"candidates": [
+					"The set stacked into one pile has more",
+					"The set stacked into two piles has more",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0037",
+				"question": "There are two glasses of the same size, one filled with water, and the other filled with sand. Which glass has a larger capacity?",
+				"candidates": [
+					"The glass filled with water is larger",
+					"The glass filled with sand is larger",
+					"The same size"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0038",
+				"question": "There are two pieces of toy train tracks of the same length, one is a straight line, and the other is bent into a circle. Which track is longer?",
+				"candidates": [
+					"The straight track is longer",
+					"The circular track is longer",
+					"The same length"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0039",
+				"question": "There are two pieces of identical-length wooden sticks, one is lying flat on the table, and the other is vertically inserted into the ground. Which wooden stick is longer?",
+				"candidates": [
+					"The one lying flat on the table is longer",
+					"The one vertically inserted into the ground is longer",
+					"The same length"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0040",
+				"question": "A cup is filled with rice, and another cup is filled with soup. Both cups have the same volume. Which cup contains more food?",
+				"candidates": [
+					"The cup with rice contains more food",
+					"The cup with soup contains more food",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0041",
+				"question": "There are two containers of the same size, one filled with sand, and the other filled with glass beads. Both containers have the same volume. Which container has a larger volume of material?",
+				"candidates": [
+					"The container with sand has more material",
+					"The container with glass beads has more material",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0042",
+				"question": "A small cardboard has drawings of 5 red small circles and 5 blue small triangles, all with equal perimeters. Which group of shapes has a longer total length?",
+				"candidates": [
+					"The total length of the red small circles is longer",
+					"The total length of the blue small triangles is longer",
+					"The total length of both groups is the same"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0043",
+				"question": "A small cardboard has drawings of 8 green small squares and 8 purple small rectangles, all with equal perimeters. Which group of shapes has a longer total length? ",
+				"candidates": [
+					"The total length of the green small squares is longer",
+					"The total length of the purple small rectangles is longer",
+					"The total length of both groups is the same"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0044",
+				"question": "A small cardboard has drawings of 3 yellow small five-pointed stars and 3 orange small hexagons, all with equal perimeters. Which group of shapes has a longer total length?",
+				"candidates": [
+					"The total length of the yellow small five-pointed stars is longer",
+					"The total length of the orange small hexagons is longer",
+					"The total length of both groups is the same"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0045",
+				"question": "If a one-meter-long stick is cut into ten random lengths, what is the relationship between the lengths of the ten small sticks and one meter?",
+				"candidates": [
+					"They are different lengths",
+					"They are the same length"
+				],
+				"answer": "A"
+			},
+			{
+				"id": "0000-0046",
+				"question": "A piece of clay is divided into two equal pieces. One piece of clay is rolled into a compact ball, while the other piece is crushed into a flat pancake shape. What is the relationship in size between these two pieces of clay? ",
+				"candidates": [
+					"They are the same size",
+					"The ball-shaped one is larger",
+					"The flat one is larger"
+				],
+				"answer": "A"
+			},
+			{
+				"id": "0000-0047",
+				"question": "A pile of colored stones is divided into two piles, each with the same number of stones. One pile of stones is scattered on the ground, and the other pile of stones is placed in a glass jar. Which pile of stones has more in quantity?",
+				"candidates": [
+					"The pile in the glass jar has more",
+					"The pile scattered on the ground has more",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0048",
+				"question": "If a cup of water is poured into a deep bowl and a shallow plate, which container has more water?",
+				"candidates": [
+					"The deep bowl",
+					"The shallow plate",
+					"The same amount"
+				],
+				"answer": "C"
+			},
+			{
+				"id": "0000-0049",
+				"question": "If the same number of flowers are arranged in a row and placed in a vase, which arrangement appears to have more? ",
+				"candidates": [
+					"The arrangement in the vase appears to have more",
+					"The arrangement in a row appears to have more",
+					"The same amount"
+				],
+				"answer": "C"
+			}
+		],
+		"reversibility": [
+			{
+				"question": "There is a piece of yellow plasticine. After kneading it into a ball, flatten it into a disc. Excuse me, what is the color of plasticine at this time?",
+				"candidates": [
+					"yellow",
+					"red",
+					"blue",
+					"green"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a square piece of paper. Fold it into a rectangle, and then unfold it into a square. How does the paper area change during this process?",
+				"candidates": [
+					"increased",
+					"decreased by",
+					"Unable to determine",
+					"unchanged"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "If A+B-C=D, then A-C=?",
+				"candidates": [
+					"A+B",
+					"D-B",
+					"D+B",
+					"C"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Xiao Li has a book. He reads from the first page to the fiftieth page. Then he turned back from page 50 to page 1. Excuse me, what are the pages of the book at this time?",
+				"candidates": [
+					"51",
+					"52",
+					"50",
+					"49"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a door, which must be opened or closed by two people, A and B, at the same time. Now the door is open. What should I do if I want to close it?",
+				"candidates": [
+					"Just a turn the key.",
+					"Just b turn the key.",
+					"A and b turn the key at the same time.",
+					"A turn the key first, and B turn the key again."
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a clock, and the time displayed now is 12:00. At this time, the hour hand and the minute hand coincide. So if the hour hand and the minute hand of the clock are reversed now, what will the displayed time become? \u00a0",
+				"candidates": [
+					"0.75",
+					"0.625",
+					"0.125",
+					"0.5"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "There is a formula: 1+6=7. If you want to change 7 back to 1, how much should you subtract from 7?",
+				"candidates": [
+					"6",
+					"1",
+					"7",
+					"8"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a door with three keyhole, which correspond to the keys of A, B and C respectively. Any two of them can open or close the door by turning the keys at the same time. Now that the door is open, which of the following situations can close the door?",
+				"candidates": [
+					"A and c turn the key at the same time.",
+					"Just a turn the key.",
+					"A turn the key first, B turn the key again, C turn the key again.",
+					"A turn the key first, B turn the key again, C don't turn the key."
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Xiao Wang has a pencil. He drew a picture with it. Then he erased all the lines on the painting with an eraser. Excuse me, how did the length of the pencil change at this time?",
+				"candidates": [
+					"increased",
+					"decreased by",
+					"unchanged",
+					"Unable to determine"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Xiao Wu has a plate of jiaozi, and he ate half of it. Then he took out half a plate of jiaozi from the refrigerator and combined it with the rest. Excuse me, what is the number of jiaozi at this time?",
+				"candidates": [
+					"no more",
+					"A plate and a half",
+					"plateful",
+					"Two plates"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Xiaohong has a square piece of paper. She folds it into a rectangle and then unfolds it completely. What shape is the paper now?",
+				"candidates": [
+					"rectangle",
+					"square",
+					"diamond",
+					"circular"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Xiaohong has a square piece of paper. She folded it into a rectangle and then unfolded it completely. After unfolding, she cut off a corner with scissors. Is the paper still square?",
+				"candidates": [
+					"It's a square",
+					"Not a square, but a rectangle.",
+					"Not a square, but a diamond.",
+					"Not a square, but an irregular shape."
+				],
+				"answer": "D"
+			},
+			{
+				"question": "If A-1+5+C=B+D, then A-B=?",
+				"candidates": [
+					"D+1-5-C",
+					"C+5-1-D",
+					"A-1+5+C",
+					"6"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a glass full of water. If you pour out the water and fill it with water, will it still be the original glass?",
+				"candidates": [
+					"Yes",
+					"Not when the water is poured out.",
+					"Not when refilling with water.",
+					"Unable to determine"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "If you have a piece of blue plasticine with the initial shape of a cube, you first knead it into a sphere and then knead it into a cuboid. So in the end, what can be done to ensure that its color does not change?",
+				"candidates": [
+					"First knead it into a sphere, and then reduce it to a cube.",
+					"Pinch the plasticine back to the sphere.",
+					"The color of plasticine has not changed.",
+					"Just pinch the plasticine directly back to the cube."
+				],
+				"answer": "C"
+			},
+			{
+				"question": "If A-1+5+C=B+D, then A+B plus a few is equal to B+D.",
+				"candidates": [
+					"6",
+					"4",
+					"3",
+					"7"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Xiaohua has a bottle of water. He pours it into a cylindrical cup. Then he poured water into a conical cup. Excuse me, has the volume and weight of Xiaohua's water changed?",
+				"candidates": [
+					"The volume of water increases and the weight decreases.",
+					"The volume and weight of water have not changed.",
+					"The volume and weight of water increase.",
+					"The volume and weight of water are reduced."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a yellow button and a green button. Press the yellow button and the concert will be played. Press the green button and the concert will stop. Now the music is playing. What should I do if I want to stop the music?",
+				"candidates": [
+					"Press the yellow button",
+					"Press the green button",
+					"Press the green button first, then the yellow button.",
+					"Press the green button twice."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is an electric fan with three gears, which can be adjusted from small to large or from large to small by a rotatable knob. The electric fan is now in the first gear, so what should I do if I want to adjust it to the third gear?",
+				"candidates": [
+					"First rotate to the second gear, and then adjust to the third gear.",
+					"Rotate directly to third gear.",
+					"Adjust to the second wind.",
+					"First adjust to the third wind, and then adjust to the second wind."
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a red button and a blue button. Press the red button and the light will turn on. Press the blue button and the light will turn off. Now that the light is off, what should I do if I want to turn it on first, then off and then on?",
+				"candidates": [
+					"Press the red button three times.",
+					"Press the blue button three times.",
+					"Press the red button first, then the blue button, then the red button.",
+					"Press the blue button first, then the red button, then the blue button."
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a yellow button and a green button. Press the yellow button and the concert will be played. Press the green button and the concert will stop. Now that the music is stopped, what should I do if I want the music to be played first, then stopped and then played?",
+				"candidates": [
+					"Press the yellow button first, then the green button, then the yellow button.",
+					"Press the yellow button twice, and then press the green button again.",
+					"Press the green button three times.",
+					"Press the green button first, then the yellow button twice."
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a switch and a key. The switch controls the switch of the light, and the rotating key and the reset key make the music play and stop respectively. Now the lights are off and the music is playing. What should I do if I want to turn off both the lights and the music? \u00a0",
+				"candidates": [
+					"Reset the key and turn on the switch.",
+					"Turn off the switch and reset the key.",
+					"Turn off the switch and turn the key.",
+					"Turn on the switch and turn the key."
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Xiao Li has a rope. He tied it into a knot. The finished rope is half the length of the original rope. After that, he untied the rope again. How can Xiao Li tie the same knot with this rope again?",
+				"candidates": [
+					"Extend the rope to twice its original length.",
+					"Shorten the rope to half of the original one.",
+					"No need to change the rope",
+					"Lengthen the rope to triple the original length."
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Xiaohua has a glass of water and a glass of ice. He puts the ice in the water, waits for a while, and finds that the ice becomes smaller and the water becomes more. How can Xiaohua recover water and ice?",
+				"candidates": [
+					"Measure out the water with the same weight as the original water, and freeze the rest into ice cubes.",
+					"The total weight of water and ice cubes has not changed, and no other operation is needed.",
+					"Freeze all the existing water into ice cubes.",
+					"Turn all the ice cubes into water now."
+				],
+				"answer": "A"
+			},
+			{
+				"question": "If you have a piece of plasticine with the initial shape of a cube, you first knead it into a sphere and then knead it into a cuboid. How can we change it back into a cube by the simplest means?",
+				"candidates": [
+					"First knead it into a sphere, and then reduce it to a cube.",
+					"Pinch the plasticine back to the sphere.",
+					"Knead plasticine into a sphere, then into a cuboid, and then back into a cube.",
+					"Just pinch the plasticine directly back to the cube."
+				],
+				"answer": "D"
+			},
+			{
+				"question": "If you have a piece of plasticine with the initial shape of a cube, you first knead it into a sphere and then knead it into a cuboid. How can we make it into a sphere again by the simplest means?",
+				"candidates": [
+					"First knead it into a cube, and then knead it into a sphere.",
+					"Pinch the plasticine directly back to the sphere.",
+					"This plasticine can no longer be kneaded into a sphere.",
+					"Squeeze the plasticine back into a cube, then into a cuboid, and finally into a sphere."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If there are three containers A, B, C, A and B with X and Y originals, and C is empty, if X is moved to container C and Y is moved to container A, what is in container B?",
+				"candidates": [
+					"Original x",
+					"empty",
+					"Original x and original y",
+					"Y original"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a formula: 3\u00d74=12. If you change the multiplication sign into the division sign, will the result still be 12?",
+				"candidates": [
+					"be",
+					"uncertain",
+					"fault",
+					"The answer is 4."
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a square. If you fold it diagonally twice and expand it again, what shape will it become? \u00a0",
+				"candidates": [
+					"triangle",
+					"square",
+					"rectangle",
+					"diamond"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a banana. If it is peeled off and eaten, can it be restored to its original state?",
+				"candidates": [
+					"can",
+					"impossible",
+					"uncertain",
+					"Can restore it to an apple."
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a word \"apple\". If the two P's in the middle of it are reversed, what will the word mean?",
+				"candidates": [
+					"banana",
+					"pear",
+					"apple",
+					"tangerine"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a word \"banana\". If the first \"an\" and the second \"an\" are reversed, what will the word mean?",
+				"candidates": [
+					"banana",
+					"apple",
+					"pear",
+					"tangerine"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a picture with a cat and a dog on it. The cat is on the left and the dog is on the right. If you rotate the picture 180 degrees, how will the position of the cat and dog change?",
+				"candidates": [
+					"The cat is on the left and the dog is on the right.",
+					"The cat is above and the dog is below.",
+					"The cat is on the right and the dog is on the left.",
+					"The cat is below and the dog is above."
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a clock, and now the hour hand points to 9. If you turn the clock 90 degrees, what will the pointer point to?",
+				"candidates": [
+					"8",
+					"9",
+					"10",
+					"7"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a note that says \"I love you\". If you fold the note in half twice, what will the words on the note become?",
+				"candidates": [
+					"I love you",
+					"You love me.",
+					"I don't like you.",
+					"love you"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a cup full of water and an empty bowl. If you pour the water from a cup into a bowl, how can you pour the water back into the cup?",
+				"candidates": [
+					"Drink the water in the bowl.",
+					"Freeze the water in the bowl into ice.",
+					"Evaporate the water from the bowl.",
+					"Pour the water from the bowl into the cup."
+				],
+				"answer": "D"
+			},
+			{
+				"question": "There is a piece of paper with a square and a circle painted on it. If the paper is folded in half once and then unfolded as it is, how will the position of the square and the circle change?",
+				"candidates": [
+					"The square changes to the other side of the paper, and the circle remains the same.",
+					"The circle changes to the other side of the paper, and the square remains the same.",
+					"Both the square and the circle are transformed to the other side of the paper.",
+					"Neither shape changes."
+				],
+				"answer": "D"
+			},
+			{
+				"question": "There is a sentence: \"I am a person\". If you read the sentence upside down, what will it become? \u00a0",
+				"candidates": [
+					"I'm the only one",
+					"I am alone.",
+					"Everyone is me.",
+					"I am a person."
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a formula: 5+3=8. If the plus sign is replaced by the minus sign, what should be the number to the right of the equal sign?",
+				"candidates": [
+					"5",
+					"2",
+					"3",
+					"8"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a cup full of water and cooking oil lighter than water, and there is an empty bowl. If the water in the cup is poured into the bowl, who is in the upper layer, water or cooking oil?",
+				"candidates": [
+					"water",
+					"oil",
+					"Mixing of water and oil",
+					"Not necessarily/maybe"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a cube of clay that can be kneaded into different shapes. If you knead the clay into a ball and then knead it into a long strip, can the clay recover?",
+				"candidates": [
+					"cannot",
+					"can",
+					"It should be restored to a ball first, and then to a cube.",
+					"uncertain"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a number calculator that can input numbers and operators. If you enter 2+3=, the calculator will display 5. What should I do if I want the calculator to display 0? \u00a0",
+				"candidates": [
+					"Press the clear key.",
+					"Press the minus key",
+					"Press the equal sign key",
+					"Press the minus key."
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a piece of paper with a circle drawn on it. If you cut the paper in half and put the two halves together, will the shape of the circle change?",
+				"candidates": [
+					"Will turn into an ellipse",
+					"Will turn into a semicircle",
+					"Unable to determine",
+					"Will not change."
+				],
+				"answer": "D"
+			},
+			{
+				"question": "There is a magician who can conjure up different animals. If he conjured a cat first and then a dog, how many animals did he conjure up?",
+				"candidates": [
+					"1",
+					"2",
+					"3",
+					"4"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "There is a box of chocolates, which can be shared with friends. If you give chocolate to three friends and get a piece back from each friend, will the total number of chocolates change?",
+				"candidates": [
+					"Will become more",
+					"Will be less",
+					"Unable to determine",
+					"Will not change."
+				],
+				"answer": "D"
+			},
+			{
+				"question": "There is a glass full of water. If the water is poured out, how can the glass be restored?",
+				"candidates": [
+					"Get another glass of water",
+					"Take another half glass of water.",
+					"You don't need to do anything",
+					"Irrecoverable"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a time display that shows 1800, so if 18 and 00 are reversed, what time is displayed?",
+				"candidates": [
+					"0018",
+					"1080",
+					"8010",
+					"8100"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a standing photo of a person. If you turn him upside down, where is the head of the person?",
+				"candidates": [
+					"lower position or level",
+					"left",
+					"right side",
+					"above"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is a word: \"apple\". If the first letter and the last letter are interchanged, does the word still mean apple?",
+				"candidates": [
+					"Yes",
+					"No, it became a banana.",
+					"fault",
+					"uncertain"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "There is a clock, and now the pointer points to 12 o'clock. If you put the clock upside down, what time will the pointer point to?",
+				"candidates": [
+					"6",
+					"15",
+					"9",
+					"12"
+				],
+				"answer": "D"
+			}
+		]
+	},
+	"fourth_stage": {
+		"deductive": [
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Mice are afraid of wolves. 3 Cats are afraid of mice. 4 Emily is a cat. 5 Winona is a wolf. 6 Sheep are afraid of cats. 7 Jessica is a cat. 8 Gertrude is a sheep.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"mouse"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Mice are afraid of wolves. 3 Cats are afraid of mice. 4 Emily is a cat. 5 Winona is a wolf. 6 Sheep are afraid of cats. 7 Jessica is a cat. 8 Gertrude is a sheep.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"mouse"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Mice are afraid of wolves. 3 Cats are afraid of mice. 4 Emily is a cat. 5 Winona is a wolf. 6 Sheep are afraid of cats. 7 Jessica is a cat. 8 Gertrude is a sheep.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"mouse"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of cats. 2 Cats are afraid of wolves. 3 Sheep are afraid of mice. 4 Jessica is a sheep. 5 Winona is a wolf. 6 Gertrude is a cat. 7 Emily is a cat. 8 Mice are afraid of sheep.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"cat"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of cats. 2 Cats are afraid of wolves. 3 Sheep are afraid of mice. 4 Jessica is a sheep. 5 Winona is a wolf. 6 Gertrude is a cat. 7 Emily is a cat. 8 Mice are afraid of sheep.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"cat"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of cats. 2 Cats are afraid of wolves. 3 Sheep are afraid of mice. 4 Jessica is a sheep. 5 Winona is a wolf. 6 Gertrude is a cat. 7 Emily is a cat. 8 Mice are afraid of sheep.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"cat"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Winona is a wolf. 3 Cats are afraid of sheep. 4 Jessica is a wolf. 5 Sheep are afraid of cats. 6 Emily is a sheep. 7 Mice are afraid of wolves. 8 Gertrude is a mouse.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"wolf"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Winona is a wolf. 3 Cats are afraid of sheep. 4 Jessica is a wolf. 5 Sheep are afraid of cats. 6 Emily is a sheep. 7 Mice are afraid of wolves. 8 Gertrude is a mouse.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"wolf"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Winona is a wolf. 3 Cats are afraid of sheep. 4 Jessica is a wolf. 5 Sheep are afraid of cats. 6 Emily is a sheep. 7 Mice are afraid of wolves. 8 Gertrude is a mouse.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"wolf"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Wolves are afraid of sheep. 3 Sheep are afraid of cats. 4 Winona is a sheep. 5 Mice are afraid of sheep. 6 Gertrude is a wolf. 7 Jessica is a cat. 8 Emily is a wolf.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"mouse",
+					"cat",
+					"sheep"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Wolves are afraid of sheep. 3 Sheep are afraid of cats. 4 Winona is a sheep. 5 Mice are afraid of sheep. 6 Gertrude is a wolf. 7 Jessica is a cat. 8 Emily is a wolf.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"mouse",
+					"cat",
+					"sheep"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Wolves are afraid of sheep. 3 Sheep are afraid of cats. 4 Winona is a sheep. 5 Mice are afraid of sheep. 6 Gertrude is a wolf. 7 Jessica is a cat. 8 Emily is a wolf.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"mouse",
+					"cat",
+					"sheep"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of mice. 2 Cats are afraid of sheep. 3 Winona is a cat. 4 Jessica is a cat. 5 Gertrude is a sheep. 6 Mice are afraid of wolves. 7 Wolves are afraid of mice. 8 Emily is a mouse.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"mouse",
+					"sheep",
+					"wolf"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of mice. 2 Cats are afraid of sheep. 3 Winona is a cat. 4 Jessica is a cat. 5 Gertrude is a sheep. 6 Mice are afraid of wolves. 7 Wolves are afraid of mice. 8 Emily is a mouse.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"mouse",
+					"sheep",
+					"wolf"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of mice. 2 Cats are afraid of sheep. 3 Winona is a cat. 4 Jessica is a cat. 5 Gertrude is a sheep. 6 Mice are afraid of wolves. 7 Wolves are afraid of mice. 8 Emily is a mouse.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"mouse",
+					"sheep",
+					"wolf"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of mice. 2 Cats are afraid of sheep. 3 Winona is a cat. 4 Jessica is a cat. 5 Gertrude is a sheep. 6 Mice are afraid of wolves. 7 Wolves are afraid of mice. 8 Emily is a mouse.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"mouse",
+					"sheep",
+					"wolf"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Mice are afraid of sheep. 2 Winona is a mouse. 3 Emily is a mouse. 4 Cats are afraid of wolves. 5 Wolves are afraid of mice. 6 Sheep are afraid of wolves. 7 Jessica is a sheep. 8 Gertrude is a wolf.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Mice are afraid of sheep. 2 Winona is a mouse. 3 Emily is a mouse. 4 Cats are afraid of wolves. 5 Wolves are afraid of mice. 6 Sheep are afraid of wolves. 7 Jessica is a sheep. 8 Gertrude is a wolf.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Mice are afraid of sheep. 2 Winona is a mouse. 3 Emily is a mouse. 4 Cats are afraid of wolves. 5 Wolves are afraid of mice. 6 Sheep are afraid of wolves. 7 Jessica is a sheep. 8 Gertrude is a wolf.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Emily is a wolf. 3 Sheep are afraid of mice. 4 Cats are afraid of wolves. 5 Mice are afraid of sheep. 6 Jessica is a mouse. 7 Gertrude is a cat. 8 Winona is a sheep.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"sheep"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Emily is a wolf. 3 Sheep are afraid of mice. 4 Cats are afraid of wolves. 5 Mice are afraid of sheep. 6 Jessica is a mouse. 7 Gertrude is a cat. 8 Winona is a sheep.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"sheep"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Emily is a wolf. 3 Sheep are afraid of mice. 4 Cats are afraid of wolves. 5 Mice are afraid of sheep. 6 Jessica is a mouse. 7 Gertrude is a cat. 8 Winona is a sheep.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"sheep"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Mice are afraid of cats. 3 Sheep are afraid of wolves. 4 Winona is a cat. 5 Gertrude is a cat. 6 Jessica is a sheep. 7 Emily is a mouse. 8 Wolves are afraid of sheep.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"wolf",
+					"cat",
+					"mouse"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Mice are afraid of cats. 3 Sheep are afraid of wolves. 4 Winona is a cat. 5 Gertrude is a cat. 6 Jessica is a sheep. 7 Emily is a mouse. 8 Wolves are afraid of sheep.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"wolf",
+					"cat",
+					"mouse"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Mice are afraid of cats. 3 Sheep are afraid of wolves. 4 Winona is a cat. 5 Gertrude is a cat. 6 Jessica is a sheep. 7 Emily is a mouse. 8 Wolves are afraid of sheep.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"wolf",
+					"cat",
+					"mouse"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Cats are afraid of sheep. 2 Mice are afraid of cats. 3 Wolves are afraid of mice. 4 Gertrude is a mouse. 5 Winona is a mouse. 6 Sheep are afraid of mice. 7 Jessica is a sheep. 8 Emily is a cat.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"sheep",
+					"mouse",
+					"cat"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Cats are afraid of sheep. 2 Mice are afraid of cats. 3 Wolves are afraid of mice. 4 Gertrude is a mouse. 5 Winona is a mouse. 6 Sheep are afraid of mice. 7 Jessica is a sheep. 8 Emily is a cat.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"sheep",
+					"mouse",
+					"cat"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Cats are afraid of sheep. 2 Mice are afraid of cats. 3 Wolves are afraid of mice. 4 Gertrude is a mouse. 5 Winona is a mouse. 6 Sheep are afraid of mice. 7 Jessica is a sheep. 8 Emily is a cat.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"sheep",
+					"mouse",
+					"cat"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Cats are afraid of sheep. 2 Wolves are afraid of cats. 3 Emily is a wolf. 4 Gertrude is a cat. 5 Sheep are afraid of wolves. 6 Mice are afraid of cats. 7 Winona is a mouse. 8 Jessica is a sheep.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"wolf"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Cats are afraid of sheep. 2 Wolves are afraid of cats. 3 Emily is a wolf. 4 Gertrude is a cat. 5 Sheep are afraid of wolves. 6 Mice are afraid of cats. 7 Winona is a mouse. 8 Jessica is a sheep.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"wolf"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Cats are afraid of sheep. 2 Wolves are afraid of cats. 3 Emily is a wolf. 4 Gertrude is a cat. 5 Sheep are afraid of wolves. 6 Mice are afraid of cats. 7 Winona is a mouse. 8 Jessica is a sheep.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"cat",
+					"sheep",
+					"wolf"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Cats are afraid of wolves. 2 Mice are afraid of cats. 3 Jessica is a cat. 4 Wolves are afraid of sheep. 5 Emily is a wolf. 6 Winona is a mouse. 7 Gertrude is a mouse. 8 Sheep are afraid of cats.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"cat",
+					"wolf",
+					"sheep"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Cats are afraid of wolves. 2 Mice are afraid of cats. 3 Jessica is a cat. 4 Wolves are afraid of sheep. 5 Emily is a wolf. 6 Winona is a mouse. 7 Gertrude is a mouse. 8 Sheep are afraid of cats.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"cat",
+					"wolf",
+					"sheep"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Cats are afraid of wolves. 2 Mice are afraid of cats. 3 Jessica is a cat. 4 Wolves are afraid of sheep. 5 Emily is a wolf. 6 Winona is a mouse. 7 Gertrude is a mouse. 8 Sheep are afraid of cats.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"cat",
+					"wolf",
+					"sheep"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Cats are afraid of wolves. 2 Wolves are afraid of mice. 3 Sheep are afraid of mice. 4 Mice are afraid of sheep. 5 Jessica is a wolf. 6 Gertrude is a mouse. 7 Emily is a cat. 8 Winona is a sheep.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"sheep"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Cats are afraid of wolves. 2 Wolves are afraid of mice. 3 Sheep are afraid of mice. 4 Mice are afraid of sheep. 5 Jessica is a wolf. 6 Gertrude is a mouse. 7 Emily is a cat. 8 Winona is a sheep.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"sheep"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Cats are afraid of wolves. 2 Wolves are afraid of mice. 3 Sheep are afraid of mice. 4 Mice are afraid of sheep. 5 Jessica is a wolf. 6 Gertrude is a mouse. 7 Emily is a cat. 8 Winona is a sheep.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"sheep"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Gertrude is a cat. 3 Mice are afraid of wolves. 4 Jessica is a mouse. 5 Wolves are afraid of sheep. 6 Emily is a mouse. 7 Winona is a wolf. 8 Sheep are afraid of cats.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Gertrude is a cat. 3 Mice are afraid of wolves. 4 Jessica is a mouse. 5 Wolves are afraid of sheep. 6 Emily is a mouse. 7 Winona is a wolf. 8 Sheep are afraid of cats.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Cats are afraid of mice. 2 Gertrude is a cat. 3 Mice are afraid of wolves. 4 Jessica is a mouse. 5 Wolves are afraid of sheep. 6 Emily is a mouse. 7 Winona is a wolf. 8 Sheep are afraid of cats.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Mice are afraid of wolves. 2 Sheep are afraid of cats. 3 Wolves are afraid of sheep. 4 Cats are afraid of wolves. 5 Winona is a mouse. 6 Gertrude is a wolf. 7 Emily is a mouse. 8 Jessica is a sheep.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"sheep",
+					"cat",
+					"wolf"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Mice are afraid of wolves. 2 Sheep are afraid of cats. 3 Wolves are afraid of sheep. 4 Cats are afraid of wolves. 5 Winona is a mouse. 6 Gertrude is a wolf. 7 Emily is a mouse. 8 Jessica is a sheep.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"sheep",
+					"cat",
+					"wolf"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Mice are afraid of wolves. 2 Sheep are afraid of cats. 3 Wolves are afraid of sheep. 4 Cats are afraid of wolves. 5 Winona is a mouse. 6 Gertrude is a wolf. 7 Emily is a mouse. 8 Jessica is a sheep.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"sheep",
+					"cat",
+					"wolf"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of wolves. 2 Mice are afraid of cats. 3 Cats are afraid of sheep. 4 Wolves are afraid of cats. 5 Jessica is a cat. 6 Gertrude is a cat. 7 Emily is a sheep. 8 Winona is a wolf.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"cat",
+					"wolf",
+					"sheep"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of wolves. 2 Mice are afraid of cats. 3 Cats are afraid of sheep. 4 Wolves are afraid of cats. 5 Jessica is a cat. 6 Gertrude is a cat. 7 Emily is a sheep. 8 Winona is a wolf.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"cat",
+					"wolf",
+					"sheep"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of wolves. 2 Mice are afraid of cats. 3 Cats are afraid of sheep. 4 Wolves are afraid of cats. 5 Jessica is a cat. 6 Gertrude is a cat. 7 Emily is a sheep. 8 Winona is a wolf.\nQuestion:What is gertrude afraid of?\n",
+				"candidates": [
+					"cat",
+					"wolf",
+					"sheep"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Cats are afraid of mice. 3 Jessica is a wolf. 4 Mice are afraid of wolves. 5 Sheep are afraid of wolves. 6 Emily is a mouse. 7 Winona is a cat. 8 Gertrude is a mouse.\nQuestion:What is emily afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Cats are afraid of mice. 3 Jessica is a wolf. 4 Mice are afraid of wolves. 5 Sheep are afraid of wolves. 6 Emily is a mouse. 7 Winona is a cat. 8 Gertrude is a mouse.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:1 Wolves are afraid of sheep. 2 Cats are afraid of mice. 3 Jessica is a wolf. 4 Mice are afraid of wolves. 5 Sheep are afraid of wolves. 6 Emily is a mouse. 7 Winona is a cat. 8 Gertrude is a mouse.\nQuestion:What is winona afraid of?\n",
+				"candidates": [
+					"wolf",
+					"sheep",
+					"mouse"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:1 Sheep are afraid of wolves. 2 Cats are afraid of mice. 3 Jessica is a cat. 4 Gertrude is a cat. 5 Wolves are afraid of cats. 6 Emily is a sheep. 7 Mice are afraid of cats. 8 Winona is a mouse.\nQuestion:What is jessica afraid of?\n",
+				"candidates": [
+					"mouse",
+					"wolf",
+					"cat"
+				],
+				"answer": "A"
+			}
+		],
+		"propositional_thinking": [
+			{
+				"question": "Context:sentence1: These men had never seen rain before, Jon realized.\t sentence2: The men had lived in the desert.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: I am glad she wasn't, said Jon.\t sentence2: Jon was sad that she wasn't happy. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: The call is coming from inside the house!\t sentence2: The call is coming from the attic.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: Egg cattle merry wedged marvelous\t sentence2: The ducks were at the pond.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Fixing current levels of damage would be impossible.\t sentence2: Fixing the damage could never be done.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: He caught his breath.\t sentence2: His breath would not come.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: The sacred is not mysterious to her.\t sentence2: The woman does not know anything sacred.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: i don't know no i don't\t sentence2: Yes, I am well informed about that.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Under Ferdinand and Isabella, Spain underwent a dramatic transformation.\t sentence2: Ferdinand started his transformation by emancipating the peasant class.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: hi Cynthia what did you wear to work today\t sentence2: You did not go to work today. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Ah, triple pig! \t sentence2: three times pig.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: It's come back? cried Julius excitedly.\t sentence2: They were excited to hear it will come back.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: Three more days went by in dreary inaction.\t sentence2: The next three days were packed with action.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Or just a philosophy of any weapon to hand?\t sentence2: They don't allow any weapon.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Treasure Beach (South Coast)\t sentence2: Treasure Beach is on the North  Coast.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: 'You should do the fixing.'\t sentence2: I'll take care of fixing this.. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Took forever.\t sentence2: Lasted two years\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Good sir, Jon began.\t sentence2: Jon stayed silent.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: The DO concentration must not fall below\t sentence2: The DO concentration is irrelevant.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Nothing prior to May 7, 1915.\t sentence2: Not a thing before May 7, 1915.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: that's their signal\t sentence2: That's their sign.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: He walked out into the street and I followed.\t sentence2: I watched him go but didn't follow.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Trial of Galileo\t sentence2: Galileo's Trial\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: Cases in Comparative\t sentence2: Cases care not related to law.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: profit rather\t sentence2: Making money rather.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: I should put it this way. \t sentence2: I should phrase it differently.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1:  Jon sat down on the ground cross legged.\t sentence2: The man was standing on the ground.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: I see, said Tuppence thoughtfully.\t sentence2: I can't comprehend it, said Tuppence fitfully.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: all right thanks bye bye\t sentence2: hello stop upsetting me\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: Because the paper did not say that.\t sentence2: The paper did not state as much.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: The pieces paying 33.\t sentence2: More than 30 pieces paying.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: HE KNOWS ABOUT THE MINES.\t sentence2: He has no idea that the mines exist. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: They were quite, tetanic in character.\"\t sentence2: They were tense in how they acted.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: To be sure, not all auctions are rip-offs.\t sentence2: Every single auction is a rip-off.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: The truth?\t sentence2: That's a lie.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: him?\" she asked.\t sentence2: She asked about him.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: Melatonin\t sentence2: It contains melatonin. \nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: In short, most of the whale is incompressible.\t sentence2: Every part of a whale is compressable.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: The truth?\t sentence2: Is that true?\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: 'I saw him get aboard myself.\t sentence2: I saw him get on the train.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: Occasionally, he'd wince and apologise for any incoherence.\t sentence2: He winced and apologized for any confusing speech, sometimes.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: yeah well are you you with TI\t sentence2: TI is the tourism international society.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: Among runners-up is Boston solo Eleanor Newhoff.\t sentence2: Eleanor Newhoff was one of the runners-up.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: appropriate agency representatives, help resolve\t sentence2: the right agency employees, help fix\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: aCondition Assessment Survey (CAS).\t sentence2: TV Marketing Study\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: and maybe we'll run across each other again\t sentence2: Perhaps we will cross paths in the future.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: so i don't completely agree with that either\t sentence2: I have different reasons for doubting each.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Context:sentence1: and take it easy now good night\t sentence2: Good morning, I hope you have an awful day.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Context:sentence1: 'It's that kind of world.'\t sentence2: That's the world we live in.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Context:sentence1: Hey, no problem, a fine policy.\t sentence2: No trouble, the best policy.\nQuestion:What is the propositional relationship between sentence1 and sentence2 ?\n",
+				"candidates": [
+					"entailment",
+					"neutral",
+					"contradiction"
+				],
+				"answer": "B"
+			}
+		]
+	},
+	"second_stage": {
+		"symbolic": [
+			{
+				"question": "Which celestial body is least similar to Earth?",
+				"candidates": [
+					"Moon",
+					"Venus",
+					"Mars",
+					"Jupiter"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which item is more similar to a rocket?",
+				"candidates": [
+					"Cloud",
+					"Piano",
+					"Duck",
+					"Horse and Carriage"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which item is more similar to a car?",
+				"candidates": [
+					"Train",
+					"Smartphone",
+					"Beverage",
+					"Tissue"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "What item would you use to represent air?",
+				"candidates": [
+					"Cat",
+					"Stand",
+					"Villa",
+					"Water"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "What item would you use to represent the sun?",
+				"candidates": [
+					"Basketball",
+					"Umbrella",
+					"Computer",
+					"Palm"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "What item would you use to represent music?",
+				"candidates": [
+					"Umbrella",
+					"Orange",
+					"Guitar",
+					"Coffee cup"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "What item would you use to represent rainy weather?",
+				"candidates": [
+					"Coffee cup",
+					"Umbrella",
+					"Toy airplane",
+					"Laptop"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "What item would you use to represent knowledge?",
+				"candidates": [
+					"Library",
+					"Coffee cup",
+					"Firecracker",
+					"Soccer ball"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "What item would you use to represent love?",
+				"candidates": [
+					"Rose",
+					"Mirror",
+					"Gloves",
+					"Coffee cup"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "What item would you use to represent trees?",
+				"candidates": [
+					"Pencil",
+					"Television",
+					"Train",
+					"Knife"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "What common characteristic do you think exists between an incandescent light bulb and the sun?",
+				"candidates": [
+					"Color",
+					"Shape",
+					"Size",
+					"Ability to emit light"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "What common characteristic do you think exists between the beginning and the end?",
+				"candidates": [
+					"Shape",
+					"Color",
+					"Both represent positions",
+					"Time"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "What common characteristic do you think exists between a candle and an electric lamp?",
+				"candidates": [
+					"Shape",
+					"Color",
+					"Material",
+					"Purpose"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "What common characteristic do you think exists between wood and alcohol?",
+				"candidates": [
+					"Form",
+					"Color",
+					"Flammable",
+					"Volatility"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "What common characteristic do you think exists between an apple and a heart?",
+				"candidates": [
+					"Whether it is a fruit",
+					"Whether it is an organ",
+					"Whether it is red",
+					"Whether it beats"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Please classify the following items into two categories: plastic ruler, eraser, ink, chalk, paper, kerosene, milk, lead ball, bread, apple. What is the basis for classification?",
+				"candidates": [
+					"Color",
+					"Usage",
+					"Form",
+					"Material"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Please classify the following items into two categories: eraser, steel ruler, saltwater, plastic protractor, kerosene. What is the basis for classification?",
+				"candidates": [
+					"Color",
+					"Shape",
+					"Size",
+					"Material"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Please classify the following animals into two categories: lion, tiger, giraffe, zebra, elephant, penguin. What is the most suitable basis for classification?",
+				"candidates": [
+					"Habitat",
+					"Size",
+					"Color",
+					"Whether they are carnivores"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Please classify the following holidays into two categories: Christmas, Thanksgiving, Valentine's Day, Halloween, Mother's Day, April Fool's Day. What is a more appropriate basis for classification?",
+				"candidates": [
+					"Whether they are related to gifts",
+					"Whether they are public holidays",
+					"Whether they are related to seasons",
+					"Whether they are related to religion"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Please classify the following foods into two categories: pizza, sushi, hamburger, salad, fried chicken, ice cream. What is a more appropriate basis for classification?",
+				"candidates": [
+					"Eating utensils",
+					"Cuisine",
+					"Price",
+					"Whether they require cooking"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Please classify the following fruits into two categories: apple, banana, watermelon, pumpkin, orange, strawberry. What is a more appropriate basis for classification?",
+				"candidates": [
+					"Color",
+					"Shape",
+					"Presence of seeds",
+					"Whether they are autumn fruits"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Please classify the following items into two categories: dog, cat, pencil, tissue, elephant, tail. What is a more appropriate basis for classification?",
+				"candidates": [
+					"Whether they are animals",
+					"Whether they are pets",
+					"Color",
+					"Size"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Please classify the following items into two categories: peanuts, ears, backpack, sandwich, apartment, mashed potatoes. What is a more appropriate basis for classification?",
+				"candidates": [
+					"Color",
+					"Size",
+					"Whether it is food",
+					"Price"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Please classify the following items into two categories: hat, boots, apple, scarf, gloves, notebook. What is a more appropriate basis for classification?",
+				"candidates": [
+					"Color",
+					"Size",
+					"Whether they are worn in winter",
+					"Whether they can be eaten"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which item is the most suitable to represent teamwork and collaboration?",
+				"candidates": [
+					"Gloves",
+					"Hammer",
+					"Jigsaw puzzle",
+					"Piano"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which mode of transportation best represents speed and excitement?",
+				"candidates": [
+					"Bicycle",
+					"Horse-drawn carriage",
+					"Skateboard",
+					"Motorcycle"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "If you were to symbolize speed and agility with an animal, which one would be the most suitable?",
+				"candidates": [
+					"Cheetah",
+					"Turtle",
+					"Elephant",
+					"Snail"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "If you were to symbolize strength and stability with a building, which one would be the most suitable?",
+				"candidates": [
+					"Leaning Tower of Pisa",
+					"Palace of Versailles",
+					"Golden Gate Bridge",
+					"Pyramid"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "If you were to choose a song to symbolize courage and determination, which one would you select?",
+				"candidates": [
+					"\"Let It Go\" (from \"Frozen\")",
+					"\"Happy\" (by Pharrell Williams)",
+					"\"Shape of You\" (by Ed Sheeran)",
+					"\"Smooth Operator\" (by Sade)"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Among the following historical events, which one is less similar to the others?",
+				"candidates": [
+					"American Revolutionary War",
+					"French Revolution",
+					"Moon landing",
+					"World War I"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which color is most associated with a Chinese wedding?",
+				"candidates": [
+					"Red",
+					"Blue",
+					"Green",
+					"Yellow"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which item is most related to the brain?",
+				"candidates": [
+					"Cake",
+					"Gloves",
+					"Books",
+					"Garden"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which item is more similar to an elephant?",
+				"candidates": [
+					"Ant",
+					"Hippopotamus",
+					"Tree",
+					"Flower"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Which item is more related to peace?",
+				"candidates": [
+					"Knife",
+					"Olive branch",
+					"Key",
+					"Trumpet"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Which item is more related to seasons?",
+				"candidates": [
+					"Christmas tree",
+					"Makeup brush",
+					"Clouds",
+					"Hourglass"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which item is more related to summer?",
+				"candidates": [
+					"Sled",
+					"Sweater",
+					"Ice cream",
+					"Christmas tree"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which item is more related to eggs?",
+				"candidates": [
+					"Seeds",
+					"Ointment",
+					"Flag",
+					"Mirror"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which item is more related to poetry?",
+				"candidates": [
+					"Mouse",
+					"Eye",
+					"Sculpture",
+					"Lipstick"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which natural phenomenon is most similar to lightning?",
+				"candidates": [
+					"Rainbow",
+					"Hurricane",
+					"Raindrop",
+					"Comet"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Which one is less similar to the others?",
+				"candidates": [
+					"New York",
+					"Tokyo",
+					"Paris",
+					"Moon"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which one is less similar to the others?",
+				"candidates": [
+					"Guitar",
+					"Violin",
+					"Flute",
+					"Bamboo"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which item is most similar to music?",
+				"candidates": [
+					"Paintbrush",
+					"Dance",
+					"Teapot",
+					"Pocketknife"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Which item best represents creativity?",
+				"candidates": [
+					"Hammer",
+					"Paintbrush",
+					"Keyboard",
+					"Screwdriver"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Identify the item that is different from the others:",
+				"candidates": [
+					"Snake",
+					"Big tree",
+					"Tiger",
+					"Crow"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Identify the item that is different from the others:",
+				"candidates": [
+					"Iron pot",
+					"Small",
+					"Rice",
+					"Plate"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Identify the item that is different from the others:",
+				"candidates": [
+					"Cat",
+					"Bird",
+					"Goldfish",
+					"Television"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Identify the item that is different from the others:",
+				"candidates": [
+					"Train",
+					"Bicycle",
+					"Airplane",
+					"Pigeon"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Identify the item that is different from the others:",
+				"candidates": [
+					"Prairie",
+					"Grassland",
+					"Mountains and rivers",
+					"Volcano"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Identify the item that is different from the others:",
+				"candidates": [
+					"Apple",
+					"Banana",
+					"Orange",
+					"Tomato"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which item is more related to a bird? ",
+				"candidates": [
+					"Airplane",
+					"car",
+					"train",
+					"ship"
+				],
+				"answer": "A"
+			}
+		]
+	},
+	"first_stage": {
+		"early_represent_mind": [
+			{
+				"question": "How would you describe a soccer ball?",
+				"candidates": [
+					"Round",
+					"Huge",
+					"Sad",
+					"Insignificant"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which of the following items matches the description: high temperature, spherical?",
+				"candidates": [
+					"Soccer ball",
+					"Flower",
+					"Orange",
+					"Sun"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "When you see a child bouncing and singing on their way home from school, what do you think their mood is?",
+				"candidates": [
+					"Anxious",
+					"Calm",
+					"Happy",
+					"Afraid"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Choose a shape that is a triangle:",
+				"candidates": [
+					"Apple",
+					"Sandwich",
+					"Fish",
+					"Triangle"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which description is most relevant to a dog?",
+				"candidates": [
+					"Red",
+					"Fast",
+					"Four-legged",
+					"Happy"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Select an option that is the color purple:",
+				"candidates": [
+					"Grass",
+					"Sky",
+					"Seaweed",
+					"Sun"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which object is typically used for writing?",
+				"candidates": [
+					"Bird",
+					"Tree",
+					"Book",
+					"Elephant"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "If you see a child laughing and dancing, what do you think their mood is?",
+				"candidates": [
+					"Angry",
+					"Afraid",
+					"Happy",
+					"Sad"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "How would you describe the moon?",
+				"candidates": [
+					"Blue",
+					"Round",
+					"Pointed",
+					"Red"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Which of the following items typically has bristles and is used for cleaning teeth?",
+				"candidates": [
+					"Telephone",
+					"Television",
+					"Toothbrush",
+					"Bicycle"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "When you see a child crying while hugging a teddy bear, what do you think their mood is?",
+				"candidates": [
+					"Bored",
+					"Angry",
+					"Sad",
+					"Afraid"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Choose a shape that is circular:",
+				"candidates": [
+					"Ball",
+					"Star",
+					"Cube",
+					"Leaf"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which object is typically used for eating?",
+				"candidates": [
+					"Shoe",
+					"Chair",
+					"Chopsticks",
+					"Fan"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "How would you describe the color of snow?",
+				"candidates": [
+					"Red",
+					"Green",
+					"White",
+					"Yellow"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which of the following items matches the description: used for riding, typically has two wheels?",
+				"candidates": [
+					"Comb",
+					"Bicycle",
+					"Book",
+					"Car"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When you see a child drawing and smiling, what do you think their mood is?",
+				"candidates": [
+					"Angry",
+					"Nervous",
+					"Sad",
+					"Happy"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Select a shape that is square:",
+				"candidates": [
+					"Flower",
+					"Apple",
+					"Banana",
+					"Book"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which of the following items is typically used for telling time?",
+				"candidates": [
+					"Flower",
+					"Television",
+					"Watch",
+					"Shoe"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "How would you describe the color of the sun?",
+				"candidates": [
+					"Blue",
+					"Yellow",
+					"Green",
+					"Red"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Which of the following items matches the description: used for flying, typically has wings?",
+				"candidates": [
+					"Car",
+					"Airplane",
+					"Bicycle",
+					"Television"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When you see a child dancing to music, what do you think their mood is?",
+				"candidates": [
+					"Bored",
+					"Anxious",
+					"Happy",
+					"Afraid"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Select a shape that is heart-shaped:",
+				"candidates": [
+					"Sun",
+					"Tree",
+					"Book",
+					"Heart"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which of the following items is typically used for flying?",
+				"candidates": [
+					"Fish",
+					"Bird",
+					"Fishing rod",
+					"Train"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "How would you describe the color of fire?",
+				"candidates": [
+					"Blue",
+					"Yellow",
+					"Red",
+					"Green"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which of the following items matches the description: used for watching movies, typically has a screen and sound?",
+				"candidates": [
+					"Television",
+					"Ice cream",
+					"Chair",
+					"Book"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "When you see a child fall down and start crying, what do you think their mood is?",
+				"candidates": [
+					"Happy",
+					"Joyful",
+					"Sad",
+					"Angry"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Select an option that is the color orange:",
+				"candidates": [
+					"Cloud",
+					"Grass",
+					"Train",
+					"Orange"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which of the following items is typically used for shaving?",
+				"candidates": [
+					"Toothbrush",
+					"Television",
+					"Computer",
+					"Razor"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "How would you describe the color of grass?",
+				"candidates": [
+					"Blue",
+					"Green",
+					"Red",
+					"Purple"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Which of the following items matches the description: used for sleeping, soft?",
+				"candidates": [
+					"Desk lamp",
+					"Chair",
+					"Bed",
+					"Television"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "When you see a child sitting alone and looking downcast, what do you think their mood is?",
+				"candidates": [
+					"Surprised",
+					"Calm",
+					"Sad",
+					"Nervous"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Select a shape that is star-shaped:",
+				"candidates": [
+					"Fish",
+					"Moon",
+					"Star",
+					"Flower"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which of the following items is typically used for shading from the sun?",
+				"candidates": [
+					"Umbrella",
+					"Ice cream",
+					"Television",
+					"Book"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "How would you describe the color of the ocean water?",
+				"candidates": [
+					"Blue",
+					"Yellow",
+					"Green",
+					"Purple"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Which of the following items matches the description: used for eating, often with a knife and fork?",
+				"candidates": [
+					"Chair",
+					"Airplane",
+					"Plate",
+					"Television"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "When you see a child dancing to music, what do you think their mood is?",
+				"candidates": [
+					"Bored",
+					"Angry",
+					"Happy",
+					"Afraid"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Select a shape that is rectangular:",
+				"candidates": [
+					"Flower",
+					"Apple",
+					"Banana",
+					"Book"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which of the following items is typically used for telling time?",
+				"candidates": [
+					"Flower",
+					"Television",
+					"Wristwatch",
+					"Shoe"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "How would you describe the color of the sky?",
+				"candidates": [
+					"Blue",
+					"Yellow",
+					"Red",
+					"Green"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which of the following items matches the description: used for driving, typically has four wheels?",
+				"candidates": [
+					"Comb",
+					"Bicycle",
+					"Book",
+					"Car"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "When you see a child playing happily on the playground, what do you think their mood is?",
+				"candidates": [
+					"Angry",
+					"Afraid",
+					"Happy",
+					"Sad"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Select a shape that is oval:",
+				"candidates": [
+					"Moon",
+					"Star",
+					"Flower",
+					"Egg"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which of the following items is typically used for washing dishes?",
+				"candidates": [
+					"Faucet",
+					"Television",
+					"Computer",
+					"Dish brush"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "How would you describe the color of the sky?",
+				"candidates": [
+					"Blue",
+					"Yellow",
+					"Red",
+					"Green"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which of the following items matches the description: used for flying, typically has feathers?",
+				"candidates": [
+					"Car",
+					"Airplane",
+					"Bicycle",
+					"Television"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When you see a child quietly reading a book, what do you think their mood is?",
+				"candidates": [
+					"Happy",
+					"Anxious",
+					"Sad",
+					"Bored"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Which of the following items matches the description: used for flying, typically has wings?",
+				"candidates": [
+					"Bicycle",
+					"Airplane",
+					"Television",
+					"Basketball"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When you see a child holding a toy doll and smiling, what do you think their mood is?",
+				"candidates": [
+					"Afraid",
+					"Angry",
+					"Happy",
+					"Surprised"
+				],
+				"answer": "C"
+			},
+			{
+				"question": "Select a shape that is trapezoidal:",
+				"candidates": [
+					"Circular",
+					"Square",
+					"Rectangular",
+					"Trapezoid"
+				],
+				"answer": "D"
+			},
+			{
+				"question": "Which of the following items is typically used for swimming?",
+				"candidates": [
+					"Airplane",
+					"Bird",
+					"Bicycle",
+					"Swim ring"
+				],
+				"answer": "D"
+			}
+		],
+		"exist": [
+			{
+				"question": "Assuming there is a small ball on the table and it is covered with a cloth, is the small ball still on the table now?",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "It's now nighttime, and the sun is not in the sky. Does this mean the sun no longer exists?",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "After school, all the students have left the campus. Tomorrow is not a day off, so these students will return to the campus to continue their studies.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "After eating a hamburger, it's as if the hamburger has disappeared from the world.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When a toy car is placed in different locations in a room, does it cease to be the same toy car?",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When a book is opened to different pages, does it become a different book?",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When a toy is placed on a chair and then on the floor, it remains the same toy.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "Because mom cut her hair, she is no longer the same person as she was before the haircut.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Dad left for work in the morning, and it's now noon, so he's likely eating lunch.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "When a cup is turned upside down and placed on the table, it remains the same cup.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "A fast-moving train and a stationary train are two different types of transportation vehicles.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "When candy is placed into an opaque jar, it becomes invisible, but the candy in the jar still exists.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "A magician transformed a balloon into a piece of paper, which suggests that this piece of paper was once a balloon.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Originally, there were five books in the room. Later, one book was hidden under the table. Now, there are only four books left in the room.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "We put the newly purchased computer into the car trunk and went home. Should we go and buy another computer because there is no computer at home at this moment?",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "A big fish gave birth to a school of little fish, and these little fish suddenly appeared in the world.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Pour a cup of milk into a river, and the milk will flow with the river into the distance, not disappear.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "After a heavy snow, no flowers can be seen in the garden, suggesting that there are no flowers in the garden anymore.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "In winter, after the lake freezes over, the water in the lake disappears.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "A snail is crawling on a leaf, and then disappears behind another leaf. It's still on the leaf.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "A balloon in the room suddenly burst, and the air inside the balloon disappeared as well.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "After a gust of wind, two leaves fell down, which suggests that the tree has lost two leaves.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "The balloon deflates and becomes smaller and smaller until it disappears.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "After a small bird flew onto the tree, I couldn't see it, which suggests that the bird is no longer on the tree.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Since the images displayed on the television are constantly changing, it suggests that the television itself is also constantly changing.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Assuming a character in a movie kills someone, then the actor portraying this character is a killer.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If a flower blooms out of a patch of soil, then this flower is created out of thin air.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "The me of yesterday and the me of today are not the same me.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If an object falls into a well, then it disappears.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If a small fish dies, it completely disappears from this world.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "A sheet of paper that has been painted black is still the same sheet of paper.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "If Jack has undergone gender reassignment surgery, then he has changed from Jack to Jessie.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "An aluminium block oxidizes in the air and its surface turns into aluminium oxide, it's no longer the same aluminium block as before.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "The puppy we keep at home is missing, it may have run off somewhere else.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "If my money is lost, then it might have been stolen.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "The world is nothingness, everything is an illusion.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Each one of us truly exists.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "If a person is eaten by a megalodon, then that person is transformed into nutrients absorbed by the megalodon.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "There is an apple on the table, which suggests that someone deliberately put it there.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			},
+			{
+				"question": "I received an unexpected sum of money today; it appears to have come out of nowhere.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "An old friend whom I have not seen for twenty years seems like a stranger, as if I have never met this person before.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If a drop of black edible coloring is added into milk, turning it black, then it is no longer milk.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If a pastry chef shapes a cake to look like a pair of shoes, then it is no longer a cake, but a pair of shoes.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If an actor puts on a dinosaur headpiece, then he becomes a dinosaur.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "A potato, after several processing steps, turns into potato chips, and it's no longer a potato.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "A person weighed 52 kilograms before going to sleep and weighed 50 kilograms after waking up. The lost weight has disappeared into thin air.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Tornadoes, dust storms, and other natural disasters appear to come out of nowhere.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "Firewood continually disappears from this world during the process of burning.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If someone earns a lot more money than I do, it must be because they were born lucky, not because I lack ability.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "B"
+			},
+			{
+				"question": "If an apple falls from a tree and is missing after two days, it is possible that it was picked up by someone.",
+				"candidates": [
+					"True",
+					"False"
+				],
+				"answer": "A"
+			}
+		]
+	}
+}

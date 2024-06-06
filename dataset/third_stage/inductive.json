@@ -1,0 +1,1003 @@
+[
+  {
+    "question": "Curry is an excellent basketball player, averaging 5 three-pointers per game. In one game, Curry scored 13 three-pointers. Which of the following assumptions is more reasonable?",
+    "candidates": [
+      "Curry had a very good shooting touch in this game",
+      "Curry scored the highest points in the team" ,
+      "Curry is the coach of the team" ,
+      "Curry can't shoot two-pointers"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Every student in a certain university dormitory has purchased an electric bicycle. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "The students in this dormitory are all very wealthy",
+      "All students at this school have purchased electric bicycles",
+      "This dormitory is very far from the place where classes are held",
+      "The students in this dormitory cannot attend classes without an electric bicycle"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Evergreens are a type of tree that does not shed its leaves in the cold season. Winter has arrived, and in a forest of only evergreens, one tree has lost all its leaves, while the others have not. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "The tree that lost all its leaves is not an evergreen",
+      "The tree that lost all its leaves is sick",
+      "The tree that lost all its leaves never had leaves to begin with",
+      "The environment of this forest has undergone a major change"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In a high school, there are 300 students studying humanities and 1000 students studying sciences. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Sciences are more popular than humanities",
+      "Those who study humanities are good at humanities, and those who study sciences are good at sciences",
+      "The science students in this school always perform better than the humanities students",
+      "All students like the subjects they have chosen"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Renovations can produce a lot of dust. The bathroom in the dormitory building is being renovated, and Tom coughs violently when he passes by this bathroom, but not when he passes by bathrooms that are not being renovated. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Tom is very repulsed by bathrooms",
+      "Tom is very sensitive to dust",
+      "Tom is sick",
+      "Tom dislikes the workers who are under construction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Johnson had never eaten seafood before. After having a seafood feast for the first time, Johnson developed symptoms of swollen lips and red rashes on his body. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Johnson really likes seafood",
+      "Johnson will eat seafood frequently in the future",
+      "Johnson is allergic to seafood",
+      "The seafood Johnson ate was spoiled"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Lucy scored 85 points in a math test, while the average math score of her class is 90 points. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Lucy likes math",
+      "All students' math scores are 90 points",
+      "Lucy is a math teacher",
+      "Lucy's math score in this test is slightly below average in her class"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Miami International is the bottom-ranked team in the American Football League, Messi is an excellent football player, and after Messi joined Miami International, Miami International won the North American League Cup. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Messi is a football coach",
+      "Messi's arrival has significantly improved the team",
+      "Messi scored all of Miami International's goals in the match",
+      "Messi does not like to play football"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Mike often has pimples on his face and a lot of blackheads on his nose. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Mike is sick",
+      "Mike does not pay attention to facial care",
+      "Mike likes having pimples on his face",
+      "Mike is very unattractive"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In the hospital ward, a doctor issued a critical illness notice to a patient's family member. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "This patient's family member is critically ill",
+      "It is pointless to treat this patient now",
+      "The doctor is sick",
+      "This patient will soon be transferred to the ICU"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Niko is a white-collar worker who plans to quit his job after 10 years and move to the countryside to lead a leisurely life. Niko has been working for 9 years now. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Niko really enjoys his job as a white-collar worker",
+      "Niko is about to quit his job",
+      "Niko is a farmer",
+      "Niko is a very hardworking person"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Basketball player Harden scored 61 points and 10 assists in a basketball game and won the game. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Harden never passes the ball to his teammates",
+      "Harden's teammates did not score any points",
+      "Harden is very likely to have achieved the highest individual score in the game",
+      "Harden is a basketball referee"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Philip is a chubby guy who usually chooses three meat dishes for his lunch, but he only ate fruits and vegetables this noon. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "Philip doesn't like meat at all",
+      "Philip plans to lose weight",
+      "Philip never eats fruits and vegetables",
+      "Philip is very thin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "A group of caring individuals are donating blood on a voluntary blood donation vehicle. They can donate blood after their blood tests are qualified. Which of the following inferences is more reasonable?",
+    "candidates": [
+      "These people will receive cash rewards after donating blood",
+      "People with infectious diseases can also donate blood",
+      "Each person can donate 2000mL of blood at one time",
+      "These people are all caring and responsible individuals"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A certain brand of toothpaste claims to have a very effective teeth whitening effect, but after using this toothpaste twice, Jack's teeth did not become whiter. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "This brand engages in false advertising.",
+      "Jack's teeth are black.",
+      "Jack did not use this toothpaste for a long enough time.",
+      "Jack never brushes his teeth."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "During a training exercise, the child of Parent A fell ill, and Parent A insisted on completing the entire course. The child of Parent B also fell ill, and Parent B sent them back to the base camp to rest. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "Parent A cares more for their child than Parent B.",
+      "The child of Parent A has a stronger constitution than the child of Parent B.",
+      "There is a deep friendship between Parent A and Parent B.",
+      "Parent A and Parent B have significantly different views on parenting."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Jack and John agreed to go camping in Central Park over the weekend, but Jack did not wait for John at the agreed-upon location at the appointed time. Which inference is more reasonable among the following options?",
+    "candidates": [
+        "Jack might have forgotten the time.",
+        "John might have forgotten the time.",
+        "Jack is very happy about this happening.",
+        "John is very happy about this happening."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Some companies use the excuse of training employees' skills to sell related courses to employees at high prices, making it difficult for many employees to afford. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "The company cares deeply about its employees.",
+      "Employee skills indeed need significant improvement.",
+      "These companies are suspected of profiteering.",
+      "Employees should actively support the company's arrangements."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There are various earthquake predictions now, but no country has been able to accurately predict earthquakes to date. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "Earthquakes are mysterious and elusive.",
+      "Earthquakes are unpredictable and current technology cannot accurately predict their occurrence trends.",
+      "Future earthquakes will also always be unpredictable.",
+      "Future earthquakes can definitely be predicted."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Paul won a $1,000 lottery ticket last week. When he went to claim it today, he was denied because he forgot to bring the ticket. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "The prize claimant intentionally made it difficult for Paul.",
+      "Paul will lose the $1,000.",
+      "Paul should go find the lottery ticket and then come to claim the prize.",
+      "Buying a lottery ticket will definitely result in winning."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Both diamond and graphite are composed of carbon elements but have vastly different properties. Diamond is extremely hard, while graphite is relatively soft. Research has found that the root cause of their performance differences lies in the different arrangement of carbon atoms. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "Differences in the arrangement order and structure can significantly affect the properties of a substance.",
+      "The arrangement of carbon atoms in diamond is relatively sparse.",
+      "Graphite can be used to manufacture diamond.",
+      "Diamond is more valuable than graphite."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "If the sewage discharged into the river contains a high level of mercury, mercury will accumulate in the bodies of fish. Consuming a significant amount of such fish can lead to mercury poisoning in humans. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "The mercury content in the fish is not sufficient to cause poisoning in humans.",
+      "Fishing can also lead to mercury poisoning.",
+      "Not eating fish from the river will also result in mercury poisoning.",
+      "Stopping the discharge of high-mercury sewage into the river can help reduce the occurrence of future cases of mercury poisoning."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "The weather forecast says that the temperature will be between 10 to 25 degrees tomorrow, with a strong north wind of 6 to 7 levels. However, the next day turns out to be unbearably cold. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "The weather forecast is entirely unreliable.",
+      "It is currently winter.",
+      "Weather conditions cannot be predicted.",
+      "The weather forecast may be correct, but temperature and wind should be considered together."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Product A is inexpensive but comes with quality risks. Product B is expensive but comes with quality assurance. Now a company needs to make a purchasing decision between these two products. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "If the company values brand reputation, it should purchase Product A.",
+      "If the company's current financial situation is not good, it should purchase Product B.",
+      "If the company wants to buy high-quality products, it should purchase Product B.",
+      "If the company does not want to buy low-quality products, it should purchase Product A."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "There is a significant difference in the manufacturing of kraft paper and regular paper. Kraft paper is made using fewer wood fibers, and there is less damage to the strength of the fibers during chemical treatment. The fibers are closely spaced. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "Kraft paper is relatively strong.",
+      "Kraft paper has a better market demand.",
+      "Kraft paper is more expensive.",
+      "Kraft paper will be widely used."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "There are four orchards: A, B, C, and D. In Orchard A, all types of fruit trees can be found in Orchard B. Orchard C contains all the types of fruit trees found in Orchard B, and some of the fruit trees in Orchard C are also planted in Orchard D. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "All the fruit trees in Orchard A can be found in Orchard D.",
+      "All the fruit trees in Orchard A can be found in Orchard C.",
+      "All the fruit trees in Orchard D can be found in Orchard B.",
+      "Some of the fruit trees in Orchard B can be found in Orchard D."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In an experiment, researchers found that after administering a specific drug to rats, their learning ability significantly improved. Which hypothesis is most likely to explain this finding?",
+    "candidates": [
+      "The drug reduces the appetite of the rats.",
+      "The drug increases the weight of the rats.",
+      "The drug enhances the memory of the rats.",
+      "The drug improves the physical fitness of the rats."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee went to the beach for a vacation. Jack is wearing blue shorts and a white shirt. Paul is wearing blue shorts and a yellow shirt. Nash is wearing black shorts and a white shirt. Ross is wearing red shorts and a white shirt. Lee is wearing green shorts and a black shirt. Which conclusion is correct?",
+    "candidates": [
+      "More people are wearing black shirts.",
+      "More people are wearing white shirts.",
+      "More people are wearing yellow shirts.",
+      "There are a total of 4 different shirt colors."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee went to the beach for a vacation. Jack is wearing blue shorts and a white shirt. Paul is wearing blue shorts and a yellow shirt. Nash is wearing black shorts and a white shirt. Ross is wearing red shorts and a white shirt. Lee is wearing green shorts and a black shirt. Which conclusion is correct?",
+    "candidates": [
+      "More people are wearing blue shirts.",
+      "More people are wearing white shorts.",
+      "More people are wearing black shirts.",
+      "There are a total of 4 different shorts colors."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A study found that people who exercise for 30 minutes a day live longer than those who don't exercise. What can't this conclusion prove?",
+    "candidates": [
+      "Exercise can strengthen the immune system.",
+      "Exercise can reduce mental stress.",
+      "Exercise can improve sleep quality.",
+      "Exercise may exacerbate knee injuries."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Hot spring water in high mountain areas and volcanic zones has a high fluoride content. If you consume water with a high fluoride content for an extended period, there will be white spots on your teeth. Which inference is more reasonable among the following options?",
+    "candidates": [
+      "People living in high mountain areas must have white spots on their teeth.",
+      "People with white spots on their teeth must be living in high mountain areas.",
+      "People from areas other than volcanic and high mountain regions cannot have white spots on their teeth.",
+      "People in mountainous areas who have consumed hot spring water for a long time will definitely have white spots on their teeth."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A patient did not improve after taking medications A and B. The condition also did not improve after taking medications B and C. However, the condition improved after taking medications A and C. Which conclusion is more reasonable among the following options?",
+    "candidates": [
+      "Medication A is the most effective for this disease.",
+      "Medication B is the most effective for this disease.",
+      "Medication C is the most effective for this disease.",
+      "Taking medications A, B, and C together may also lead to an improvement in the condition."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "A patient did not improve after taking medications A and B. The condition improved somewhat after taking medications B and C. The condition improved after taking medications A and C. Which conclusion is more reasonable among the following options?",
+    "candidates": [
+      "Medication A is the most effective for this disease.",
+      "Medication B is the most effective for this disease.",
+      "Medication C is the most effective for this disease.",
+      "Taking medications A, B, and C together will worsen the condition."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "A patient did not improve after taking medications A, B, and C. The condition did not improve after taking medications B and C. The condition improved after taking medications A and C. Which conclusion is more reasonable among the following options?",
+    "candidates": [
+      "Medication B may be detrimental to the condition.",
+      "Medication A may be detrimental to the condition.",
+      "Medication C may be detrimental to the condition.",
+      "Medication C may be detrimental to the condition."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee, five people are planning a trip. Jack likes lakes and forests. Paul likes lakes and the ocean. Nash likes grasslands and the ocean. Ross likes the ocean and rivers. Lee likes mountains and rainforests. To satisfy as many people as possible, where should they go for the trip?",
+    "candidates": [
+      "Forest",
+      "Lakes",
+      "The ocean",
+      "Grasslands"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee, five people are planning a trip. Jack likes lakes and forests. Paul likes lakes and the ocean. Nash likes grasslands and the ocean. Ross likes forests and rivers. Lee likes mountains and forests. To satisfy as many people as possible, where should they go for the trip?",
+    "candidates": [
+      "Forest",
+      "Lakes",
+      "The ocean",
+      "Grasslands"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A cold person gradually returns to normal after the sun rises. What does this indicate?",
+    "candidates": [
+      "Night has arrived.",
+      "The temperature is higher at night.",
+      "It is summer.",
+      "The sun can provide warmth."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee are respectively a tiger, an elephant, a tiger, an elephant, and a tiger. Among them, Jack, Nash, and Lee like to eat meat. Paul and Ross like to eat vegetables. What conclusion can we draw from this?",
+    "candidates": [
+      "Tigers like to eat vegetables.",
+      "Tigers like to eat meat.",
+      "Elephants like to eat meat.",
+      "Elephants like to eat tigers."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee are respectively a lion, a zebra, a lion, a zebra, and a lion. Among them, Jack, Nash, and Lee like to eat meat. Paul and Ross like to eat vegetables. What conclusion can we draw from this?",
+    "candidates": [
+      "Lions like to eat vegetables.",
+      "Zebras like to eat meat.",
+      "Lions like to eat meat.",
+      "Zebras don't like to eat vegetables."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee are first grade, second grade, third grade, second grade, and first grade students at the same school. Only Jack and Lee have not studied course X, only Nash has studied course Y, and Paul and Ross are currently taking course Z. Which inference is correct?",
+    "candidates": [
+      "First-grade students need to study course X.",
+      "Second-grade students need to study course X.",
+      "First-grade students need to study course Z.",
+      "Third-grade students do not need to study course Y."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Jack, Paul, Nash, Ross, Lee are first grade, second grade, third grade, second grade, and first grade students at the same school. Only Jack and Lee have not studied course X, only Nash has studied course Y, and Paul and Ross are currently taking course Z. Which inference is correct?",
+    "candidates": [
+      "First-grade students need to study course X.",
+      "First-grade students need to study course Z.",
+      "Second-grade students need to study course Z.",
+      "Third-grade students do not need to study course Y."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a proposal resolution meeting: Proposal X received 42% in favor, 45% against, and 13% abstained, ultimately not passing; Proposal Y received 52% in favor, 40% against, and 8% abstained, ultimately passing; Proposal Z received 46% in favor, 44% against, and 10% abstained, ultimately passing; Proposal P received 39% in favor, 31% against, and 30% abstained, ultimately not passing. What could be the requirement for a proposal to pass?",
+    "candidates": [
+      "More in favor than against, with at least 40% in favor.",
+      "More in favor than against, with at least 30% in favor.",
+      "More in favor than against.",
+      "At least 40% in favor."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a proposal resolution meeting: Proposal X received 42% in favor, 45% against, and 13% abstained, ultimately not passing; Proposal Y received 52% in favor, 40% against, and 8% abstained, ultimately passing; Proposal Z received 46% in favor, 44% against, and 10% abstained, ultimately not passing; Proposal P received 39% in favor, 31% against, and 30% abstained, ultimately not passing. What could be the requirement for a proposal to pass? ",
+    "candidates": [
+      "More in favor than against, with at least 40% in favor.",
+      "More in favor than against, with at least 30% in favor.",
+      "More in favor than against.",
+      "At least 50% in favor."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In a proposal resolution meeting: Proposal X received 42% in favor, 45% against, and 13% abstained, ultimately not passing; Proposal Y received 52% in favor, 40% against, and 8% abstained, ultimately passing; Proposal Z received 46% in favor, 44% against, and 10% abstained, ultimately passing; Proposal P received 39% in favor, 31% against, and 30% abstained, ultimately passing. What could be the requirement for a proposal to pass?",
+    "candidates": [
+      "More in favor than against, with at least 40% in favor.",
+      "More in favor than against, with at least 50% in favor.",
+      "More in favor than against.",
+      "At least 40% in favor."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In an exam, Jack, Paul, Nash, Ross, Lee scored 89, 90, 92, 77, and 99, respectively. Paul, Nash, and Lee received scholarships. Which inference is reasonable?",
+    "candidates": [
+      "The scholarship requirement is a score greater than 88.",
+      "The scholarship requirement is a score greater than 89.",
+      "The scholarship requirement is a score greater than 90.",
+      "The scholarship requirement is a score greater than 92."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In an exam, Jack, Paul, Nash, Ross, Lee scored 89, 90, 92, 77, and 99, respectively. Nash and Lee received scholarships. Which inference is reasonable?",
+    "candidates": [
+      "The scholarship requirement is a score greater than 88.",
+      "The scholarship requirement is a score greater than 89.",
+      "The scholarship requirement is a score greater than 90.",
+      "The scholarship requirement is a score greater than 92."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a comprehensive exam, Jack scored 88 in math and 91 in physics. Paul scored 85 in math and 99 in physics. Nash scored 96 in math and 88 in physics. Ross scored 92 in math and 91 in physics. Lee scored 87 in math and 89 in physics. Only Ross received a scholarship. Which inference is reasonable?",
+    "candidates": [
+      "The scholarship requirement is both math and physics scores greater than 90.",
+      "The scholarship requirement is that either math or physics score is greater than 90.",
+      "The scholarship requirement is an average score greater than 90.",
+      "The scholarship requirement is a math score greater than 95."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a comprehensive exam, Jack scored 88 in math and 91 in physics. Paul scored 85 in math and 99 in physics. Nash scored 96 in math and 88 in physics. Ross scored 92 in math and 91 in physics. Lee scored 87 in math and 89 in physics. Paul, Nash, and Ross received scholarships. Which inference is reasonable?",
+    "candidates": [
+      "The scholarship requirement is both math and physics scores greater than 90.",
+      "The scholarship requirement is that either math or physics score is greater than 90.",
+      "The scholarship requirement is an average score greater than 90.",
+      "The scholarship requirement is a math score greater than 95."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a comprehensive exam, Jack scored 88 in math and 91 in physics. Paul scored 85 in math and 99 in physics. Nash scored 96 in math and 88 in physics. Ross scored 92 in math and 91 in physics. Lee scored 87 in math and 89 in physics. Jack, Paul, Nash, and Ross received scholarships. Which inference is reasonable? ",
+    "candidates": [
+      "The scholarship requirement is both math and physics scores greater than 90.",
+      "The scholarship requirement is that either math or physics score is greater than 90.",
+      "The scholarship requirement is an average score greater than 90.",
+      "The scholarship requirement is a math score greater than 95."
+    ],
+    "answer": 1
+  },
+
+  {
+    "question": "In a comprehensive exam, Jack scored 88 in math and 91 in physics. Paul scored 85 in math and 99 in physics. Nash scored 96 in math and 88 in physics. Ross scored 92 in math and 91 in physics. Lee scored 87 in math and 89 in physics. Only Nash received a scholarship. Which inference is reasonable?",
+    "candidates": [
+      "The scholarship requirement is both math and physics scores greater than 90.",
+      "The scholarship requirement is that either math or physics score is greater than 90.",
+      "The scholarship requirement is an average score greater than 90.",
+      "The scholarship requirement is a math score greater than 95."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In a math competition, five students Emma, Finn, Grace, Hannah, and Isaac scored 75, 82, 68, 91, and 88 points, respectively. Hannah and Isaac received scholarships. Based on these scores, which inference is reasonable?",
+    "candidates": [
+        "The scholarship requirement is a score greater than 78 points.",
+        "The scholarship requirement is a score greater than 80 points.",
+        "The scholarship requirement is a score greater than 85 points.",
+        "The scholarship requirement is a score greater than 90 points."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a music school, there are four professors: A, B, C, and D. Professors A and B teach piano, Professors B and C teach violin, Professors C and D teach guitar, Professors A and D teach bass. Which inference is correct?",
+    "candidates": [
+        "All professors teach piano.",
+        "All professors teach violin.",
+        "All professors teach guitar.",
+        "All professors teach two instruments."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In a shopping mall, every time a promotional event is held, customers flood into the mall for shopping. However, during normal times, there are noticeably fewer customers. Which inference is more reasonable?",
+    "candidates": [
+        "The mall's products are overpriced.",
+        "The mall's product quality is poor.",
+        "Customers only shop on promotional days.",
+        "Promotional events consistently attract more customers."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In an elementary school, there are five students: Alex, Paul, Mike, Grace, and Nash. Their exam scores are as follows: Alex scored 100 points, Paul scored 96 points, Mike scored 91 points, Grace scored 88 points, and Nash scored 80 points. Two of the students received teacher's stickers. Which inference is correct?",
+    "candidates": [
+        "The requirement for receiving a sticker is a score of 100 or higher.",
+        "The requirement for receiving a sticker is a score of 95 or higher.",
+        "The requirement for receiving a sticker is a score of 90 or higher.",
+        "The requirement for receiving a sticker is a score of 80 or higher."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In a school, A, B, C, D, and E are students in the first grade, second grade, first grade, second grade, and first grade, respectively. students A, C and E prefer math classes, while students B and D prefer science classes. Which inference is correct?",
+    "candidates": [
+        "Science classes are more popular than math classes.",
+        "First-grade students like math classes.",
+        "First-grade students like science classes.",
+        "First-grade students like science classes more than second-grade students."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In an elementary school, there are five students: Alex, Paul, Mike, Grace, and Nash. Their exam scores are as follows: Alex scored 100 points, Paul scored 96 points, Mike scored 91 points, Grace scored 88 points, and Nash scored 80 points. Alex and Paul each received three stickers, Mike received two stickers, Grace received one sticker, and Nash received none. Which inference is correct?",
+    "candidates": [
+        "A score of 95 or higher earns 2 stickers.",
+        "A score of 90 or higher earns 3 stickers.",
+        "A score of 85 or higher earns at least 1 sticker.",
+        "A score of 80 or higher earns at least 1 sticker."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Given an arithmetic sequence: 2, 5, 8, 11, 14, which of the following is the general term formula for this sequence?",
+    "candidates": [
+        "n + 1",
+        "3n - 1",
+        "4n + 2",
+        "n^2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Every time Linda eats mangoes, she experiences itchy skin and a rash. She doesn't have these symptoms when she avoids eating mangoes. Based on this experience, which inference is more reasonable?",
+    "candidates": [
+        "Linda is allergic to mangoes.",
+        "There is a problem with the mango supply in the market.",
+        "This is a seasonal issue.",
+        "Linda has a healthy condition."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Every time Tom and Lucy go on a picnic, it rains. However, when they have meals at home, it rarely rains. Which inference is more reasonable?",
+    "candidates": [
+        "Tom and Lucy enjoy picnicking in the rain.",
+        "Having meals at home can prevent rain.",
+        "Tom and Lucy prefer having meals at home.",
+        "Their picnic plans consistently coincide with rainy days."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Whenever Alice eats a specific dish at a certain restaurant, she experiences stomach pain and symptoms of food poisoning. However, she feels fine when dining at other restaurants. Based on this experience, which inference is more reasonable?",
+    "candidates": [
+        "The dish at that restaurant is unsanitary.",
+        "Alice is allergic to all restaurant foods.",
+        "Alice is only allergic to specific ingredients.",
+        "This is a coincidence."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Every time Amy eats seafood, she experiences itchy skin and difficulty breathing, among other reactions. However, when she eats other types of food, she doesn't have these reactions. Which inference is more reasonable?",
+    "candidates": [
+        "Amy is allergic to all foods.",
+        "Seafood is the cause of Amy's allergic reactions.",
+        "The food is not fresh.",
+        "This is a coincidence."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Whenever Jane drinks coffee, she experiences a faster heartbeat and trembling hands. However, when she drinks tea or other beverages, she doesn't have these reactions. Which inference is more reasonable?",
+    "candidates": [
+        "Jane has adverse reactions to all beverages.",
+        "Jane is not suited for drinking coffee.",
+        "Jane only drinks coffee when she's anxious.",
+        "Jane has a heart condition."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Every time Lucy eats a certain brand of ice cream, she feels nauseous and experiences diarrhea. However, when she chooses a different brand of ice cream, she doesn't have these reactions. Which inference is more reasonable?",
+    "candidates": [
+        "Lucy feels unwell after eating all ice cream.",
+        "That particular brand of ice cream may be problematic.",
+        "All ice cream causes nausea and diarrhea.",
+        "This is a coincidence."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Whenever Daniel finishes his workday, he feels tired and gets headaches. However, during the weekend when he's resting, he doesn't experience these discomforts. Which inference is more reasonable?",
+    "candidates": [
+        "Work stress is causing Daniel's physical discomfort.",
+        "Daniel takes medication during the weekend.",
+        "This is a coincidence.",
+        "Daniel has a cervical spine condition."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Every time it rains, John experiences joint pain and headaches. However, on sunny days, he feels fine. Based on this experience, which inference is more reasonable?",
+    "candidates": [
+        "John is allergic to sunshine.",
+        "Rainy weather negatively affects John's health.",
+        "John feels unwell every day.",
+        "This is a coincidence."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Whenever the school cafeteria offers pizza, there are always more students lining up to buy it than usual. Which inference is more reasonable?",
+    "candidates": [
+        "All students like pizza.",
+        "The food served in the cafeteria is generally unappetizing.",
+        "Most students like the pizza offered in the cafeteria.",
+        "Students don't enjoy eating at the cafeteria."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "On a certain internet video platform, when a movie is released, the number of views by users sharply increases. Which inference is more reasonable?",
+    "candidates": [
+        "No one likes to watch movies.",
+        "The movie is very appealing to the audience and is highly popular.",
+        "The platform's video content quality is poor.",
+        "This is a coincidence."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "After surveying 100 college students aged between 20 and 30, you found that 83 students choose to go to the movies on the weekends, and 17 choose to participate in sports activities. What conclusion can you draw from this?",
+    "candidates": [
+        "Everyone prefers going to the movies over participating in sports activities.",
+        "Most college students prefer participating in sports activities over watching movies.",
+        "Going to the movies is one of the favorite weekend activities for college students aged between 20 and 30.",
+        "These 100 college students are all exceptions."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the sequence: 1, 1, 1, 3, 5, 9, 17, what is the next number?",
+    "candidates": [
+        "20",
+        "27",
+        "31",
+        "57"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In the sequence: 1, 3, 6, 10, x, 21, 28, 36..., what is the value of x?",
+    "candidates": [
+        "15",
+        "16",
+        "18",
+        "20"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In the sequence: 100, 88, 76, 64, 52, x, 28..., what is the value of x?",
+    "candidates": [
+        "50",
+        "45",
+        "30",
+        "40"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In the sequence: 2, 1, 3, 4, 7, x, 18, 29, 47..., what is the value of x?",
+    "candidates": [
+        "8",
+        "9",
+        "11",
+        "15"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "An integer sequence is: 1, 4, 9, 16, ... What is the next number?",
+    "candidates": [
+        "12",
+        "20",
+        "25",
+        "36"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a restaurant, there are 5 employees A, B, C, D, and E, who are part-time, full-time, part-time, full-time, and part-time, respectively. Among them, A, C, and E are students. Which inference is correct?",
+    "candidates": [
+        "All students are part-time employees.",
+        "All part-time employees are students.",
+        "All full-time employees are students.",
+        "All students are full-time employees."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In an experiment, researchers found that one group of plants was placed in sunlight and grew faster with greener leaves, while another group of plants was placed in the shade. Which inference is most reasonable?",
+    "candidates": [
+        "Shade has no effect on plant growth.",
+        "Sunlight makes plant leaves turn yellow.",
+        "Sunlight contributes to plant growth.",
+        "Plants in the shade grow faster."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Every time Bill eats seafood,  he feels itchy lips,  swollen tongue and difficulty breathing. Which of the following inferences is correct?",
+    "candidates": [
+      "Bill's lips itch easily",
+      "Bill often catches cold.",
+      "Bill is allergic to seafood.",
+      "Bill is not used to eating seafood."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a running race,  Jack,  Paul,  Nash,  Ross and Lee ran for 1 minute and 30 seconds,  2 minutes,  1 minute and 15 seconds,  59 seconds, 55 seconds respectively. Among them,  Lee and Ross won the prize,  so which of the following inferences is reasonable?",
+    "candidates": [
+      "Lee will get bonuses in all competitions.",
+      "The requirements for winning the bonus are the top three.",
+      "The requirement for winning the prize is that the competition takes less than 1 minute.",
+      "Bonuses are paid at random."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Put 1 kg of ice and 1 kg of iron at both ends of the balance,  and the balance will remain balanced. Put 1 kilogram of cotton and 1 kg of iron at both ends of the balance,  and the balance will remain balanced. So which of the following inferences is correct?",
+    "candidates": [
+      "A kilogram of iron is as heavy as a kilogram of cotton.",
+      "One kilogram of ice is heavier than one kilogram of cotton.",
+      "A kilo of cotton is lighter than a kilo of iron.",
+      "I'm not sure which is heavier,  one kilogram of ice or one kilogram of cotton."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Mike observed the living habits of several animals and found that they all have something in common. Based on these commonalities,  he drew a general conclusion. Which of the following options is Mike's possible conclusion?",
+    "candidates": [
+      "All animals need to breathe air.",
+      "All animals can talk.",
+      "All animals like eating meat.",
+      "All animals have tails."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a game,  Lily,  Anna,  Emma,  Lucy,  Kate got five balloons with different colors: red,  yellow,  green,  blue and purple. Lily got the red balloon,  Anna got the yellow balloon,  Emma got the green balloon,  Lucy got the blue balloon and Kate got the purple balloon. Which of the following inferences is correct?",
+    "candidates": [
+      "The red balloon is the biggest.",
+      "The yellow balloon is the smallest.",
+      "The green balloon is the brightest.",
+      "There is not enough information to infer any general conclusions."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Jack,  Paul,  Nash,  Ross,  and Lee are primary school students in the same school. Only Jack and Lee have not studied course X,  only Nash has studied course Y,  and Paul and Ross are taking course Z. Which of the following inferences is correct?  ",
+    "candidates": [
+      "First-year students need to take course X.",
+      "First-year students need to take course Z.",
+      "Sophomore students need to take course Z.",
+      "Grade three students don't need to take course Y."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a music festival,  Tom,  Bob,  Sam,  Jim and Tim played five different musical instruments: piano,  guitar,  violin,  saxophone and drum. Tom played the piano,  Bob played the guitar,  Sam played the violin,  Jim played the saxophone and Tim played the drum. Which of the following inferences is correct?",
+    "candidates": [
+      "Piano and guitar belong to stringed instruments.",
+      "Violin and saxophone belong to wind instruments.",
+      "Drum and saxophone are percussion instruments.",
+      "There is not enough information to infer any general conclusions."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Alice,  Cindy,  Mary,  Jane,  Kelly are five nurses in the same hospital. Alice is in charge of wards A and B,  Cindy is in charge of wards B,  Mary is in charge of wards B and C,  Jane is in charge of wards D and Kelly is in charge of wards E. Alice,  Cindy and Mary are all wearing white uniforms,  and Jane,  Kelly are all wearing blue uniforms. Which of the following inferences is correct?",
+    "candidates": [
+      "Nurses in white uniforms are in charge of wards A,  B and C.",
+      "Nurses in blue uniforms are in charge of wards A,  B and C.",
+      "Nurses in white uniforms are in charge of wards D and E.",
+      "Nurses in blue uniforms are in charge of wards D and E."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Every time Jack eats chocolate,  he feels happy,  energetic and quick-thinking. There will be no difference when he doesn't eat chocolate. Based on this experience,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "Jack is addicted to chocolate.",
+      "Chocolate can improve Jack's mood,  energy and intelligence.",
+      "This is a coincidence",
+      "Jack has hypoglycemia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In an exam,  Alan,  Paul,  Bill,  Lisa and Tom got 84 points,  93 points,  97 points,  89 points and 85 points respectively. Paul,  Bill and Lisa won the scholarship. Which of the following is the most reasonable inference?",
+    "candidates": [
+      "The requirement for getting a scholarship is that the score is greater than 83 points.",
+      "The requirement for getting a scholarship is that the score is greater than 84 points.",
+      "The requirement for getting a scholarship is that the score is greater than 85 points.",
+      "The requirement for getting a scholarship is that the score is greater than 86 points."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In a game,  Bob,  Lily,  David,  Anna,  John got 10 points,  15 points,  20 points,  25 points and 30 points respectively. John,  David and Anna won the prize. Which of the following inferences is reasonable?",
+    "candidates": [
+      "The requirement for winning the prize is that the score is greater than 9 points.",
+      "The requirement for winning the prize is that the score is greater than 10 points.",
+      "The requirement for winning the prize is that the score is greater than 19 points.",
+      "The requirement for winning the prize is that the score is greater than 2 points."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Every time Alice watches a horror movie,  she feels scared,  nervous and insomnia. There will be no difference when she doesn't watch horror movies. Based on this experience,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "Alice is allergic to horror movies.",
+      "Horror movies can improve Alice's heart rate,  adrenaline and alertness.",
+      "This is a coincidence",
+      "Alice has a psychological disorder."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Every time Alice listens to music,  she feels relaxed,  happy and creative. There will be no difference when she doesn't listen to music. Based on this experience,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "Alice is not interested in music.",
+      "Music can improve Alice's mood,  inspiration and imagination.",
+      "This is a coincidence",
+      "Alice has attention deficit disorder."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In a survey,  Mary,  John,  Lisa,  Tom,  Amy said they like apples,  bananas,  oranges,  apples and bananas respectively. Which of the following inferences is reasonable from these data?",
+    "candidates": [
+      "Apple is the most popular fruit.",
+      "Bananas are the most popular fruits.",
+      "Oranges are the most popular fruit.",
+      "It is impossible to judge which kind of fruit is the most popular."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In a game,  players can choose different roles and skills. Each role has its own characteristics and advantages,  and each skill has its own effect and consumption. Players can improve their combat effectiveness by combining different roles and skills. Which of the following inference is more reasonable?",
+    "candidates": [
+      "There are many possible combinations between roles and skills.",
+      "There is a fixed optimal collocation between roles and skills.",
+      "There is no effective collocation between roles and skills.",
+      "There is a random collocation between roles and skills."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In an experiment,  scientists observed the effects of different colors of light on plant growth. They found that both red light and blue light can promote plant growth,  while green light and yellow light can inhibit plant growth. Based on these observations,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "The intensity of light determines the speed of plant growth.",
+      "The color of light doesn't determine the speed of plant growth.",
+      "The angle of light determines the speed of plant growth.",
+      "The color of light determines the speed of plant growth."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "In one course,  the teacher explained different literary schools and works. He introduced romanticism,  realism,  symbolism,  modernism and other schools,  as well as their respective representative writers and works. He also analyzed the characteristics and styles of different schools and their influence on later generations. According to these explanations,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "Literary schools develop in chronological order.",
+      "Literary schools are distributed according to regions.",
+      "Literary schools are divided according to themes.",
+      "Literary schools are divided according to form."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "On a trip,  Bill and his friends went to several countries in Europe. They found that every country has its own language,  currency,  customs,  history and so on. They also found that each country has some common characteristics,  such as belonging to the European Union,  using metric units,  and having seasonal changes. Based on these findings,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "Europe is a small continent.",
+      "Europe is an isolated continent.",
+      "Europe is a diverse continent.",
+      "Europe is a big continent."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "On a trip,  Alice and her friends went to several cities in America. They found that each city has its own architecture,  transportation,  culture,  history and so on. They also found that each city has some common characteristics,  such as belonging to the United States,  using English and having a democratic system. Based on these findings,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "The United States is a pluralistic country.",
+      "The United States is a unified country.",
+      "America is an isolated country.",
+      "America is a small country."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In a game,  players can choose different maps and modes to fight. There are maps of desert,  forest,  city and snow,  and there are modes such as team death race,  flag race,  survival race and sniper race. Each map and mode has its own characteristics and difficulties,  and each battle has its own goals and rules. Players can improve their challenges and fun by combining different maps and modes. Which of the following inference is more reasonable?",
+    "candidates": [
+      "There is a random collocation between maps and patterns.",
+      "There is a fixed optimal collocation between maps and patterns.",
+      "There are many possible combinations between maps and patterns.",
+      "There is no effective collocation between maps and patterns."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In a survey,  researchers collected data of 1000 teenagers,  including their age,  gender,  height,  weight,  exercise habits,  health status and so on. They found that the better the exercise habits,  the higher the height; The better the exercise habit,  the more moderate the weight; The better the exercise habit,  the better the health condition. Based on these data,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "The better the exercise habits,  the better the physical development of teenagers.",
+      "Exercise habit is the only factor that affects the physical development of teenagers.",
+      "Exercise habits can't affect the physical development of teenagers.",
+      "Can't draw any conclusions."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In an experiment,  scientists observed the state of water at different temperatures. They found that when the temperature is below 0 degrees Celsius,  water will become solid. When the temperature is higher than 100 degrees Celsius,  water will turn into gas. When the temperature is between 0 and 100 degrees Celsius,  water will remain liquid. Based on these observations,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "The state of water depends on the pressure.",
+      "The state of water depends on the temperature.",
+      "The state of water depends on density.",
+      "The state of water depends on color."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "On a trip,  Lee and his friends went to several provinces in China. They found that each province has its own dialect,  food,  customs,  history and so on. They also found that each province has some common features,  such as belonging to China,  using Chinese characters and having a central government. Based on these findings,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "China is a pluralistic country.",
+      "China is a unified country.",
+      "China is an isolated country.",
+      "China is a mixed country."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Every time Lily wears red clothes, she feels confident, beautiful and lucky. There will be no difference when she doesn't wear red clothes. Based on this experience, which of the following inferences is more reasonable?",
+    "candidates": [
+      "Lily is not interested in red clothes.",
+      "Red clothes can improve Lily's mood,  charm and opportunity.",
+      "This is a coincidence",
+      "Lily is color blind."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Every time David plays a jigsaw puzzle,  he feels smart,  focused and organized. When he doesn't play puzzles,  there will be no difference. Based on this experience,  which of the following inferences is more reasonable?",
+    "candidates": [
+      "Puzzles can improve David's intelligence,  attention and logic.",
+      "David is not interested in puzzles.",
+      "This is a coincidence",
+      "David doesn't like studying."
+    ],
+    "answer": 0
+  }
+]

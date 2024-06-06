@@ -1,0 +1,803 @@
+[
+    {
+        "id": "0000-0000",
+        "question": "Pour a glass of water into two cups with different shapes, one is tall and thin, and the other is short and fat. Which cup has more water? ",
+        "candidates": [
+            "The tall and thin cup",
+            "The short and fat cup",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0001",
+        "question": "Divide a piece of dough into two equal halves, one half is rolled into small balls, and the other half is stretched into long strips. Which half of the dough is more? ",
+        "candidates": [
+            "The half with small balls",
+            "The half with long strips",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0002",
+        "question": "Fold a long rope into two shapes, U-shaped and S-shaped. Which shape of the rope is longer? ",
+        "candidates": [
+            "The U-shaped",
+            "The S-shaped",
+            "The same length"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0003",
+        "question": "Put a pile of equally sized small stones into boxes with different shapes, one box is rectangular, and the other is circular. Which box has more stones? ",
+        "candidates": [
+            "The rectangular box",
+            "The circular box",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0004",
+        "question": "Pour a cup of water into two glasses of the same height but different widths. Which glass has more water?",
+        "candidates": [
+            "The wide glass",
+            "The narrow glass",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0005",
+        "question": "A piece of eraser is divided in half, one half is cut into small pieces, and the other half is kept intact. Which half of the eraser is more? ",
+        "candidates": [
+            "The half that is cut into small pieces",
+            "The half that is kept intact",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0006",
+        "question": "Divide a piece of chocolate into two pieces, one is rectangular, and the other is square. Which piece of chocolate is more? ",
+        "candidates": [
+            "The rectangular piece",
+            "The square piece",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0007",
+        "question": "Place a pile of equally sized small balls into two cups of different sizes but the same height. All the balls have been loaded. Which cup has more small balls?",
+        "candidates": [
+            "The large cup",
+            "The small cup",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0008",
+        "question": "A piece of paper is folded in half, one half is kept intact, and the other half is torn into two halves. Which half of the paper is more?",
+        "candidates": [
+            "The half that is kept intact",
+            "The half that is torn into two halves",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0009",
+        "question": "Put a pile of the same number of candies into two boxes of different shapes, one box is rectangular, and the other is circular. Which box has more candies? ",
+        "candidates": [
+            "The rectangular box",
+            "The circular box",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0010",
+        "question": "A piece of bread is evenly cut into two halves, one half is sliced, and the other half is kept intact. Which half of the bread has more?",
+        "candidates": [
+            "The sliced half",
+            "The intact half",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0011",
+        "question": "Pour a cup of orange juice completely into two glasses of different heights but the same width. Which glass has more orange juice?",
+        "candidates": [
+            "The taller glass",
+            "The shorter glass",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0012",
+        "question": "Place a pile of equally sized building blocks into two boxes of different shapes, one box is triangular, and the other is square. Which box has more building blocks?",
+        "candidates": [
+            "The triangular box",
+            "The square box",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0013",
+        "question": "A piece of chocolate is evenly divided into two pieces, one piece is thin, and the other piece is thick. Which piece of chocolate has more?",
+        "candidates": [
+            "The thick piece",
+            "The thin piece",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0014",
+        "question": "Pour a cup of milk into two glasses of different heights but the same width. Which glass has more milk? ",
+        "candidates": [
+            "The taller glass",
+            "The shorter glass",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0015",
+        "question": "A pile of the same number of books is placed into two boxes of different sizes but the same thickness. Which box has more books? ",
+        "candidates": [
+            "The larger box",
+            "The smaller box",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0016",
+        "question": "A sheet of paper is folded in half, one half is torn into small pieces, and the other half is kept intact. Which half of the paper has more?",
+        "candidates": [
+            "The half that is torn into small pieces",
+            "The half that is kept intact",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0017",
+        "question": "A block of butter is evenly divided into two pieces, one piece is cut into small chunks, and the other piece is kept intact. Which piece of butter has more?",
+        "candidates": [
+            "The piece cut into small chunks",
+            "The piece kept intact",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0018",
+        "question": "A piece of chocolate is evenly divided into two pieces, one piece is triangular in shape, and the other piece is circular in shape. Which piece of chocolate has more? ",
+        "candidates": [
+            "The triangular-shaped piece",
+            "The circular-shaped piece",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0019",
+        "question": "A piece of eraser is evenly divided into two halves, one half is shaped like a cone, and the other half is kept intact. Which half of the eraser has more? ",
+        "candidates": [
+            "The half shaped like a cone",
+            "The half kept intact",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0020",
+        "question": "A stack of coins of the same size is evenly divided into two stacks. Which stack looks larger?",
+        "candidates": [
+            "The first stack",
+            "The second stack",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0021",
+        "question": "One large cardboard box and one small cardboard box, which one can hold more books? ",
+        "candidates": [
+            "The large cardboard box",
+            "The small cardboard box",
+            "The same amount"
+        ],
+        "answer": 0
+    },
+    {
+        "id": "0000-0022",
+        "question": "If a line segment is evenly divided into two segments, which segment is longer? ",
+        "candidates": [
+            "The first segment",
+            "The second segment",
+            "The same length"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0023",
+        "question": "One large circle and one small circle, which circle has a longer circumference?",
+        "candidates": [
+            "The large circle",
+            "The small circle",
+            "The same length"
+        ],
+        "answer": 0
+    },
+    {
+        "id": "0000-0024",
+        "question": "A pile of bricks of the same size is evenly divided into two piles. Which pile looks larger?",
+        "candidates": [
+            "The first pile",
+            "The second pile",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0025",
+        "question": "Two ropes of the same size are rolled into a compact ball and a straight line segment. Which rope is longer?",
+        "candidates": [
+            "The compact ball",
+            "The straight line segment",
+            "The same length"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0026",
+        "question": "If a rope is turned from a horizontal direction to a vertical direction, does the length of the rope change? ",
+        "candidates": [
+            "It changes",
+            "It doesn't change"
+        ],
+        "answer": 1
+    },
+    {
+        "id": "0000-0027",
+        "question": "If a size-identical orange balloon and a size-identical red balloon are placed in a room, which balloon is larger? ",
+        "candidates": [
+            "The orange balloon",
+            "The red balloon",
+            "The same size"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0028",
+        "question": "Suppose there are two plates, one large and one small, both containing the same number of cookies. Which plate has more cookies?",
+        "candidates": [
+            "The large plate",
+            "The small plate",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0029",
+        "question": "Suppose there are two piles of toys of the same size and quantity. One pile of toys is stacked into a tall tower, and the other pile of toys is stacked into a wide plane. Both piles of toys are completely used. Which shape has a larger volume?",
+        "candidates": [
+            "The tall tower shape is larger",
+            "The wide plane shape is larger",
+            "The same size"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0030",
+        "question": "Suppose there are two piles of the same number of books, one pile of books is arranged in a row, and the other pile of books is stacked into a stack. Which pile of books has more?",
+        "candidates": [
+            "The pile arranged in a row has more",
+            "The pile stacked into a stack has more",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0031",
+        "question": "If a pile of the same number of sugar cubes, some stacked into a tall tower, and others spread out on the table, which pile of sugar appears to have more?",
+        "candidates": [
+            "The pile stacked into a tall tower appears to have more",
+            "The pile spread out on the table appears to have more",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0032",
+        "question": "Fold one line segment into a small circular loop, and then straighten another line segment of the same length. What is the relationship between the lengths of these two line segments? ",
+        "candidates": [
+            "The same length",
+            "The circular loop is longer",
+            "The straightened one is longer"
+        ],
+        "answer": 0
+    },
+    {
+        "id": "0000-0033",
+        "question": "There are two boxes of the same size, one filled with bricks, and the other filled with cotton. What is the relationship in weight between these two boxes? ",
+        "candidates": [
+            "The same weight",
+            "The one with bricks is heavier",
+            "The one with cotton is heavier"
+        ],
+        "answer": 1
+    },
+    {
+        "id": "0000-0034",
+        "question": "There are two sets of the same number of toy cars, one set arranged in a row, and the other set arranged in a circle. Which set of toy cars has more?",
+        "candidates": [
+            "The set arranged in a row has more",
+            "The set arranged in a circle has more",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0035",
+        "question": "Divide a piece of clay evenly into two halves, with one half squeezed into a hollow ball and the other half squeezed into a solid ball. What is the weight relationship between these two halves of clay?",
+        "candidates": [
+            "The empty half is lighter",
+            "The solid half is heavier",
+            "The same weight"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0036",
+        "question": "There are two sets of the same number of toy building blocks, one set stacked into one pile, and the other set stacked into two piles. Which set of toy building blocks has more?",
+        "candidates": [
+            "The set stacked into one pile has more",
+            "The set stacked into two piles has more",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0037",
+        "question": "There are two glasses of the same size, one filled with water, and the other filled with sand. Which glass has a larger capacity?",
+        "candidates": [
+            "The glass filled with water is larger",
+            "The glass filled with sand is larger",
+            "The same size"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0038",
+        "question": "There are two pieces of toy train tracks of the same length, one is a straight line, and the other is bent into a circle. Which track is longer?",
+        "candidates": [
+            "The straight track is longer",
+            "The circular track is longer",
+            "The same length"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0039",
+        "question": "There are two pieces of identical-length wooden sticks, one is lying flat on the table, and the other is vertically inserted into the ground. Which wooden stick is longer?",
+        "candidates": [
+            "The one lying flat on the table is longer",
+            "The one vertically inserted into the ground is longer",
+            "The same length"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0040",
+        "question": "Two identical bowls are filled with soup and juice, respectively. Which bowl contains the larger volume of liquid?",
+        "candidates": [
+            "The bowl with juice",
+            "The bowl with soup",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0041",
+        "question": "There are two containers of the same size, one filled with sand, and the other filled with glass beads. Both containers have the same volume. Which container has a larger volume of material?",
+        "candidates": [
+            "The container with sand has more material",
+            "The container with glass beads has more material",
+            "The same amount"
+        ],
+        "answer": 1
+    },
+    {
+        "id": "0000-0042",
+        "question": "A small cardboard has drawings of 5 red small circles and 5 blue small triangles, all with equal perimeters. Which group of shapes has a longer total length?",
+        "candidates": [
+            "The total length of the red small circles is longer",
+            "The total length of the blue small triangles is longer",
+            "The total length of both groups is the same"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0043",
+        "question": "A small cardboard has drawings of 8 green small squares and 8 purple small rectangles, all with equal perimeters. Which group of shapes has a longer total length? ",
+        "candidates": [
+            "The total length of the green small squares is longer",
+            "The total length of the purple small rectangles is longer",
+            "The total length of both groups is the same"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0044",
+        "question": "Cut a one meter long wooden stick into ten small wooden sticks of random length. What is the relationship between the total length of ten small wooden sticks and one meter?",
+        "candidates": [
+            "The same",
+            "One meter is longer",
+            "The total length of ten small wooden sticks is longer",
+            "Not sure"
+        ],
+        "answer": 0
+    },
+    {
+        "id": "0000-0045",
+        "question": "If two same sticks are cut into 5 random pieces and 10 equal pieces respectively, what is the relationship between the total length of the 5 random pieces and the total length of the 10 equal pieces",
+        "candidates": [
+            "The total length of the 5 random pieces is longer",
+            "The total length of the 10 equal pieces is longer",
+            "The same",
+            "Not sure"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0046",
+        "question": "A piece of clay is divided into two equal pieces. One piece of clay is rolled into a compact ball, while the other piece is crushed into a flat pancake shape. What is the relationship in size between these two pieces of clay? ",
+        "candidates": [
+            "They are the same size",
+            "The ball-shaped one is larger",
+            "The flat one is larger"
+        ],
+        "answer": 0
+    },
+    {
+        "id": "0000-0047",
+        "question": "A pile of colored stones is divided into two piles, each with the same number of stones. One pile of stones is scattered on the ground, and the other pile of stones is placed in a glass jar. Which pile of stones has more in quantity?",
+        "candidates": [
+            "The pile in the glass jar has more",
+            "The pile scattered on the ground has more",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0048",
+        "question": "If a cup of water is poured into a deep bowl and a shallow plate, which container has more water?",
+        "candidates": [
+            "The deep bowl",
+            "The shallow plate",
+            "The same amount"
+        ],
+        "answer": 2
+    },
+    {
+        "id": "0000-0049",
+        "question": "If the same number of flowers are arranged in a row and placed in a vase, what kind of conclusion will there be? ",
+        "candidates": [
+            "When placing flowers in the vase, there are more flowers",
+            "When placing flowers in a row, there are more flowers",
+            "The arrangement will not change the number of flowers"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Divide a kilogram of sugar into two bottles, then eat some in one bottle. What will be the total weight of the sugar in the two bottles (in kilograms)?",
+        "candidates": ["Less than one kilogram", "Equal to one kilogram", "More than one kilogram"],
+        "answer": 0
+    },
+    {
+        "question": "Pour two 220 ml cups of water into a 500 ml large cup. Will this large cup be filled?",
+        "candidates": ["Yes", "No"],
+        "answer": 1
+    },
+    {
+        "question": "Split a one-square-meter piece of paper in half. What is the total area of the two pieces of paper?",
+        "candidates": ["One square meter", "Two square meters", "Less than one square meter"],
+        "answer": 0
+    },
+    {
+        "question": "Suppose you have a box of eggs, divide it in half among two friends, and then take two eggs from one friend. Then how many eggs do you and your two friends have?",
+        "candidates": ["Same as the original box quantity", "Greater than the original box quantity", "Less than the original box quantity"],
+        "answer": 0
+    },
+    {
+        "question": "Divide 500 grams of flour into two parts, and then make a bread out of one part. How much is the total weight of the two parts of flour?",
+        "candidates": ["Equal to 500 grams", "More than 500 grams", "Less than 500 grams"],
+        "answer": 2
+    },
+    {
+        "question": "Pour a liter of juice into two identical cups, and then pour the juice from one cup into a taller, thinner cup. Which cup has the most juice?",
+        "candidates": ["The wide cup", "The tall thin cup", "Both cups have the same amount of juice"],
+        "answer": 2
+    },
+    {
+        "question": "Divide a 5 kg watermelon into two halves, give one to a friend and keep one for yourself. Then how much weight of watermelon do you and your friend have together?",
+        "candidates": ["Equal to 5 kg", "More than 5 kg", "Less than 5 kg"],
+        "answer": 0
+    },
+    {
+        "question": "Divide a square meter of land into two parts and then transform one part into a vegetable garden. What is the total area of the two parts?",
+        "candidates": ["One square meter", "Two square meters", "Less than one square meter"],
+        "answer": 0
+    },
+    {
+        "question": "Take a piece of clay, divide it into two equal balls, and then flatten one ball. Which piece of clay is larger?",
+        "candidates": ["The ball-shaped clay", "The flattened clay", "Both pieces of clay are the same size"],
+        "answer": 2
+    },
+    {
+        "question": "Smash a 1 kg biscuit into pieces. What is the total weight of these pieces?",
+        "candidates": ["Less than one kilogram", "Equal to one kilogram", "More than one kilogram"],
+        "answer": 1
+    },
+    {
+        "question": "Divide a shoebox of ping pong balls among two children and then one of the children loses one ball. What is the total count of ping pong balls between the two children?",
+        "candidates": ["Equal to the original shoebox quantity", "More than the original shoebox quantity", "Less than the original shoebox quantity"],
+        "answer": 2
+    },
+    {
+        "question": "Pour a liquid into two identical cups and then pour the liquid from one cup into a thinner cup. Which cup has the greatest amount of liquid?",
+        "candidates": ["The quantity remains unchanged", "The quantity increased", "The quantity decreased"],
+        "answer": 0
+    },
+    {
+        "question": "Take a piece of clay, divide it into two balls, then rub one ball into a snake shape. What is the size of the two pieces of clay?",
+        "candidates": ["The snake-shaped is larger", "The ball-shaped is larger", "Both are the same size"],
+        "answer": 2
+    },
+    {
+        "question": "Cut a large watermelon into several slices. What is the total weight of all the slices?",
+        "candidates": ["Less than the original watermelon weight", "Equal to the original watermelon weight", "Greater than the original watermelon weight"],
+        "answer": 1
+    },
+    {
+        "question": "There's a large rock with a length, width, and height of 3 meters, 4 meters, and 5 meters, respectively. If this rock is cut into two pieces, what will be the size of the two pieces?",
+        "candidates": ["The size decreases", "The size stays the same", "The size increases"],
+        "answer": 1
+    },
+    {
+        "question": "If a 2-liter bottle of water is poured into 4 cups of the same size, and then one of the cups is poured out. What is the total amount of water in the 4 cups?",
+        "candidates": ["Equal to 2 liters", "Less than 2 liters", "More than 2 liters"],
+        "answer": 1
+    },
+    {
+        "question": "A 1 kg bag of rice is divided into two equal parts. One part is cooked and eaten. What is the total weight of rice?",
+        "candidates": ["Equal to 1 kg", "Less than 1 kg", "More than 1 kg"],
+        "answer": 1
+    },
+    {
+        "question": "A letter is written on a piece of paper. The paper is torn into two parts. Does the total area of the two parts of the paper change?",
+        "candidates": ["Increased", "Decreased", "Stays the same"],
+        "answer": 2
+    },
+    {
+        "question": "A 2 liter bottle of juice is divided equally between two kids, and then a third of one kid's juice is drunk. How much juice is left in total?",
+        "candidates": ["Equal to 2 liters", "Less than 2 liters", "More than 2 liters"],
+        "answer": 1
+    },
+    {
+        "question": "A 10 kg cake was split equally among 10 persons. Then, one person ate their piece. What is the total weight of the cake remains?",
+        "candidates": ["Equal to 10 kg", "Less than 10 kg", "More than 10 kg"],
+        "answer": 1
+    },
+    {
+        "question": "A sandcastle was built from a bucket of sand. The sandcastle collapses. How much sand is there now?",
+        "candidates": ["Equal to a bucket of sand", "More than a bucket of sand", "Less than a bucket of sand"],
+        "answer": 0
+    },
+    {
+        "question": "There's a large rock with a length, width, and height of 3 meters, 4 meters, and 5 meters, respectively. It's cut into several pieces. What's the total volume of all the pieces?",
+        "candidates": ["Equal to 60 cubic meters", "Greater than 60 cubic meters", "Less than 60 cubic meters"],
+        "answer": 0
+    },
+    {
+        "question": "They say a kilogram of feathers and a kilogram of iron weight the same, do you think this is correct?",
+        "candidates": ["Correct", "Incorrect"],
+        "answer": 0
+    },
+    {
+        "question": "If a 5 km long rope is cut into several pieces, what is the total length of all the pieces of the rope?",
+        "candidates": ["Equal to 5 km", "Greater than 5 km", "Less than 5 km"],
+        "answer": 0
+    },
+    {
+        "question": "If you move one ton of stone a total of 50 meters, or you cut the stone into 100 pieces and move each piece 50 meters, which method has the longer total moving distance?",
+        "candidates": ["Moving it as a whole", "Moving in pieces", "Both methods have the same total distance"],
+        "answer": 2
+    },
+    {
+        "question": "If you pour a bucket of sand into a large bag and then dump it out into a pile, what is the total quantity of the sand?",
+        "candidates": ["Equal to the original quantity of sand", "More than the original quantity of sand", "Less than the original quantity of sand"],
+        "answer": 0
+    },
+    {
+        "question": "When you divide a kilogram of sugar into two bags, regardless of how the shape of the bags change, what is the total quantity of the sugar in the two bags?",
+        "candidates": ["Less than a kilogram", "Equal to a kilogram", "More than a kilogram"],
+        "answer": 1
+    },
+    {
+        "question": "If you pour water from two 250 ml cups into one 500 ml cups, will the large cup be filled?",
+        "candidates": ["Yes", "No"],
+        "answer": 0
+    },
+    {
+        "question": "If you cut a square meter of paper in half, what is the total area of the two pieces of paper?",
+        "candidates": ["One square meter", "Two square meters", "Less than one square meter"],
+        "answer": 0
+    },
+    {
+        "question": "If you cut a round biscuit into four pieces, and then combine two pieces back into a circle, does the total quantity of the biscuit change?",
+        "candidates": ["It increases", "It decreases", "It does not change"],
+        "answer": 2
+    },
+    {
+        "question": "If you cut a rectangular cake into eight pieces, and then rearrange four pieces back into a square, does the total volume of the cake change?",
+        "candidates": ["It gets larger", "It gets smaller", "It does not change"],
+        "answer": 2
+    },
+    {
+        "question": "If you cut an orange into six slices, then put three slices back into the peel, does the total weight of the orange change?",
+        "candidates": ["It gets lighter", "It gets heavier", "It does not change"],
+        "answer": 2
+    },
+    {
+        "question": "If you break a stick into two pieces and then glue them back together, does the total length of the stick change?",
+        "candidates": ["It gets longer", "It gets shorter", "It does not change"],
+        "answer": 2
+    },
+    {
+        "question": "If you cut a 10 square meter cloth into two pieces, what is the total area of the two pieces of cloth?",
+        "candidates": ["10 square meters", "20 square meters", "Less than 10 square meters"],
+        "answer": 0
+    },
+    {
+        "question": "If a piece of chocolate is cut into two equal pieces, with one piece frozen in the refrigerator and the other left at room temperature, will the mass of the two pieces of chocolate still be the same?",
+        "candidates": ["The one in the fridge is bigger", "The one at room temperature is bigger", "Both are the same size"],
+        "answer": 2
+    },
+    {
+        "question": "If a stamp is torn in half and then glued back together, will the total area of the stamp change?",
+        "candidates": ["It will get larger", "It will get smaller", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a 1 kilogram piece of meat is cut into two, regardless of how the shape of the meat changes, what is the total weight of the two pieces of meat?",
+        "candidates": ["Less than one kilogram", "Equal to one kilogram", "More than one kilogram"],
+        "answer": 1
+    },
+    {
+        "question": "If a 1-square-meter ceramic tile is cut into multiple smaller pieces, what is the total area of these small pieces?",
+        "candidates": ["Equal to 1 square meter", "More than 1 square meter", "Less than 1 square meter"],
+        "answer": 0
+    },
+    {
+        "question": "If a can of beer is divided into two glasses and then one of the glasses of beer is heated, what will be the total volume of the beer?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a large bottle of fruit and vegetables is sealed into two small bottles, and then one of the small bottles is opened, will the total volume of the fruit and vegetables change?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a piece of paper is folded in half and then cut with a knife, what will be the total area of the paper?",
+        "candidates": ["It will get larger", "It will get smaller", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a bottle of milk tea is divided into two cups and then ice cubes are added into one of the cups of milk tea, will the total volume of the milk tea change?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 0
+    },
+    {
+        "question": "When a complete basketball is cut in half and re-glued, what is the total volume of these two half basketballs?",
+        "candidates": ["Equal to the original volume", "Greater than the original volume", "Less than the original volume"],
+        "answer": 0
+    },
+    {
+        "question": "If a cup of hot tea is poured into two cups and then an ice cube is placed in one of the cups, what is the total volume of the tea in these two cups?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a piece of bread is cut into three equal parts and then two parts are eaten, what is the total weight of the remaining bread?",
+        "candidates": ["Equal to the original weight", "Greater than the original weight", "Less than the original weight"],
+        "answer": 2
+    },
+    {
+        "question": "If there are five bicycles and one is disassembled and then all its parts are reassembled, what will be the total number of these bicycles?",
+        "candidates": ["Equal to the original quantity", "Greater than the original quantity", "Less than the original quantity"],
+        "answer": 0
+    },
+    {
+        "question": "If a stone is cut into two, what will be their total mass?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "When a gold chain is cut into two pieces, what will be the total length of the gold chain?",
+        "candidates": ["It will get longer", "It will get shorter", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a can of oil is divided between two bottles and water is added to one of them, what is the total amount of oil in the two bottles?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a mountain is split in half, what will be the total volume of the two halves?",
+        "candidates": ["Greater than the original volume", "Less than the original volume", "Equal to the original volume"],
+        "answer": 2
+    },
+    {
+        "question": "If a box of sand is evenly divided into three bags, what will be the total quantity of sand in these three bags?",
+        "candidates": ["Equal to the original sand quantity", "Greater than the original sand quantity", "Less than the original sand quantity"],
+        "answer": 0
+    },
+    {
+        "question": "If a rubber ball is cut in half and glued back together, what will be the total volume of the rubber ball?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a banana is cut into three pieces and put back together, what will be the total length of these banana pieces?",
+        "candidates": ["It will get longer", "It will get shorter", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a cake is divided into three parts, and two of them are heated, will the total weight of the cake change?",
+        "candidates": ["It will get heavier", "It will get lighter", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a map is cut into three parts and put back together, what will be the total area of the map?",
+        "candidates": ["It will get larger", "It will get smaller", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a computer is disassembled into various components and then reassembled, what will the total number of computers be?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a bird's nest is taken apart into pieces and put back together, what will be the total mass of the nest?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a basketball is cut into two halves, regardless of how the shape changes, what is the total weight of these two halves?",
+        "candidates": ["Less than the original basketball's weight", "Equal to the original basketball's weight", "Greater than the original basketball's weight"],
+        "answer": 1
+    },
+    {
+        "question": "If two ice cubes are added into a cup of coffee and then melted, will this process change the total weight of the coffee and ice cubes?",
+        "candidates": ["It will increase", "It will decrease", "It will not change"],
+        "answer": 2
+    },
+    {
+        "question": "If a bag of sugar is divided into two, and then one part is melted, what will be the total weight of the sugar?",
+        "candidates": ["Less than the original sugar weight", "Equal to the original sugar weight", "Greater than the original sugar weight"],
+        "answer": 1
+    }
+]

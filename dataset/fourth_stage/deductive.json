@@ -1,0 +1,2502 @@
+[
+	{
+		"question": "Mike is crying, Selina is peaceful, Alex is excited, Kobe is angry. The excited one is bird, the angry one is deer, the crying one is rabbit, the peaceful one is frog. Frog admires deer, deer admires rabbit, rabbit admires bird, bird admires frog. What does Selina admire?",
+		"candidates": [
+			"rabbit",
+			"frog",
+			"bird",
+			"deer"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Kobe is peaceful, Bob is excited, Anna is happy, Victory is angry. The happy one is rabbit, the angry one is bird, the excited one is snake, the peaceful one is deer. Deer admires rabbit, rabbit admires snake, snake admires bird, bird admires deer. What does Kobe admire?",
+		"candidates": [
+			"bird",
+			"rabbit",
+			"snake",
+			"deer"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Mike is sad, Victory is crying, Kobe is tired, Wade is excited. The sad one is bird, the excited one is cat, the crying one is rabbit, the tired one is pig. Pig is looking for cat, cat is looking for bird, bird is looking for rabbit, rabbit is looking for pig. What is Kobe looking for?",
+		"candidates": [
+			"bird",
+			"cat",
+			"pig",
+			"rabbit"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Anna is sad, Chris is excited, Kobe is tired, Alex is peaceful. The tired one is swan, the sad one is rabbit, the excited one is frog, the peaceful one is cat. Frog fears cat, cat fears rabbit, rabbit fears swan, swan fears frog. What does Chris fear of?",
+		"candidates": [
+			"swan",
+			"frog",
+			"cat",
+			"rabbit"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Jessica is peaceful, Nash is angry, Anna is happy, Wade is tired. The happy one is tiger, the angry one is giraffe, the tired one is pig, the peaceful one is butterfly. Tiger admires pig, pig admires butterfly, butterfly admires giraffe, giraffe admires tiger. What does Anna admire?",
+		"candidates": [
+			"giraffe",
+			"pig",
+			"tiger",
+			"butterfly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Nash is tired, Victory is crying, Bob is happy, Anna is sad. The sad one is giraffe, the crying one is cat, the happy one is bird, the tired one is pig. Pig fears giraffe, giraffe fears cat, cat fears bird, bird fears pig. What does Nash fear of?",
+		"candidates": [
+			"bird",
+			"cat",
+			"pig",
+			"giraffe"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is excited, Wade is crying, Anna is happy, Mike is angry. The happy one is rabbit, the crying one is bird, the excited one is tiger, the angry one is dog. Dog is looking for rabbit, rabbit is looking for tiger, tiger is looking for bird, bird is looking for dog. What is Mike looking for?",
+		"candidates": [
+			"rabbit",
+			"dog",
+			"tiger",
+			"bird"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is angry, Anna is excited, Paul is tired, Alex is crying. The crying one is penguin, the tired one is butterfly, the angry one is frog, the excited one is dog. Penguin likes dog, dog likes butterfly, butterfly likes frog, frog likes penguin. What does Alex like?",
+		"candidates": [
+			"dog",
+			"penguin",
+			"butterfly",
+			"frog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is crying, Kobe is tired, Paul is sad, Mike is peaceful. The peaceful one is cat, the sad one is giraffe, the crying one is butterfly, the tired one is deer. Deer admires butterfly, butterfly admires giraffe, giraffe admires cat, cat admires deer. What does Kobe admire?",
+		"candidates": [
+			"deer",
+			"butterfly",
+			"cat",
+			"giraffe"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is crying, Jessica is angry, Selina is peaceful, Alex is happy. The peaceful one is pig, the happy one is deer, the crying one is cat, the angry one is dog. Pig admires cat, cat admires deer, deer admires dog, dog admires pig. What does Selina admire?",
+		"candidates": [
+			"cat",
+			"pig",
+			"dog",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Selina is happy, Nash is peaceful, Kobe is tired, Alex is crying. The tired one is rabbit, the crying one is bird, the happy one is pig, the peaceful one is deer. Rabbit is looking for bird, bird is looking for pig, pig is looking for deer, deer is looking for rabbit. What is Kobe looking for?",
+		"candidates": [
+			"deer",
+			"pig",
+			"bird",
+			"rabbit"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Jessica is sad, Mike is excited, Victory is angry, Wade is happy. The happy one is butterfly, the angry one is rabbit, the excited one is frog, the sad one is tiger. Butterfly has seen frog, frog has seen tiger, tiger has seen rabbit, rabbit has seen butterfly. What has Wade seen?",
+		"candidates": [
+			"tiger",
+			"rabbit",
+			"frog",
+			"butterfly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Wade is angry, Anna is crying, Jessica is excited, Chris is happy. The happy one is dog, the crying one is tiger, the excited one is pig, the angry one is bird. Dog has seen bird, bird has seen tiger, tiger has seen pig, pig has seen dog. What has Chris seen?",
+		"candidates": [
+			"tiger",
+			"pig",
+			"dog",
+			"bird"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Wade is angry, Mike is tired, Selina is excited, Anna is happy. The angry one is snake, the tired one is fox, the excited one is penguin, the happy one is butterfly. Penguin is jealous of snake, snake is jealous of butterfly, butterfly is jealous of fox, fox is jealous of penguin. What is Selina jealous of?",
+		"candidates": [
+			"butterfly",
+			"snake",
+			"fox",
+			"penguin"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Bob is crying, Chris is tired, Mike is angry, Wade is peaceful. The tired one is pig, the peaceful one is frog, the angry one is fox, the crying one is snake. Pig is chasing snake, snake is chasing frog, frog is chasing fox, fox is chasing pig. What is Chris chasing for?",
+		"candidates": [
+			"snake",
+			"frog",
+			"fox",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Alex is crying, Nash is tired, Bob is happy, Wade is excited. The excited one is penguin, the crying one is dog, the tired one is pig, the happy one is giraffe. Dog admires giraffe, giraffe admires penguin, penguin admires pig, pig admires dog. What does Alex admire?",
+		"candidates": [
+			"giraffe",
+			"dog",
+			"penguin",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Chris is angry, Alex is happy, Jessica is excited, Mike is crying. The crying one is tiger, the excited one is giraffe, the happy one is deer, the angry one is swan. Tiger likes deer, deer likes giraffe, giraffe likes swan, swan likes tiger. What does Mike like?",
+		"candidates": [
+			"giraffe",
+			"swan",
+			"deer",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Victory is tired, Selina is sad, Mike is peaceful, Kobe is excited. The sad one is swan, the peaceful one is tiger, the excited one is snake, the tired one is rabbit. Snake likes rabbit, rabbit likes swan, swan likes tiger, tiger likes snake. What does Kobe like?",
+		"candidates": [
+			"swan",
+			"rabbit",
+			"tiger",
+			"snake"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Alex is sad, Chris is angry, Victory is tired, Kobe is peaceful. The peaceful one is deer, the tired one is giraffe, the angry one is cat, the sad one is bird. Cat admires deer, deer admires bird, bird admires giraffe, giraffe admires cat. What does Chris admire?",
+		"candidates": [
+			"giraffe",
+			"deer",
+			"bird",
+			"cat"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is angry, Anna is sad, Victory is happy, Paul is excited. The excited one is bird, the angry one is fox, the happy one is penguin, the sad one is rabbit. Fox likes bird, bird likes rabbit, rabbit likes penguin, penguin likes fox. What does Wade like?",
+		"candidates": [
+			"penguin",
+			"bird",
+			"rabbit",
+			"fox"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Selina is excited, Wade is crying, Jessica is peaceful, Nash is angry. The crying one is bird, the peaceful one is frog, the angry one is snake, the excited one is fox. Frog admires snake, snake admires fox, fox admires bird, bird admires frog. What does Jessica admire?",
+		"candidates": [
+			"fox",
+			"frog",
+			"bird",
+			"snake"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Victory is crying, Alex is peaceful, Nash is tired, Selina is happy. The peaceful one is penguin, the crying one is dog, the happy one is cat, the tired one is bird. Cat fears bird, bird fears penguin, penguin fears dog, dog fears cat. What does Selina fear of?",
+		"candidates": [
+			"cat",
+			"bird",
+			"dog",
+			"penguin"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Chris is crying, Mike is tired, Kobe is peaceful, Anna is happy. The happy one is giraffe, the tired one is bird, the crying one is pig, the peaceful one is swan. Pig admires swan, swan admires bird, bird admires giraffe, giraffe admires pig. What does Chris admire?",
+		"candidates": [
+			"pig",
+			"bird",
+			"giraffe",
+			"swan"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Victory is angry, Alex is peaceful, Bob is tired, Anna is excited. The excited one is swan, the peaceful one is penguin, the tired one is fox, the angry one is dog. Fox is jealous of swan, swan is jealous of dog, dog is jealous of penguin, penguin is jealous of fox. What is Bob jealous of?",
+		"candidates": [
+			"dog",
+			"fox",
+			"swan",
+			"penguin"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Anna is angry, Jessica is happy, Nash is excited, Victory is tired. The excited one is frog, the angry one is swan, the happy one is fox, the tired one is rabbit. Rabbit likes frog, frog likes swan, swan likes fox, fox likes rabbit. What does Victory like?",
+		"candidates": [
+			"fox",
+			"frog",
+			"rabbit",
+			"swan"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is happy, Victory is angry, Anna is excited, Selina is peaceful. The peaceful one is cat, the excited one is rabbit, the angry one is tiger, the happy one is snake. Snake fears cat, cat fears tiger, tiger fears rabbit, rabbit fears snake. What does Paul fear of?",
+		"candidates": [
+			"rabbit",
+			"tiger",
+			"cat",
+			"snake"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Kobe is peaceful, Victory is happy, Bob is tired, Paul is crying. The tired one is dog, the crying one is frog, the happy one is giraffe, the peaceful one is tiger. Dog admires frog, frog admires giraffe, giraffe admires tiger, tiger admires dog. What does Bob admire?",
+		"candidates": [
+			"giraffe",
+			"frog",
+			"tiger",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Nash is angry, Anna is crying, Selina is happy, Kobe is tired. The tired one is dog, the crying one is pig, the happy one is penguin, the angry one is fox. Fox has seen penguin, penguin has seen pig, pig has seen dog, dog has seen fox. What has Nash seen?",
+		"candidates": [
+			"dog",
+			"penguin",
+			"fox",
+			"pig"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Mike is happy, Bob is sad, Anna is excited, Kobe is tired. The happy one is cat, the excited one is tiger, the sad one is deer, the tired one is bird. Tiger admires bird, bird admires deer, deer admires cat, cat admires tiger. What does Anna admire?",
+		"candidates": [
+			"cat",
+			"deer",
+			"bird",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is crying, Mike is sad, Paul is angry, Kobe is tired. The tired one is cat, the angry one is giraffe, the sad one is frog, the crying one is deer. Cat is looking for frog, frog is looking for deer, deer is looking for giraffe, giraffe is looking for cat. What is Kobe looking for?",
+		"candidates": [
+			"cat",
+			"frog",
+			"giraffe",
+			"deer"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is sad, Anna is excited, Jessica is peaceful, Nash is tired. The peaceful one is swan, the sad one is bird, the tired one is penguin, the excited one is fox. Swan fears penguin, penguin fears fox, fox fears bird, bird fears swan. What does Jessica fear of?",
+		"candidates": [
+			"penguin",
+			"fox",
+			"bird",
+			"swan"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Anna is excited, Jessica is tired, Selina is angry, Wade is peaceful. The angry one is pig, the excited one is penguin, the peaceful one is rabbit, the tired one is swan. Pig fears penguin, penguin fears rabbit, rabbit fears swan, swan fears pig. What does Selina fear of?",
+		"candidates": [
+			"swan",
+			"rabbit",
+			"penguin",
+			"pig"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Mike is sad, Victory is angry, Bob is crying, Selina is excited. The crying one is tiger, the excited one is penguin, the sad one is cat, the angry one is giraffe. Cat likes penguin, penguin likes tiger, tiger likes giraffe, giraffe likes cat. What does Mike like?",
+		"candidates": [
+			"penguin",
+			"tiger",
+			"cat",
+			"giraffe"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Victory is excited, Bob is angry, Chris is happy, Jessica is crying. The happy one is giraffe, the angry one is bird, the crying one is dog, the excited one is fox. Fox has seen bird, bird has seen giraffe, giraffe has seen dog, dog has seen fox. What has Victory seen?",
+		"candidates": [
+			"dog",
+			"bird",
+			"giraffe",
+			"fox"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Jessica is happy, Nash is angry, Selina is tired, Chris is crying. The happy one is butterfly, the angry one is bird, the tired one is swan, the crying one is fox. Fox fears bird, bird fears butterfly, butterfly fears swan, swan fears fox. What does Chris fear of?",
+		"candidates": [
+			"fox",
+			"bird",
+			"butterfly",
+			"swan"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Anna is crying, Bob is happy, Victory is excited, Alex is sad. The sad one is giraffe, the happy one is pig, the excited one is dog, the crying one is cat. Dog admires cat, cat admires giraffe, giraffe admires pig, pig admires dog. What does Victory admire?",
+		"candidates": [
+			"pig",
+			"dog",
+			"cat",
+			"giraffe"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is angry, Nash is happy, Wade is crying, Paul is peaceful. The crying one is tiger, the peaceful one is giraffe, the happy one is pig, the angry one is fox. Pig is chasing fox, fox is chasing giraffe, giraffe is chasing tiger, tiger is chasing pig. What is Nash chasing for?",
+		"candidates": [
+			"pig",
+			"giraffe",
+			"fox",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is angry, Jessica is crying, Alex is tired, Bob is sad. The tired one is pig, the crying one is frog, the angry one is tiger, the sad one is butterfly. Frog fears tiger, tiger fears pig, pig fears butterfly, butterfly fears frog. What does Jessica fear of?",
+		"candidates": [
+			"tiger",
+			"pig",
+			"frog",
+			"butterfly"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Bob is peaceful, Selina is crying, Mike is happy, Victory is tired. The crying one is swan, the tired one is tiger, the peaceful one is pig, the happy one is snake. Snake likes pig, pig likes tiger, tiger likes swan, swan likes snake. What does Mike like?",
+		"candidates": [
+			"tiger",
+			"swan",
+			"snake",
+			"pig"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is angry, Paul is crying, Victory is sad, Anna is excited. The excited one is swan, the sad one is pig, the crying one is deer, the angry one is snake. Deer is chasing swan, swan is chasing snake, snake is chasing pig, pig is chasing deer. What is Paul chasing for?",
+		"candidates": [
+			"deer",
+			"snake",
+			"pig",
+			"swan"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Kobe is sad, Victory is tired, Wade is angry, Selina is crying. The tired one is pig, the crying one is bird, the angry one is dog, the sad one is rabbit. Bird is chasing rabbit, rabbit is chasing pig, pig is chasing dog, dog is chasing bird. What is Selina chasing for?",
+		"candidates": [
+			"pig",
+			"dog",
+			"bird",
+			"rabbit"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Nash is tired, Anna is excited, Chris is angry, Alex is peaceful. The tired one is dog, the angry one is pig, the excited one is snake, the peaceful one is butterfly. Dog is jealous of snake, snake is jealous of pig, pig is jealous of butterfly, butterfly is jealous of dog. What is Nash jealous of?",
+		"candidates": [
+			"dog",
+			"pig",
+			"butterfly",
+			"snake"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Kobe is happy, Mike is excited, Wade is tired, Jessica is crying. The tired one is swan, the happy one is cat, the excited one is penguin, the crying one is snake. Penguin is looking for cat, cat is looking for swan, swan is looking for snake, snake is looking for penguin. What is Mike looking for?",
+		"candidates": [
+			"cat",
+			"snake",
+			"swan",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Kobe is tired, Victory is peaceful, Bob is excited, Chris is happy. The excited one is bird, the tired one is deer, the peaceful one is tiger, the happy one is cat. Bird has seen deer, deer has seen cat, cat has seen tiger, tiger has seen bird. What has Bob seen?",
+		"candidates": [
+			"bird",
+			"deer",
+			"tiger",
+			"cat"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Alex is happy, Bob is peaceful, Victory is excited, Paul is tired. The excited one is frog, the peaceful one is fox, the happy one is dog, the tired one is pig. Dog likes frog, frog likes fox, fox likes pig, pig likes dog. What does Alex like?",
+		"candidates": [
+			"frog",
+			"fox",
+			"pig",
+			"dog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Jessica is peaceful, Paul is angry, Victory is tired, Selina is happy. The tired one is frog, the peaceful one is dog, the happy one is penguin, the angry one is bird. Dog is looking for penguin, penguin is looking for bird, bird is looking for frog, frog is looking for dog. What is Jessica looking for?",
+		"candidates": [
+			"penguin",
+			"dog",
+			"frog",
+			"bird"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Victory is tired, Alex is angry, Chris is excited, Kobe is peaceful. The tired one is dog, the excited one is cat, the peaceful one is giraffe, the angry one is bird. Giraffe admires bird, bird admires dog, dog admires cat, cat admires giraffe. What does Kobe admire?",
+		"candidates": [
+			"cat",
+			"bird",
+			"dog",
+			"giraffe"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Anna is crying, Alex is excited, Mike is happy, Selina is peaceful. The excited one is butterfly, the crying one is snake, the peaceful one is pig, the happy one is bird. Bird is jealous of snake, snake is jealous of pig, pig is jealous of butterfly, butterfly is jealous of bird. What is Mike jealous of?",
+		"candidates": [
+			"butterfly",
+			"snake",
+			"bird",
+			"pig"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Alex is peaceful, Wade is sad, Jessica is excited, Victory is happy. The excited one is dog, the sad one is deer, the peaceful one is snake, the happy one is rabbit. Deer has seen rabbit, rabbit has seen snake, snake has seen dog, dog has seen deer. What has Wade seen?",
+		"candidates": [
+			"snake",
+			"dog",
+			"deer",
+			"rabbit"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is sad, Jessica is excited, Wade is angry, Nash is tired. The tired one is rabbit, the excited one is snake, the sad one is tiger, the angry one is penguin. Rabbit is chasing tiger, tiger is chasing penguin, penguin is chasing snake, snake is chasing rabbit. What is Nash chasing for?",
+		"candidates": [
+			"tiger",
+			"snake",
+			"rabbit",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is crying, Chris is tired, Jessica is angry, Victory is excited. The tired one is pig, the excited one is penguin, the crying one is cat, the angry one is giraffe. Pig admires cat, cat admires giraffe, giraffe admires penguin, penguin admires pig. What does Chris admire?",
+		"candidates": [
+			"cat",
+			"giraffe",
+			"penguin",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Paul is tired, Bob is crying, Victory is excited, Kobe is sad. The sad one is penguin, the crying one is deer, the excited one is giraffe, the tired one is snake. Deer likes snake, snake likes penguin, penguin likes giraffe, giraffe likes deer. What does Bob like?",
+		"candidates": [
+			"snake",
+			"deer",
+			"penguin",
+			"giraffe"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Kobe is excited, Nash is happy, Mike is sad, Paul is crying. The excited one is deer, the crying one is dog, the sad one is tiger, the happy one is snake. Tiger is chasing dog, dog is chasing deer, deer is chasing snake, snake is chasing tiger. What is Mike chasing for?",
+		"candidates": [
+			"snake",
+			"dog",
+			"tiger",
+			"deer"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Selina is excited, Wade is peaceful, Kobe is angry, Mike is tired. The tired one is cat, the angry one is fox, the peaceful one is rabbit, the excited one is dog. Fox is chasing dog, dog is chasing rabbit, rabbit is chasing cat, cat is chasing fox. What is Kobe chasing for?",
+		"candidates": [
+			"rabbit",
+			"cat",
+			"dog",
+			"fox"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Paul is tired, Jessica is crying, Mike is peaceful, Kobe is sad. The sad one is rabbit, the peaceful one is swan, the tired one is cat, the crying one is pig. Pig likes cat, cat likes swan, swan likes rabbit, rabbit likes pig. What does Jessica like?",
+		"candidates": [
+			"cat",
+			"swan",
+			"pig",
+			"rabbit"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Victory is crying, Alex is tired, Anna is sad, Bob is angry. The tired one is swan, the angry one is penguin, the sad one is deer, the crying one is butterfly. Butterfly fears deer, deer fears penguin, penguin fears swan, swan fears butterfly. What does Victory fear of?",
+		"candidates": [
+			"penguin",
+			"deer",
+			"butterfly",
+			"swan"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Selina is excited, Victory is angry, Mike is happy, Wade is crying. The crying one is frog, the excited one is giraffe, the angry one is fox, the happy one is dog. Frog is jealous of dog, dog is jealous of fox, fox is jealous of giraffe, giraffe is jealous of frog. What is Wade jealous of?",
+		"candidates": [
+			"fox",
+			"frog",
+			"dog",
+			"giraffe"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is crying, Paul is excited, Bob is tired, Anna is peaceful. The peaceful one is penguin, the excited one is dog, the crying one is tiger, the tired one is deer. Penguin admires tiger, tiger admires deer, deer admires dog, dog admires penguin. What does Anna admire?",
+		"candidates": [
+			"penguin",
+			"dog",
+			"tiger",
+			"deer"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Selina is happy, Nash is sad, Kobe is peaceful, Jessica is tired. The peaceful one is deer, the tired one is dog, the happy one is frog, the sad one is penguin. Frog is jealous of penguin, penguin is jealous of deer, deer is jealous of dog, dog is jealous of frog. What is Selina jealous of?",
+		"candidates": [
+			"penguin",
+			"dog",
+			"frog",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Kobe is angry, Jessica is tired, Wade is crying, Anna is peaceful. The peaceful one is fox, the crying one is swan, the angry one is pig, the tired one is giraffe. Fox fears swan, swan fears giraffe, giraffe fears pig, pig fears fox. What does Anna fear of?",
+		"candidates": [
+			"pig",
+			"swan",
+			"fox",
+			"giraffe"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Chris is peaceful, Kobe is angry, Jessica is tired, Mike is crying. The angry one is butterfly, the tired one is deer, the peaceful one is dog, the crying one is frog. Deer is chasing frog, frog is chasing dog, dog is chasing butterfly, butterfly is chasing deer. What is Jessica chasing for?",
+		"candidates": [
+			"deer",
+			"frog",
+			"butterfly",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is sad, Nash is angry, Wade is happy, Mike is excited. The angry one is bird, the sad one is frog, the excited one is rabbit, the happy one is fox. Rabbit has seen frog, frog has seen bird, bird has seen fox, fox has seen rabbit. What has Mike seen?",
+		"candidates": [
+			"rabbit",
+			"bird",
+			"frog",
+			"fox"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Selina is happy, Nash is tired, Bob is excited, Wade is angry. The excited one is fox, the happy one is dog, the tired one is giraffe, the angry one is bird. Dog has seen fox, fox has seen giraffe, giraffe has seen bird, bird has seen dog. What has Selina seen?",
+		"candidates": [
+			"giraffe",
+			"dog",
+			"fox",
+			"bird"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Alex is tired, Bob is peaceful, Mike is sad, Nash is angry. The sad one is deer, the tired one is cat, the peaceful one is rabbit, the angry one is dog. Dog fears cat, cat fears rabbit, rabbit fears deer, deer fears dog. What does Nash fear of?",
+		"candidates": [
+			"rabbit",
+			"deer",
+			"cat",
+			"dog"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Jessica is sad, Alex is peaceful, Bob is angry, Selina is crying. The crying one is giraffe, the peaceful one is dog, the sad one is butterfly, the angry one is swan. Swan is looking for giraffe, giraffe is looking for butterfly, butterfly is looking for dog, dog is looking for swan. What is Bob looking for?",
+		"candidates": [
+			"butterfly",
+			"giraffe",
+			"swan",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Nash is sad, Anna is excited, Chris is crying, Wade is tired. The tired one is fox, the sad one is deer, the crying one is giraffe, the excited one is pig. Deer has seen pig, pig has seen fox, fox has seen giraffe, giraffe has seen deer. What has Nash seen?",
+		"candidates": [
+			"pig",
+			"giraffe",
+			"fox",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Chris is happy, Wade is tired, Bob is angry, Mike is sad. The happy one is bird, the tired one is rabbit, the sad one is frog, the angry one is butterfly. Rabbit is looking for bird, bird is looking for frog, frog is looking for butterfly, butterfly is looking for rabbit. What is Wade looking for?",
+		"candidates": [
+			"butterfly",
+			"bird",
+			"frog",
+			"rabbit"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is tired, Anna is excited, Selina is angry, Mike is peaceful. The excited one is swan, the tired one is butterfly, the angry one is tiger, the peaceful one is deer. Deer has seen swan, swan has seen butterfly, butterfly has seen tiger, tiger has seen deer. What has Mike seen?",
+		"candidates": [
+			"butterfly",
+			"tiger",
+			"swan",
+			"deer"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Mike is tired, Selina is angry, Alex is sad, Kobe is happy. The tired one is deer, the angry one is cat, the sad one is dog, the happy one is swan. Deer is chasing cat, cat is chasing swan, swan is chasing dog, dog is chasing deer. What is Mike chasing for?",
+		"candidates": [
+			"cat",
+			"swan",
+			"deer",
+			"dog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Selina is peaceful, Paul is tired, Alex is excited, Victory is happy. The tired one is tiger, the happy one is dog, the excited one is deer, the peaceful one is penguin. Dog is chasing deer, deer is chasing tiger, tiger is chasing penguin, penguin is chasing dog. What is Victory chasing for?",
+		"candidates": [
+			"penguin",
+			"deer",
+			"tiger",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Mike is happy, Anna is peaceful, Alex is tired, Chris is excited. The excited one is dog, the tired one is cat, the happy one is frog, the peaceful one is penguin. Cat admires frog, frog admires dog, dog admires penguin, penguin admires cat. What does Alex admire?",
+		"candidates": [
+			"penguin",
+			"dog",
+			"cat",
+			"frog"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is crying, Bob is tired, Jessica is happy, Wade is angry. The crying one is snake, the tired one is giraffe, the happy one is bird, the angry one is tiger. Bird fears tiger, tiger fears snake, snake fears giraffe, giraffe fears bird. What does Jessica fear of?",
+		"candidates": [
+			"snake",
+			"bird",
+			"tiger",
+			"giraffe"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is happy, Mike is angry, Jessica is sad, Selina is peaceful. The happy one is dog, the sad one is deer, the angry one is fox, the peaceful one is penguin. Penguin admires dog, dog admires fox, fox admires deer, deer admires penguin. What does Selina admire?",
+		"candidates": [
+			"penguin",
+			"deer",
+			"fox",
+			"dog"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Mike is crying, Wade is tired, Bob is excited, Selina is sad. The excited one is swan, the tired one is tiger, the sad one is bird, the crying one is butterfly. Butterfly likes bird, bird likes tiger, tiger likes swan, swan likes butterfly. What does Mike like?",
+		"candidates": [
+			"butterfly",
+			"tiger",
+			"swan",
+			"bird"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Kobe is happy, Selina is peaceful, Paul is angry, Victory is excited. The excited one is fox, the peaceful one is butterfly, the happy one is deer, the angry one is giraffe. Giraffe likes butterfly, butterfly likes deer, deer likes fox, fox likes giraffe. What does Paul like?",
+		"candidates": [
+			"butterfly",
+			"giraffe",
+			"deer",
+			"fox"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Jessica is crying, Selina is peaceful, Chris is happy, Mike is angry. The crying one is frog, the happy one is cat, the angry one is pig, the peaceful one is rabbit. Cat is chasing pig, pig is chasing frog, frog is chasing rabbit, rabbit is chasing cat. What is Chris chasing for?",
+		"candidates": [
+			"pig",
+			"cat",
+			"rabbit",
+			"frog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is happy, Bob is tired, Kobe is angry, Jessica is peaceful. The tired one is bird, the angry one is giraffe, the happy one is rabbit, the peaceful one is penguin. Bird fears giraffe, giraffe fears penguin, penguin fears rabbit, rabbit fears bird. What does Bob fear of?",
+		"candidates": [
+			"rabbit",
+			"giraffe",
+			"penguin",
+			"bird"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Selina is tired, Paul is happy, Alex is sad, Bob is excited. The tired one is dog, the sad one is penguin, the happy one is swan, the excited one is rabbit. Penguin is chasing dog, dog is chasing swan, swan is chasing rabbit, rabbit is chasing penguin. What is Alex chasing for?",
+		"candidates": [
+			"rabbit",
+			"swan",
+			"penguin",
+			"dog"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Mike is excited, Jessica is sad, Paul is angry, Chris is peaceful. The sad one is pig, the angry one is fox, the peaceful one is snake, the excited one is deer. Pig likes fox, fox likes deer, deer likes snake, snake likes pig. What does Jessica like?",
+		"candidates": [
+			"pig",
+			"deer",
+			"snake",
+			"fox"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is peaceful, Wade is tired, Bob is excited, Paul is angry. The tired one is penguin, the angry one is swan, the excited one is snake, the peaceful one is cat. Swan is looking for cat, cat is looking for snake, snake is looking for penguin, penguin is looking for swan. What is Paul looking for?",
+		"candidates": [
+			"cat",
+			"swan",
+			"penguin",
+			"snake"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Selina is happy, Anna is excited, Nash is crying, Mike is angry. The crying one is deer, the angry one is frog, the happy one is cat, the excited one is snake. Cat admires snake, snake admires frog, frog admires deer, deer admires cat. What does Selina admire?",
+		"candidates": [
+			"deer",
+			"frog",
+			"cat",
+			"snake"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is crying, Chris is angry, Nash is tired, Paul is excited. The tired one is penguin, the crying one is rabbit, the angry one is dog, the excited one is swan. Dog is looking for rabbit, rabbit is looking for penguin, penguin is looking for swan, swan is looking for dog. What is Chris looking for?",
+		"candidates": [
+			"swan",
+			"rabbit",
+			"dog",
+			"penguin"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Anna is crying, Victory is peaceful, Mike is excited, Nash is angry. The angry one is penguin, the excited one is frog, the crying one is bird, the peaceful one is giraffe. Frog admires giraffe, giraffe admires penguin, penguin admires bird, bird admires frog. What does Mike admire?",
+		"candidates": [
+			"bird",
+			"penguin",
+			"giraffe",
+			"frog"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Selina is angry, Anna is happy, Chris is sad, Nash is excited. The happy one is cat, the sad one is deer, the excited one is giraffe, the angry one is penguin. Giraffe is looking for penguin, penguin is looking for deer, deer is looking for cat, cat is looking for giraffe. What is Nash looking for?",
+		"candidates": [
+			"giraffe",
+			"penguin",
+			"deer",
+			"cat"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Victory is happy, Chris is peaceful, Kobe is excited, Anna is tired. The excited one is bird, the tired one is tiger, the peaceful one is giraffe, the happy one is frog. Bird fears tiger, tiger fears frog, frog fears giraffe, giraffe fears bird. What does Kobe fear of?",
+		"candidates": [
+			"frog",
+			"tiger",
+			"giraffe",
+			"bird"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Nash is angry, Bob is excited, Selina is sad, Paul is crying. The crying one is frog, the excited one is snake, the angry one is bird, the sad one is pig. Bird has seen pig, pig has seen frog, frog has seen snake, snake has seen bird. What has Nash seen?",
+		"candidates": [
+			"bird",
+			"pig",
+			"snake",
+			"frog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Nash is tired, Bob is crying, Wade is excited, Paul is angry. The crying one is pig, the tired one is giraffe, the excited one is tiger, the angry one is fox. Fox has seen tiger, tiger has seen pig, pig has seen giraffe, giraffe has seen fox. What has Paul seen?",
+		"candidates": [
+			"tiger",
+			"giraffe",
+			"fox",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Bob is crying, Victory is angry, Paul is tired, Anna is peaceful. The tired one is rabbit, the angry one is frog, the crying one is butterfly, the peaceful one is pig. Butterfly is looking for frog, frog is looking for rabbit, rabbit is looking for pig, pig is looking for butterfly. What is Bob looking for?",
+		"candidates": [
+			"rabbit",
+			"frog",
+			"pig",
+			"butterfly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is tired, Selina is peaceful, Wade is angry, Bob is happy. The peaceful one is giraffe, the tired one is bird, the angry one is deer, the happy one is cat. Cat is looking for giraffe, giraffe is looking for bird, bird is looking for deer, deer is looking for cat. What is Bob looking for?",
+		"candidates": [
+			"bird",
+			"deer",
+			"giraffe",
+			"cat"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Anna is crying, Nash is angry, Jessica is happy, Paul is sad. The angry one is butterfly, the sad one is rabbit, the happy one is tiger, the crying one is dog. Tiger has seen dog, dog has seen butterfly, butterfly has seen rabbit, rabbit has seen tiger. What has Jessica seen?",
+		"candidates": [
+			"butterfly",
+			"tiger",
+			"dog",
+			"rabbit"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Mike is crying, Selina is peaceful, Kobe is happy, Paul is excited. The excited one is deer, the crying one is snake, the peaceful one is pig, the happy one is fox. Pig is chasing deer, deer is chasing fox, fox is chasing snake, snake is chasing pig. What is Selina chasing for?",
+		"candidates": [
+			"deer",
+			"snake",
+			"pig",
+			"fox"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Selina is tired, Wade is peaceful, Jessica is excited, Nash is sad. The tired one is cat, the peaceful one is butterfly, the excited one is fox, the sad one is swan. Swan admires butterfly, butterfly admires fox, fox admires cat, cat admires swan. What does Nash admire?",
+		"candidates": [
+			"fox",
+			"butterfly",
+			"swan",
+			"cat"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Jessica is happy, Chris is excited, Bob is angry, Selina is tired. The angry one is bird, the excited one is tiger, the happy one is frog, the tired one is fox. Tiger fears bird, bird fears frog, frog fears fox, fox fears tiger. What does Chris fear of?",
+		"candidates": [
+			"frog",
+			"tiger",
+			"bird",
+			"fox"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Victory is tired, Selina is angry, Alex is crying, Paul is sad. The crying one is snake, the angry one is giraffe, the tired one is frog, the sad one is deer. Giraffe admires deer, deer admires snake, snake admires frog, frog admires giraffe. What does Selina admire?",
+		"candidates": [
+			"snake",
+			"deer",
+			"frog",
+			"giraffe"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Nash is crying, Jessica is sad, Bob is angry, Mike is tired. The sad one is penguin, the angry one is frog, the tired one is swan, the crying one is bird. Swan is chasing frog, frog is chasing bird, bird is chasing penguin, penguin is chasing swan. What is Mike chasing for?",
+		"candidates": [
+			"swan",
+			"penguin",
+			"bird",
+			"frog"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Nash is sad, Paul is angry, Victory is excited, Wade is happy. The sad one is pig, the happy one is butterfly, the angry one is bird, the excited one is dog. Butterfly likes pig, pig likes bird, bird likes dog, dog likes butterfly. What does Wade like?",
+		"candidates": [
+			"dog",
+			"pig",
+			"bird",
+			"butterfly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is angry, Kobe is crying, Alex is sad, Bob is peaceful. The crying one is butterfly, the sad one is tiger, the angry one is deer, the peaceful one is frog. Deer is chasing butterfly, butterfly is chasing tiger, tiger is chasing frog, frog is chasing deer. What is Wade chasing for?",
+		"candidates": [
+			"frog",
+			"tiger",
+			"deer",
+			"butterfly"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Victory is crying, Selina is excited, Chris is happy, Paul is peaceful. The crying one is bird, the peaceful one is tiger, the happy one is cat, the excited one is swan. Swan admires bird, bird admires cat, cat admires tiger, tiger admires swan. What does Selina admire?",
+		"candidates": [
+			"swan",
+			"cat",
+			"bird",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Kobe is crying, Nash is happy, Anna is angry, Chris is peaceful. The happy one is deer, the peaceful one is bird, the angry one is rabbit, the crying one is swan. Bird fears swan, swan fears rabbit, rabbit fears deer, deer fears bird. What does Chris fear of?",
+		"candidates": [
+			"deer",
+			"swan",
+			"bird",
+			"rabbit"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Anna is sad, Victory is peaceful, Alex is excited, Nash is angry. The excited one is pig, the angry one is deer, the peaceful one is bird, the sad one is butterfly. Pig has seen butterfly, butterfly has seen deer, deer has seen bird, bird has seen pig. What has Alex seen?",
+		"candidates": [
+			"bird",
+			"butterfly",
+			"deer",
+			"pig"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Bob is angry, Kobe is peaceful, Selina is happy, Mike is sad. The happy one is fox, the sad one is cat, the angry one is penguin, the peaceful one is dog. Fox is jealous of penguin, penguin is jealous of dog, dog is jealous of cat, cat is jealous of fox. What is Selina jealous of?",
+		"candidates": [
+			"cat",
+			"dog",
+			"penguin",
+			"fox"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is crying, Bob is peaceful, Nash is happy, Paul is excited. The crying one is snake, the happy one is frog, the peaceful one is penguin, the excited one is dog. Penguin has seen frog, frog has seen dog, dog has seen snake, snake has seen penguin. What has Bob seen?",
+		"candidates": [
+			"dog",
+			"snake",
+			"frog",
+			"penguin"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is peaceful, Chris is angry, Jessica is sad, Anna is happy. The peaceful one is butterfly, the angry one is deer, the happy one is cat, the sad one is bird. Deer is looking for cat, cat is looking for butterfly, butterfly is looking for bird, bird is looking for deer. What is Chris looking for?",
+		"candidates": [
+			"deer",
+			"cat",
+			"bird",
+			"butterfly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Chris is tired, Victory is crying, Paul is excited, Wade is sad. The excited one is snake, the sad one is dog, the crying one is cat, the tired one is butterfly. Butterfly is jealous of snake, snake is jealous of dog, dog is jealous of cat, cat is jealous of butterfly. What is Chris jealous of?",
+		"candidates": [
+			"snake",
+			"cat",
+			"butterfly",
+			"dog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Chris is happy, Alex is excited, Paul is angry, Kobe is peaceful. The happy one is tiger, the excited one is butterfly, the peaceful one is swan, the angry one is fox. Swan likes butterfly, butterfly likes fox, fox likes tiger, tiger likes swan. What does Kobe like?",
+		"candidates": [
+			"swan",
+			"tiger",
+			"fox",
+			"butterfly"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Alex is happy, Nash is crying, Wade is tired, Mike is excited. The excited one is deer, the tired one is tiger, the crying one is pig, the happy one is snake. Tiger admires snake, snake admires deer, deer admires pig, pig admires tiger. What does Wade admire?",
+		"candidates": [
+			"tiger",
+			"deer",
+			"snake",
+			"pig"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Alex is angry, Paul is peaceful, Bob is crying, Nash is tired. The peaceful one is cat, the angry one is swan, the tired one is pig, the crying one is deer. Pig is looking for cat, cat is looking for swan, swan is looking for deer, deer is looking for pig. What is Nash looking for?",
+		"candidates": [
+			"swan",
+			"deer",
+			"cat",
+			"pig"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Jessica is tired, Mike is angry, Kobe is excited, Victory is peaceful. The excited one is butterfly, the tired one is cat, the peaceful one is bird, the angry one is frog. Cat fears butterfly, butterfly fears bird, bird fears frog, frog fears cat. What does Jessica fear of?",
+		"candidates": [
+			"cat",
+			"frog",
+			"bird",
+			"butterfly"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is tired, Wade is peaceful, Jessica is sad, Kobe is excited. The peaceful one is dog, the sad one is tiger, the tired one is butterfly, the excited one is giraffe. Butterfly is looking for giraffe, giraffe is looking for tiger, tiger is looking for dog, dog is looking for butterfly. What is Paul looking for?",
+		"candidates": [
+			"dog",
+			"butterfly",
+			"tiger",
+			"giraffe"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Chris is tired, Alex is sad, Mike is happy, Victory is angry. The sad one is swan, the happy one is butterfly, the angry one is fox, the tired one is penguin. Penguin is looking for swan, swan is looking for butterfly, butterfly is looking for fox, fox is looking for penguin. What is Chris looking for?",
+		"candidates": [
+			"swan",
+			"butterfly",
+			"fox",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Victory is tired, Kobe is crying, Selina is angry, Paul is excited. The tired one is cat, the angry one is giraffe, the crying one is snake, the excited one is swan. Snake has seen swan, swan has seen giraffe, giraffe has seen cat, cat has seen snake. What has Kobe seen?",
+		"candidates": [
+			"cat",
+			"swan",
+			"giraffe",
+			"snake"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is excited, Victory is happy, Chris is sad, Jessica is peaceful. The peaceful one is tiger, the sad one is pig, the excited one is deer, the happy one is snake. Deer has seen snake, snake has seen tiger, tiger has seen pig, pig has seen deer. What has Paul seen?",
+		"candidates": [
+			"deer",
+			"pig",
+			"tiger",
+			"snake"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Bob is sad, Victory is angry, Alex is excited, Wade is peaceful. The excited one is rabbit, the peaceful one is swan, the sad one is deer, the angry one is snake. Deer is chasing snake, snake is chasing rabbit, rabbit is chasing swan, swan is chasing deer. What is Bob chasing for?",
+		"candidates": [
+			"rabbit",
+			"deer",
+			"swan",
+			"snake"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Jessica is peaceful, Kobe is angry, Nash is crying, Chris is tired. The angry one is fox, the tired one is deer, the peaceful one is giraffe, the crying one is swan. Deer is chasing giraffe, giraffe is chasing swan, swan is chasing fox, fox is chasing deer. What is Chris chasing for?",
+		"candidates": [
+			"giraffe",
+			"swan",
+			"fox",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Paul is excited, Alex is peaceful, Jessica is tired, Mike is sad. The peaceful one is dog, the excited one is fox, the sad one is snake, the tired one is tiger. Dog likes snake, snake likes fox, fox likes tiger, tiger likes dog. What does Alex like?",
+		"candidates": [
+			"tiger",
+			"snake",
+			"dog",
+			"fox"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Jessica is excited, Wade is crying, Anna is peaceful, Mike is tired. The peaceful one is pig, the crying one is fox, the excited one is swan, the tired one is bird. Pig fears bird, bird fears swan, swan fears fox, fox fears pig. What does Anna fear of?",
+		"candidates": [
+			"fox",
+			"swan",
+			"pig",
+			"bird"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Mike is angry, Jessica is excited, Nash is happy, Selina is peaceful. The peaceful one is deer, the happy one is snake, the excited one is rabbit, the angry one is fox. Deer is looking for snake, snake is looking for fox, fox is looking for rabbit, rabbit is looking for deer. What is Selina looking for?",
+		"candidates": [
+			"deer",
+			"fox",
+			"snake",
+			"rabbit"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Wade is sad, Alex is tired, Anna is happy, Victory is excited. The sad one is pig, the happy one is swan, the tired one is butterfly, the excited one is rabbit. Butterfly is chasing pig, pig is chasing swan, swan is chasing rabbit, rabbit is chasing butterfly. What is Alex chasing for?",
+		"candidates": [
+			"swan",
+			"pig",
+			"rabbit",
+			"butterfly"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is tired, Anna is happy, Selina is crying, Alex is excited. The excited one is butterfly, the happy one is cat, the tired one is tiger, the crying one is dog. Butterfly likes tiger, tiger likes cat, cat likes dog, dog likes butterfly. What does Alex like?",
+		"candidates": [
+			"cat",
+			"dog",
+			"tiger",
+			"butterfly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Anna is happy, Paul is tired, Selina is sad, Nash is angry. The tired one is penguin, the sad one is rabbit, the angry one is swan, the happy one is dog. Dog admires rabbit, rabbit admires swan, swan admires penguin, penguin admires dog. What does Anna admire?",
+		"candidates": [
+			"penguin",
+			"dog",
+			"swan",
+			"rabbit"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is happy, Jessica is angry, Nash is peaceful, Wade is tired. The peaceful one is fox, the happy one is tiger, the angry one is bird, the tired one is giraffe. Giraffe is chasing tiger, tiger is chasing fox, fox is chasing bird, bird is chasing giraffe. What is Wade chasing for?",
+		"candidates": [
+			"bird",
+			"fox",
+			"giraffe",
+			"tiger"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Anna is tired, Bob is sad, Wade is happy, Mike is excited. The sad one is deer, the tired one is cat, the excited one is bird, the happy one is giraffe. Cat is chasing deer, deer is chasing bird, bird is chasing giraffe, giraffe is chasing cat. What is Anna chasing for?",
+		"candidates": [
+			"giraffe",
+			"bird",
+			"deer",
+			"cat"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Kobe is angry, Victory is happy, Selina is peaceful, Chris is tired. The happy one is swan, the tired one is snake, the peaceful one is bird, the angry one is penguin. Bird has seen penguin, penguin has seen snake, snake has seen swan, swan has seen bird. What has Selina seen?",
+		"candidates": [
+			"penguin",
+			"bird",
+			"snake",
+			"swan"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is peaceful, Anna is excited, Chris is crying, Alex is angry. The angry one is snake, the peaceful one is swan, the crying one is deer, the excited one is rabbit. Swan admires rabbit, rabbit admires deer, deer admires snake, snake admires swan. What does Wade admire?",
+		"candidates": [
+			"swan",
+			"deer",
+			"rabbit",
+			"snake"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Paul is excited, Mike is happy, Anna is tired, Chris is angry. The excited one is bird, the tired one is butterfly, the happy one is rabbit, the angry one is fox. Fox likes rabbit, rabbit likes bird, bird likes butterfly, butterfly likes fox. What does Chris like?",
+		"candidates": [
+			"fox",
+			"butterfly",
+			"rabbit",
+			"bird"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Selina is tired, Victory is crying, Mike is angry, Paul is excited. The crying one is snake, the tired one is fox, the angry one is pig, the excited one is penguin. Snake likes fox, fox likes pig, pig likes penguin, penguin likes snake. What does Victory like?",
+		"candidates": [
+			"fox",
+			"pig",
+			"snake",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Nash is excited, Kobe is peaceful, Victory is angry, Jessica is tired. The peaceful one is swan, the tired one is penguin, the angry one is rabbit, the excited one is snake. Swan admires rabbit, rabbit admires snake, snake admires penguin, penguin admires swan. What does Kobe admire?",
+		"candidates": [
+			"snake",
+			"penguin",
+			"swan",
+			"rabbit"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Nash is peaceful, Paul is angry, Bob is excited, Chris is sad. The excited one is deer, the peaceful one is penguin, the sad one is snake, the angry one is rabbit. Rabbit is looking for snake, snake is looking for penguin, penguin is looking for deer, deer is looking for rabbit. What is Paul looking for?",
+		"candidates": [
+			"deer",
+			"rabbit",
+			"penguin",
+			"snake"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Nash is crying, Kobe is peaceful, Paul is angry, Bob is happy. The happy one is giraffe, the crying one is bird, the angry one is fox, the peaceful one is swan. Bird admires giraffe, giraffe admires swan, swan admires fox, fox admires bird. What does Nash admire?",
+		"candidates": [
+			"giraffe",
+			"swan",
+			"fox",
+			"bird"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Jessica is excited, Chris is peaceful, Nash is happy, Victory is crying. The peaceful one is swan, the crying one is deer, the excited one is frog, the happy one is pig. Pig has seen frog, frog has seen swan, swan has seen deer, deer has seen pig. What has Nash seen?",
+		"candidates": [
+			"pig",
+			"frog",
+			"deer",
+			"swan"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Chris is sad, Alex is excited, Victory is peaceful, Selina is happy. The peaceful one is butterfly, the happy one is cat, the excited one is fox, the sad one is snake. Fox likes snake, snake likes cat, cat likes butterfly, butterfly likes fox. What does Alex like?",
+		"candidates": [
+			"butterfly",
+			"snake",
+			"cat",
+			"fox"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Jessica is sad, Selina is crying, Anna is tired, Nash is peaceful. The tired one is giraffe, the crying one is penguin, the sad one is pig, the peaceful one is tiger. Giraffe admires tiger, tiger admires penguin, penguin admires pig, pig admires giraffe. What does Anna admire?",
+		"candidates": [
+			"pig",
+			"tiger",
+			"giraffe",
+			"penguin"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is sad, Selina is happy, Jessica is peaceful, Anna is tired. The happy one is frog, the tired one is butterfly, the peaceful one is snake, the sad one is deer. Deer is jealous of butterfly, butterfly is jealous of snake, snake is jealous of frog, frog is jealous of deer. What is Paul jealous of?",
+		"candidates": [
+			"frog",
+			"snake",
+			"deer",
+			"butterfly"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is sad, Mike is angry, Nash is tired, Selina is happy. The sad one is butterfly, the happy one is snake, the angry one is bird, the tired one is deer. Butterfly is looking for deer, deer is looking for bird, bird is looking for snake, snake is looking for butterfly. What is Paul looking for?",
+		"candidates": [
+			"bird",
+			"snake",
+			"butterfly",
+			"deer"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Alex is excited, Chris is crying, Bob is sad, Victory is peaceful. The peaceful one is butterfly, the crying one is penguin, the sad one is cat, the excited one is swan. Butterfly is chasing swan, swan is chasing cat, cat is chasing penguin, penguin is chasing butterfly. What is Victory chasing for?",
+		"candidates": [
+			"butterfly",
+			"cat",
+			"penguin",
+			"swan"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Kobe is crying, Chris is happy, Paul is excited, Jessica is angry. The angry one is dog, the crying one is deer, the excited one is butterfly, the happy one is swan. Deer fears swan, swan fears butterfly, butterfly fears dog, dog fears deer. What does Kobe fear of?",
+		"candidates": [
+			"dog",
+			"butterfly",
+			"swan",
+			"deer"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is sad, Chris is angry, Selina is tired, Paul is happy. The sad one is butterfly, the tired one is swan, the happy one is tiger, the angry one is cat. Cat admires butterfly, butterfly admires swan, swan admires tiger, tiger admires cat. What does Chris admire?",
+		"candidates": [
+			"swan",
+			"tiger",
+			"cat",
+			"butterfly"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is peaceful, Paul is angry, Chris is crying, Anna is sad. The peaceful one is cat, the sad one is bird, the crying one is tiger, the angry one is butterfly. Cat is looking for bird, bird is looking for tiger, tiger is looking for butterfly, butterfly is looking for cat. What is Selina looking for?",
+		"candidates": [
+			"bird",
+			"cat",
+			"tiger",
+			"butterfly"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Paul is tired, Kobe is angry, Bob is sad, Mike is peaceful. The sad one is tiger, the peaceful one is bird, the angry one is dog, the tired one is penguin. Tiger is chasing dog, dog is chasing penguin, penguin is chasing bird, bird is chasing tiger. What is Bob chasing for?",
+		"candidates": [
+			"dog",
+			"tiger",
+			"bird",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Bob is sad, Victory is happy, Anna is tired, Nash is peaceful. The peaceful one is tiger, the sad one is bird, the happy one is swan, the tired one is penguin. Tiger has seen penguin, penguin has seen swan, swan has seen bird, bird has seen tiger. What has Nash seen?",
+		"candidates": [
+			"swan",
+			"bird",
+			"tiger",
+			"penguin"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Anna is crying, Bob is tired, Wade is sad, Kobe is excited. The crying one is swan, the tired one is butterfly, the excited one is snake, the sad one is pig. Butterfly is jealous of pig, pig is jealous of swan, swan is jealous of snake, snake is jealous of butterfly. What is Bob jealous of?",
+		"candidates": [
+			"pig",
+			"butterfly",
+			"snake",
+			"swan"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Nash is peaceful, Victory is crying, Chris is excited, Paul is sad. The sad one is swan, the peaceful one is giraffe, the excited one is rabbit, the crying one is bird. Rabbit likes swan, swan likes giraffe, giraffe likes bird, bird likes rabbit. What does Chris like?",
+		"candidates": [
+			"bird",
+			"rabbit",
+			"swan",
+			"giraffe"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Wade is angry, Anna is peaceful, Bob is sad, Nash is happy. The sad one is pig, the peaceful one is snake, the angry one is dog, the happy one is rabbit. Dog likes pig, pig likes snake, snake likes rabbit, rabbit likes dog. What does Wade like?",
+		"candidates": [
+			"pig",
+			"rabbit",
+			"snake",
+			"dog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Mike is crying, Paul is peaceful, Victory is sad, Wade is tired. The crying one is rabbit, the tired one is snake, the sad one is tiger, the peaceful one is penguin. Tiger admires snake, snake admires penguin, penguin admires rabbit, rabbit admires tiger. What does Victory admire?",
+		"candidates": [
+			"tiger",
+			"snake",
+			"penguin",
+			"rabbit"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Mike is happy, Anna is excited, Selina is angry, Nash is sad. The excited one is swan, the happy one is snake, the sad one is deer, the angry one is giraffe. Deer is chasing giraffe, giraffe is chasing snake, snake is chasing swan, swan is chasing deer. What is Nash chasing for?",
+		"candidates": [
+			"swan",
+			"deer",
+			"snake",
+			"giraffe"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Mike is crying, Bob is peaceful, Victory is angry, Alex is sad. The sad one is rabbit, the crying one is tiger, the peaceful one is deer, the angry one is pig. Pig is jealous of deer, deer is jealous of tiger, tiger is jealous of rabbit, rabbit is jealous of pig. What is Victory jealous of?",
+		"candidates": [
+			"pig",
+			"rabbit",
+			"tiger",
+			"deer"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Bob is tired, Alex is angry, Anna is happy, Jessica is peaceful. The tired one is giraffe, the peaceful one is butterfly, the angry one is dog, the happy one is snake. Dog admires snake, snake admires giraffe, giraffe admires butterfly, butterfly admires dog. What does Alex admire?",
+		"candidates": [
+			"butterfly",
+			"giraffe",
+			"snake",
+			"dog"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Alex is crying, Paul is peaceful, Victory is angry, Wade is sad. The crying one is dog, the sad one is pig, the angry one is penguin, the peaceful one is giraffe. Giraffe is looking for penguin, penguin is looking for pig, pig is looking for dog, dog is looking for giraffe. What is Paul looking for?",
+		"candidates": [
+			"penguin",
+			"giraffe",
+			"dog",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Bob is sad, Jessica is angry, Selina is excited, Anna is peaceful. The angry one is deer, the excited one is snake, the peaceful one is swan, the sad one is penguin. Penguin has seen snake, snake has seen deer, deer has seen swan, swan has seen penguin. What has Bob seen?",
+		"candidates": [
+			"swan",
+			"deer",
+			"penguin",
+			"snake"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is tired, Chris is angry, Selina is crying, Victory is happy. The crying one is snake, the tired one is rabbit, the angry one is dog, the happy one is giraffe. Dog is looking for snake, snake is looking for giraffe, giraffe is looking for rabbit, rabbit is looking for dog. What is Chris looking for?",
+		"candidates": [
+			"giraffe",
+			"snake",
+			"rabbit",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Victory is crying, Paul is peaceful, Nash is angry, Bob is excited. The peaceful one is penguin, the angry one is frog, the crying one is butterfly, the excited one is giraffe. Giraffe is chasing butterfly, butterfly is chasing penguin, penguin is chasing frog, frog is chasing giraffe. What is Bob chasing for?",
+		"candidates": [
+			"butterfly",
+			"giraffe",
+			"frog",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Anna is excited, Nash is happy, Chris is peaceful, Alex is tired. The tired one is cat, the peaceful one is bird, the happy one is penguin, the excited one is snake. Bird is chasing cat, cat is chasing snake, snake is chasing penguin, penguin is chasing bird. What is Chris chasing for?",
+		"candidates": [
+			"cat",
+			"bird",
+			"snake",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Chris is happy, Selina is excited, Mike is tired, Anna is angry. The tired one is pig, the happy one is bird, the angry one is swan, the excited one is giraffe. Bird is looking for giraffe, giraffe is looking for pig, pig is looking for swan, swan is looking for bird. What is Chris looking for?",
+		"candidates": [
+			"giraffe",
+			"bird",
+			"pig",
+			"swan"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Chris is tired, Alex is angry, Bob is crying, Wade is excited. The angry one is deer, the excited one is pig, the crying one is giraffe, the tired one is penguin. Deer is looking for giraffe, giraffe is looking for penguin, penguin is looking for pig, pig is looking for deer. What is Alex looking for?",
+		"candidates": [
+			"pig",
+			"penguin",
+			"deer",
+			"giraffe"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Victory is tired, Jessica is peaceful, Chris is angry, Paul is excited. The angry one is penguin, the peaceful one is dog, the excited one is frog, the tired one is butterfly. Butterfly is chasing penguin, penguin is chasing dog, dog is chasing frog, frog is chasing butterfly. What is Victory chasing for?",
+		"candidates": [
+			"dog",
+			"frog",
+			"penguin",
+			"butterfly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Anna is peaceful, Wade is angry, Nash is sad, Chris is excited. The angry one is cat, the sad one is butterfly, the excited one is dog, the peaceful one is swan. Cat is chasing swan, swan is chasing dog, dog is chasing butterfly, butterfly is chasing cat. What is Wade chasing for?",
+		"candidates": [
+			"cat",
+			"dog",
+			"swan",
+			"butterfly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Anna is angry, Kobe is tired, Bob is peaceful, Mike is crying. The crying one is snake, the angry one is fox, the tired one is pig, the peaceful one is tiger. Fox has seen snake, snake has seen pig, pig has seen tiger, tiger has seen fox. What has Anna seen?",
+		"candidates": [
+			"fox",
+			"snake",
+			"pig",
+			"tiger"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Jessica is tired, Wade is crying, Selina is excited, Victory is angry. The crying one is frog, the tired one is deer, the angry one is butterfly, the excited one is giraffe. Frog is chasing butterfly, butterfly is chasing deer, deer is chasing giraffe, giraffe is chasing frog. What is Wade chasing for?",
+		"candidates": [
+			"butterfly",
+			"giraffe",
+			"frog",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Paul is excited, Selina is sad, Mike is tired, Bob is peaceful. The tired one is pig, the excited one is frog, the sad one is cat, the peaceful one is tiger. Tiger is looking for frog, frog is looking for cat, cat is looking for pig, pig is looking for tiger. What is Bob looking for?",
+		"candidates": [
+			"cat",
+			"frog",
+			"tiger",
+			"pig"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Selina is happy, Victory is sad, Chris is crying, Alex is angry. The crying one is frog, the happy one is cat, the sad one is snake, the angry one is tiger. Cat has seen snake, snake has seen tiger, tiger has seen frog, frog has seen cat. What has Selina seen?",
+		"candidates": [
+			"cat",
+			"frog",
+			"snake",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Alex is excited, Paul is sad, Mike is crying, Anna is angry. The sad one is dog, the angry one is swan, the crying one is cat, the excited one is tiger. Swan likes cat, cat likes tiger, tiger likes dog, dog likes swan. What does Anna like?",
+		"candidates": [
+			"cat",
+			"tiger",
+			"dog",
+			"swan"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Nash is happy, Kobe is peaceful, Victory is sad, Jessica is crying. The happy one is pig, the peaceful one is butterfly, the sad one is penguin, the crying one is dog. Dog has seen pig, pig has seen butterfly, butterfly has seen penguin, penguin has seen dog. What has Jessica seen?",
+		"candidates": [
+			"butterfly",
+			"dog",
+			"pig",
+			"penguin"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is happy, Wade is peaceful, Anna is crying, Victory is sad. The peaceful one is pig, the happy one is swan, the crying one is penguin, the sad one is deer. Penguin admires deer, deer admires pig, pig admires swan, swan admires penguin. What does Anna admire?",
+		"candidates": [
+			"penguin",
+			"deer",
+			"swan",
+			"pig"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Chris is excited, Selina is happy, Nash is sad, Kobe is peaceful. The sad one is rabbit, the peaceful one is swan, the happy one is deer, the excited one is penguin. Penguin is jealous of rabbit, rabbit is jealous of swan, swan is jealous of deer, deer is jealous of penguin. What is Chris jealous of?",
+		"candidates": [
+			"swan",
+			"penguin",
+			"deer",
+			"rabbit"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Wade is tired, Jessica is angry, Anna is sad, Kobe is crying. The sad one is dog, the tired one is giraffe, the crying one is penguin, the angry one is tiger. Giraffe is looking for tiger, tiger is looking for penguin, penguin is looking for dog, dog is looking for giraffe. What is Wade looking for?",
+		"candidates": [
+			"penguin",
+			"tiger",
+			"giraffe",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is tired, Paul is angry, Bob is excited, Anna is happy. The tired one is deer, the happy one is butterfly, the angry one is swan, the excited one is fox. Fox likes swan, swan likes butterfly, butterfly likes deer, deer likes fox. What does Bob like?",
+		"candidates": [
+			"butterfly",
+			"fox",
+			"deer",
+			"swan"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Alex is angry, Kobe is crying, Bob is excited, Anna is happy. The happy one is pig, the crying one is bird, the excited one is penguin, the angry one is snake. Bird fears snake, snake fears pig, pig fears penguin, penguin fears bird. What does Kobe fear of?",
+		"candidates": [
+			"penguin",
+			"pig",
+			"snake",
+			"bird"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Alex is sad, Mike is peaceful, Kobe is happy, Wade is tired. The happy one is deer, the tired one is penguin, the peaceful one is swan, the sad one is bird. Deer admires penguin, penguin admires swan, swan admires bird, bird admires deer. What does Kobe admire?",
+		"candidates": [
+			"deer",
+			"bird",
+			"penguin",
+			"swan"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Anna is sad, Bob is crying, Selina is tired, Mike is angry. The tired one is dog, the sad one is fox, the angry one is rabbit, the crying one is snake. Fox has seen rabbit, rabbit has seen dog, dog has seen snake, snake has seen fox. What has Anna seen?",
+		"candidates": [
+			"fox",
+			"snake",
+			"dog",
+			"rabbit"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Alex is tired, Victory is crying, Selina is happy, Paul is sad. The happy one is giraffe, the crying one is pig, the tired one is cat, the sad one is penguin. Giraffe is looking for pig, pig is looking for penguin, penguin is looking for cat, cat is looking for giraffe. What is Selina looking for?",
+		"candidates": [
+			"giraffe",
+			"pig",
+			"cat",
+			"penguin"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Anna is crying, Alex is tired, Kobe is excited, Victory is peaceful. The peaceful one is pig, the crying one is swan, the excited one is giraffe, the tired one is rabbit. Pig admires giraffe, giraffe admires swan, swan admires rabbit, rabbit admires pig. What does Victory admire?",
+		"candidates": [
+			"swan",
+			"giraffe",
+			"rabbit",
+			"pig"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Anna is angry, Chris is happy, Alex is crying, Mike is excited. The excited one is fox, the angry one is frog, the crying one is tiger, the happy one is butterfly. Butterfly admires frog, frog admires tiger, tiger admires fox, fox admires butterfly. What does Chris admire?",
+		"candidates": [
+			"butterfly",
+			"tiger",
+			"fox",
+			"frog"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Anna is tired, Jessica is sad, Paul is peaceful, Kobe is angry. The angry one is tiger, the sad one is penguin, the tired one is frog, the peaceful one is deer. Frog is chasing deer, deer is chasing tiger, tiger is chasing penguin, penguin is chasing frog. What is Anna chasing for?",
+		"candidates": [
+			"penguin",
+			"frog",
+			"deer",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is excited, Jessica is happy, Wade is tired, Alex is sad. The sad one is dog, the tired one is pig, the excited one is frog, the happy one is tiger. Dog likes tiger, tiger likes frog, frog likes pig, pig likes dog. What does Alex like?",
+		"candidates": [
+			"pig",
+			"frog",
+			"tiger",
+			"dog"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Bob is crying, Mike is peaceful, Jessica is excited, Victory is happy. The crying one is tiger, the excited one is giraffe, the happy one is snake, the peaceful one is rabbit. Giraffe fears snake, snake fears tiger, tiger fears rabbit, rabbit fears giraffe. What does Jessica fear of?",
+		"candidates": [
+			"rabbit",
+			"tiger",
+			"snake",
+			"giraffe"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Victory is sad, Kobe is tired, Wade is crying, Selina is angry. The sad one is snake, the crying one is giraffe, the angry one is fox, the tired one is bird. Snake likes fox, fox likes bird, bird likes giraffe, giraffe likes snake. What does Victory like?",
+		"candidates": [
+			"fox",
+			"giraffe",
+			"snake",
+			"bird"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Paul is tired, Jessica is sad, Victory is angry, Bob is happy. The sad one is deer, the angry one is pig, the tired one is cat, the happy one is penguin. Pig is jealous of deer, deer is jealous of penguin, penguin is jealous of cat, cat is jealous of pig. What is Victory jealous of?",
+		"candidates": [
+			"cat",
+			"penguin",
+			"deer",
+			"pig"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Mike is tired, Alex is crying, Kobe is excited, Bob is sad. The excited one is tiger, the crying one is butterfly, the tired one is frog, the sad one is penguin. Penguin is looking for butterfly, butterfly is looking for tiger, tiger is looking for frog, frog is looking for penguin. What is Bob looking for?",
+		"candidates": [
+			"frog",
+			"tiger",
+			"butterfly",
+			"penguin"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Wade is tired, Nash is crying, Jessica is sad, Victory is happy. The happy one is tiger, the crying one is cat, the sad one is rabbit, the tired one is swan. Tiger fears swan, swan fears rabbit, rabbit fears cat, cat fears tiger. What does Victory fear of?",
+		"candidates": [
+			"rabbit",
+			"swan",
+			"tiger",
+			"cat"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Kobe is crying, Alex is angry, Jessica is sad, Bob is excited. The sad one is bird, the excited one is cat, the angry one is pig, the crying one is penguin. Penguin is jealous of pig, pig is jealous of cat, cat is jealous of bird, bird is jealous of penguin. What is Kobe jealous of?",
+		"candidates": [
+			"bird",
+			"penguin",
+			"pig",
+			"cat"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Kobe is happy, Victory is crying, Jessica is sad, Bob is tired. The crying one is cat, the happy one is swan, the sad one is fox, the tired one is frog. Fox fears frog, frog fears swan, swan fears cat, cat fears fox. What does Jessica fear of?",
+		"candidates": [
+			"fox",
+			"frog",
+			"cat",
+			"swan"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Chris is happy, Bob is crying, Victory is tired, Nash is excited. The happy one is penguin, the crying one is rabbit, the excited one is snake, the tired one is tiger. Rabbit fears snake, snake fears tiger, tiger fears penguin, penguin fears rabbit. What does Bob fear of?",
+		"candidates": [
+			"tiger",
+			"snake",
+			"penguin",
+			"rabbit"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Kobe is tired, Wade is angry, Chris is crying, Nash is peaceful. The tired one is rabbit, the angry one is tiger, the crying one is deer, the peaceful one is bird. Deer fears rabbit, rabbit fears tiger, tiger fears bird, bird fears deer. What does Chris fear of?",
+		"candidates": [
+			"rabbit",
+			"bird",
+			"tiger",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Jessica is excited, Bob is happy, Anna is crying, Mike is sad. The sad one is bird, the crying one is dog, the excited one is snake, the happy one is penguin. Snake has seen dog, dog has seen bird, bird has seen penguin, penguin has seen snake. What has Jessica seen?",
+		"candidates": [
+			"dog",
+			"penguin",
+			"bird",
+			"snake"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Nash is angry, Wade is happy, Mike is sad, Victory is crying. The angry one is rabbit, the sad one is snake, the happy one is deer, the crying one is penguin. Rabbit has seen snake, snake has seen penguin, penguin has seen deer, deer has seen rabbit. What has Nash seen?",
+		"candidates": [
+			"rabbit",
+			"penguin",
+			"snake",
+			"deer"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is excited, Victory is tired, Alex is angry, Kobe is crying. The angry one is giraffe, the excited one is fox, the tired one is pig, the crying one is dog. Fox is looking for giraffe, giraffe is looking for pig, pig is looking for dog, dog is looking for fox. What is Chris looking for?",
+		"candidates": [
+			"pig",
+			"fox",
+			"dog",
+			"giraffe"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is peaceful, Nash is excited, Jessica is tired, Anna is sad. The sad one is frog, the peaceful one is snake, the tired one is rabbit, the excited one is penguin. Rabbit likes penguin, penguin likes snake, snake likes frog, frog likes rabbit. What does Jessica like?",
+		"candidates": [
+			"penguin",
+			"frog",
+			"snake",
+			"rabbit"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Nash is tired, Kobe is sad, Jessica is excited, Anna is peaceful. The sad one is deer, the excited one is swan, the tired one is fox, the peaceful one is cat. Deer is chasing cat, cat is chasing fox, fox is chasing swan, swan is chasing deer. What is Kobe chasing for?",
+		"candidates": [
+			"cat",
+			"swan",
+			"deer",
+			"fox"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Anna is crying, Selina is sad, Jessica is peaceful, Paul is excited. The excited one is deer, the peaceful one is penguin, the crying one is snake, the sad one is fox. Fox is chasing snake, snake is chasing deer, deer is chasing penguin, penguin is chasing fox. What is Selina chasing for?",
+		"candidates": [
+			"deer",
+			"snake",
+			"penguin",
+			"fox"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is happy, Selina is peaceful, Bob is excited, Kobe is crying. The crying one is giraffe, the peaceful one is frog, the happy one is rabbit, the excited one is tiger. Frog is looking for rabbit, rabbit is looking for tiger, tiger is looking for giraffe, giraffe is looking for frog. What is Selina looking for?",
+		"candidates": [
+			"giraffe",
+			"rabbit",
+			"tiger",
+			"frog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Victory is tired, Nash is peaceful, Mike is sad, Jessica is excited. The excited one is cat, the sad one is pig, the tired one is snake, the peaceful one is frog. Snake has seen pig, pig has seen frog, frog has seen cat, cat has seen snake. What has Victory seen?",
+		"candidates": [
+			"frog",
+			"cat",
+			"pig",
+			"snake"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Bob is angry, Wade is tired, Alex is sad, Jessica is peaceful. The angry one is deer, the tired one is penguin, the peaceful one is dog, the sad one is rabbit. Dog is chasing rabbit, rabbit is chasing deer, deer is chasing penguin, penguin is chasing dog. What is Jessica chasing for?",
+		"candidates": [
+			"rabbit",
+			"dog",
+			"deer",
+			"penguin"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Jessica is sad, Chris is happy, Selina is excited, Bob is peaceful. The excited one is cat, the happy one is fox, the peaceful one is bird, the sad one is tiger. Cat is chasing bird, bird is chasing tiger, tiger is chasing fox, fox is chasing cat. What is Selina chasing for?",
+		"candidates": [
+			"fox",
+			"cat",
+			"bird",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Paul is happy, Victory is crying, Alex is tired, Selina is angry. The crying one is rabbit, the happy one is swan, the tired one is butterfly, the angry one is pig. Butterfly is jealous of rabbit, rabbit is jealous of pig, pig is jealous of swan, swan is jealous of butterfly. What is Alex jealous of?",
+		"candidates": [
+			"rabbit",
+			"swan",
+			"butterfly",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Jessica is peaceful, Selina is excited, Alex is sad, Bob is tired. The excited one is swan, the peaceful one is dog, the tired one is tiger, the sad one is snake. Tiger has seen swan, swan has seen dog, dog has seen snake, snake has seen tiger. What has Bob seen?",
+		"candidates": [
+			"snake",
+			"tiger",
+			"dog",
+			"swan"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Chris is sad, Victory is happy, Bob is peaceful, Paul is crying. The sad one is pig, the crying one is fox, the happy one is rabbit, the peaceful one is penguin. Fox admires penguin, penguin admires rabbit, rabbit admires pig, pig admires fox. What does Paul admire?",
+		"candidates": [
+			"penguin",
+			"rabbit",
+			"fox",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Mike is angry, Wade is sad, Paul is excited, Nash is tired. The sad one is rabbit, the angry one is pig, the excited one is cat, the tired one is tiger. Rabbit is looking for pig, pig is looking for tiger, tiger is looking for cat, cat is looking for rabbit. What is Wade looking for?",
+		"candidates": [
+			"rabbit",
+			"cat",
+			"tiger",
+			"pig"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Nash is excited, Bob is peaceful, Mike is happy, Selina is crying. The crying one is giraffe, the excited one is cat, the happy one is tiger, the peaceful one is rabbit. Tiger is looking for cat, cat is looking for giraffe, giraffe is looking for rabbit, rabbit is looking for tiger. What is Mike looking for?",
+		"candidates": [
+			"tiger",
+			"giraffe",
+			"rabbit",
+			"cat"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Victory is tired, Alex is peaceful, Jessica is crying, Mike is happy. The happy one is cat, the crying one is penguin, the tired one is swan, the peaceful one is fox. Fox is chasing cat, cat is chasing penguin, penguin is chasing swan, swan is chasing fox. What is Alex chasing for?",
+		"candidates": [
+			"fox",
+			"penguin",
+			"cat",
+			"swan"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Bob is sad, Mike is peaceful, Selina is angry, Jessica is crying. The peaceful one is deer, the angry one is fox, the sad one is rabbit, the crying one is butterfly. Butterfly is looking for fox, fox is looking for deer, deer is looking for rabbit, rabbit is looking for butterfly. What is Jessica looking for?",
+		"candidates": [
+			"fox",
+			"butterfly",
+			"deer",
+			"rabbit"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is excited, Nash is sad, Paul is happy, Mike is peaceful. The excited one is giraffe, the happy one is pig, the sad one is deer, the peaceful one is penguin. Deer is looking for pig, pig is looking for giraffe, giraffe is looking for penguin, penguin is looking for deer. What is Nash looking for?",
+		"candidates": [
+			"giraffe",
+			"deer",
+			"penguin",
+			"pig"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is crying, Chris is excited, Jessica is peaceful, Kobe is angry. The angry one is snake, the peaceful one is rabbit, the crying one is dog, the excited one is butterfly. Dog is looking for snake, snake is looking for rabbit, rabbit is looking for butterfly, butterfly is looking for dog. What is Selina looking for?",
+		"candidates": [
+			"snake",
+			"rabbit",
+			"butterfly",
+			"dog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Mike is peaceful, Anna is tired, Alex is sad, Bob is crying. The sad one is butterfly, the tired one is dog, the crying one is giraffe, the peaceful one is swan. Butterfly has seen swan, swan has seen giraffe, giraffe has seen dog, dog has seen butterfly. What has Alex seen?",
+		"candidates": [
+			"dog",
+			"butterfly",
+			"swan",
+			"giraffe"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Kobe is tired, Alex is happy, Nash is crying, Paul is excited. The happy one is giraffe, the excited one is frog, the tired one is dog, the crying one is deer. Frog fears deer, deer fears giraffe, giraffe fears dog, dog fears frog. What does Paul fear of?",
+		"candidates": [
+			"dog",
+			"giraffe",
+			"frog",
+			"deer"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is crying, Wade is excited, Anna is sad, Chris is tired. The crying one is dog, the excited one is swan, the tired one is snake, the sad one is butterfly. Swan likes dog, dog likes butterfly, butterfly likes snake, snake likes swan. What does Wade like?",
+		"candidates": [
+			"dog",
+			"swan",
+			"snake",
+			"butterfly"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Selina is crying, Anna is excited, Chris is sad, Wade is happy. The crying one is fox, the happy one is tiger, the excited one is giraffe, the sad one is pig. Giraffe is looking for pig, pig is looking for fox, fox is looking for tiger, tiger is looking for giraffe. What is Anna looking for?",
+		"candidates": [
+			"giraffe",
+			"fox",
+			"tiger",
+			"pig"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Alex is angry, Anna is excited, Bob is crying, Jessica is sad. The excited one is frog, the crying one is fox, the angry one is cat, the sad one is swan. Cat has seen fox, fox has seen frog, frog has seen swan, swan has seen cat. What has Alex seen?",
+		"candidates": [
+			"frog",
+			"swan",
+			"fox",
+			"cat"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is happy, Victory is tired, Anna is sad, Jessica is angry. The sad one is swan, the angry one is cat, the happy one is snake, the tired one is giraffe. Giraffe is jealous of snake, snake is jealous of cat, cat is jealous of swan, swan is jealous of giraffe. What is Victory jealous of?",
+		"candidates": [
+			"snake",
+			"swan",
+			"giraffe",
+			"cat"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Nash is excited, Jessica is peaceful, Anna is sad, Wade is tired. The tired one is frog, the excited one is bird, the peaceful one is deer, the sad one is butterfly. Deer is chasing frog, frog is chasing butterfly, butterfly is chasing bird, bird is chasing deer. What is Jessica chasing for?",
+		"candidates": [
+			"frog",
+			"bird",
+			"deer",
+			"butterfly"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Chris is happy, Nash is peaceful, Bob is crying, Paul is tired. The crying one is snake, the peaceful one is frog, the tired one is butterfly, the happy one is pig. Pig admires snake, snake admires frog, frog admires butterfly, butterfly admires pig. What does Chris admire?",
+		"candidates": [
+			"pig",
+			"frog",
+			"snake",
+			"butterfly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Paul is crying, Nash is tired, Bob is happy, Alex is angry. The crying one is fox, the angry one is snake, the tired one is penguin, the happy one is dog. Fox likes penguin, penguin likes dog, dog likes snake, snake likes fox. What does Paul like?",
+		"candidates": [
+			"snake",
+			"dog",
+			"penguin",
+			"fox"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is sad, Wade is excited, Paul is crying, Bob is angry. The angry one is snake, the sad one is rabbit, the crying one is swan, the excited one is dog. Dog admires swan, swan admires snake, snake admires rabbit, rabbit admires dog. What does Wade admire?",
+		"candidates": [
+			"swan",
+			"snake",
+			"dog",
+			"rabbit"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Jessica is sad, Mike is crying, Alex is tired, Chris is excited. The excited one is bird, the crying one is cat, the tired one is snake, the sad one is rabbit. Rabbit is chasing cat, cat is chasing bird, bird is chasing snake, snake is chasing rabbit. What is Jessica chasing for?",
+		"candidates": [
+			"rabbit",
+			"cat",
+			"snake",
+			"bird"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is sad, Victory is tired, Mike is crying, Jessica is happy. The sad one is cat, the happy one is deer, the crying one is snake, the tired one is dog. Cat is looking for deer, deer is looking for dog, dog is looking for snake, snake is looking for cat. What is Paul looking for?",
+		"candidates": [
+			"cat",
+			"deer",
+			"snake",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is peaceful, Chris is crying, Mike is tired, Nash is sad. The sad one is cat, the crying one is penguin, the tired one is tiger, the peaceful one is dog. Cat admires penguin, penguin admires tiger, tiger admires dog, dog admires cat. What does Nash admire?",
+		"candidates": [
+			"tiger",
+			"penguin",
+			"cat",
+			"dog"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is tired, Jessica is crying, Chris is excited, Kobe is peaceful. The peaceful one is snake, the tired one is rabbit, the excited one is swan, the crying one is butterfly. Snake has seen swan, swan has seen rabbit, rabbit has seen butterfly, butterfly has seen snake. What has Kobe seen?",
+		"candidates": [
+			"butterfly",
+			"rabbit",
+			"swan",
+			"snake"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is happy, Kobe is angry, Victory is excited, Alex is peaceful. The excited one is swan, the happy one is pig, the peaceful one is cat, the angry one is deer. Deer has seen pig, pig has seen cat, cat has seen swan, swan has seen deer. What has Kobe seen?",
+		"candidates": [
+			"pig",
+			"swan",
+			"cat",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Nash is happy, Mike is angry, Kobe is tired, Wade is excited. The tired one is frog, the excited one is snake, the happy one is butterfly, the angry one is dog. Butterfly is jealous of snake, snake is jealous of dog, dog is jealous of frog, frog is jealous of butterfly. What is Nash jealous of?",
+		"candidates": [
+			"butterfly",
+			"dog",
+			"snake",
+			"frog"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Alex is sad, Bob is happy, Nash is tired, Mike is excited. The happy one is swan, the tired one is giraffe, the excited one is frog, the sad one is deer. Swan fears frog, frog fears giraffe, giraffe fears deer, deer fears swan. What does Bob fear of?",
+		"candidates": [
+			"frog",
+			"giraffe",
+			"swan",
+			"deer"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is tired, Chris is crying, Mike is peaceful, Jessica is excited. The peaceful one is snake, the excited one is dog, the crying one is swan, the tired one is deer. Deer fears dog, dog fears swan, swan fears snake, snake fears deer. What does Wade fear of?",
+		"candidates": [
+			"deer",
+			"snake",
+			"dog",
+			"swan"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Mike is sad, Victory is excited, Bob is peaceful, Anna is tired. The sad one is pig, the tired one is rabbit, the excited one is fox, the peaceful one is giraffe. Rabbit is chasing giraffe, giraffe is chasing pig, pig is chasing fox, fox is chasing rabbit. What is Anna chasing for?",
+		"candidates": [
+			"giraffe",
+			"fox",
+			"pig",
+			"rabbit"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Mike is angry, Victory is happy, Kobe is crying, Selina is excited. The crying one is pig, the angry one is penguin, the happy one is bird, the excited one is giraffe. Giraffe is chasing bird, bird is chasing pig, pig is chasing penguin, penguin is chasing giraffe. What is Selina chasing for?",
+		"candidates": [
+			"penguin",
+			"pig",
+			"giraffe",
+			"bird"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is happy, Kobe is angry, Chris is excited, Alex is tired. The happy one is deer, the tired one is rabbit, the excited one is giraffe, the angry one is fox. Rabbit is looking for deer, deer is looking for giraffe, giraffe is looking for fox, fox is looking for rabbit. What is Alex looking for?",
+		"candidates": [
+			"giraffe",
+			"rabbit",
+			"deer",
+			"fox"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Chris is sad, Paul is happy, Anna is peaceful, Kobe is excited. The peaceful one is pig, the happy one is fox, the sad one is penguin, the excited one is bird. Penguin admires fox, fox admires pig, pig admires bird, bird admires penguin. What does Chris admire?",
+		"candidates": [
+			"fox",
+			"bird",
+			"penguin",
+			"pig"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is excited, Bob is crying, Kobe is angry, Alex is sad. The excited one is tiger, the sad one is snake, the angry one is cat, the crying one is dog. Dog is looking for tiger, tiger is looking for snake, snake is looking for cat, cat is looking for dog. What is Bob looking for?",
+		"candidates": [
+			"cat",
+			"snake",
+			"dog",
+			"tiger"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Selina is peaceful, Kobe is excited, Chris is happy, Jessica is angry. The peaceful one is dog, the happy one is fox, the angry one is deer, the excited one is rabbit. Deer is looking for fox, fox is looking for rabbit, rabbit is looking for dog, dog is looking for deer. What is Jessica looking for?",
+		"candidates": [
+			"dog",
+			"fox",
+			"deer",
+			"rabbit"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Bob is sad, Alex is peaceful, Nash is crying, Paul is tired. The tired one is rabbit, the peaceful one is cat, the sad one is penguin, the crying one is butterfly. Rabbit fears penguin, penguin fears butterfly, butterfly fears cat, cat fears rabbit. What does Paul fear of?",
+		"candidates": [
+			"cat",
+			"rabbit",
+			"penguin",
+			"butterfly"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Selina is excited, Anna is crying, Kobe is sad, Bob is tired. The tired one is cat, the excited one is deer, the crying one is tiger, the sad one is frog. Deer has seen frog, frog has seen cat, cat has seen tiger, tiger has seen deer. What has Selina seen?",
+		"candidates": [
+			"cat",
+			"tiger",
+			"deer",
+			"frog"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Kobe is excited, Selina is happy, Paul is sad, Nash is tired. The happy one is frog, the tired one is dog, the sad one is rabbit, the excited one is swan. Dog has seen frog, frog has seen swan, swan has seen rabbit, rabbit has seen dog. What has Nash seen?",
+		"candidates": [
+			"frog",
+			"swan",
+			"dog",
+			"rabbit"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Wade is tired, Nash is angry, Selina is peaceful, Victory is crying. The peaceful one is dog, the tired one is pig, the crying one is penguin, the angry one is giraffe. Dog has seen giraffe, giraffe has seen penguin, penguin has seen pig, pig has seen dog. What has Selina seen?",
+		"candidates": [
+			"pig",
+			"dog",
+			"penguin",
+			"giraffe"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Victory is peaceful, Alex is angry, Bob is sad, Mike is excited. The sad one is frog, the excited one is rabbit, the angry one is giraffe, the peaceful one is dog. Giraffe is jealous of rabbit, rabbit is jealous of dog, dog is jealous of frog, frog is jealous of giraffe. What is Alex jealous of?",
+		"candidates": [
+			"rabbit",
+			"giraffe",
+			"dog",
+			"frog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Mike is sad, Nash is peaceful, Paul is excited, Selina is tired. The peaceful one is swan, the tired one is rabbit, the sad one is fox, the excited one is penguin. Fox has seen penguin, penguin has seen swan, swan has seen rabbit, rabbit has seen fox. What has Mike seen?",
+		"candidates": [
+			"fox",
+			"swan",
+			"penguin",
+			"rabbit"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Victory is peaceful, Alex is crying, Jessica is angry, Wade is sad. The angry one is fox, the sad one is penguin, the peaceful one is bird, the crying one is frog. Fox is chasing frog, frog is chasing bird, bird is chasing penguin, penguin is chasing fox. What is Jessica chasing for?",
+		"candidates": [
+			"bird",
+			"frog",
+			"fox",
+			"penguin"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is crying, Jessica is sad, Paul is tired, Alex is excited. The tired one is penguin, the excited one is bird, the sad one is rabbit, the crying one is fox. Bird likes rabbit, rabbit likes fox, fox likes penguin, penguin likes bird. What does Alex like?",
+		"candidates": [
+			"penguin",
+			"fox",
+			"rabbit",
+			"bird"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Alex is tired, Selina is peaceful, Bob is excited, Anna is crying. The crying one is tiger, the peaceful one is cat, the tired one is butterfly, the excited one is pig. Tiger has seen cat, cat has seen butterfly, butterfly has seen pig, pig has seen tiger. What has Anna seen?",
+		"candidates": [
+			"cat",
+			"tiger",
+			"pig",
+			"butterfly"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Anna is peaceful, Wade is tired, Kobe is crying, Selina is excited. The crying one is dog, the tired one is penguin, the excited one is fox, the peaceful one is pig. Pig likes fox, fox likes penguin, penguin likes dog, dog likes pig. What does Anna like?",
+		"candidates": [
+			"fox",
+			"pig",
+			"penguin",
+			"dog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Paul is angry, Nash is excited, Anna is sad, Chris is peaceful. The peaceful one is cat, the angry one is fox, the excited one is dog, the sad one is penguin. Penguin is jealous of dog, dog is jealous of cat, cat is jealous of fox, fox is jealous of penguin. What is Anna jealous of?",
+		"candidates": [
+			"dog",
+			"fox",
+			"penguin",
+			"cat"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Alex is sad, Paul is peaceful, Kobe is crying, Jessica is tired. The tired one is swan, the crying one is tiger, the sad one is fox, the peaceful one is bird. Tiger has seen swan, swan has seen fox, fox has seen bird, bird has seen tiger. What has Kobe seen?",
+		"candidates": [
+			"bird",
+			"swan",
+			"fox",
+			"tiger"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Chris is tired, Wade is sad, Bob is angry, Alex is peaceful. The peaceful one is tiger, the angry one is dog, the tired one is snake, the sad one is rabbit. Rabbit likes dog, dog likes tiger, tiger likes snake, snake likes rabbit. What does Wade like?",
+		"candidates": [
+			"snake",
+			"dog",
+			"rabbit",
+			"tiger"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Paul is angry, Kobe is sad, Alex is crying, Anna is happy. The crying one is penguin, the happy one is deer, the angry one is bird, the sad one is fox. Deer is looking for bird, bird is looking for penguin, penguin is looking for fox, fox is looking for deer. What is Anna looking for?",
+		"candidates": [
+			"bird",
+			"penguin",
+			"deer",
+			"fox"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Bob is happy, Anna is excited, Nash is crying, Jessica is angry. The angry one is tiger, the crying one is frog, the happy one is snake, the excited one is bird. Frog fears bird, bird fears snake, snake fears tiger, tiger fears frog. What does Nash fear of?",
+		"candidates": [
+			"frog",
+			"snake",
+			"bird",
+			"tiger"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Nash is angry, Selina is peaceful, Alex is crying, Jessica is tired. The tired one is bird, the peaceful one is fox, the crying one is cat, the angry one is rabbit. Cat fears fox, fox fears bird, bird fears rabbit, rabbit fears cat. What does Alex fear of?",
+		"candidates": [
+			"cat",
+			"bird",
+			"rabbit",
+			"fox"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Mike is crying, Selina is tired, Bob is happy, Kobe is peaceful. The tired one is swan, the happy one is dog, the peaceful one is fox, the crying one is pig. Pig admires dog, dog admires fox, fox admires swan, swan admires pig. What does Mike admire?",
+		"candidates": [
+			"swan",
+			"fox",
+			"dog",
+			"pig"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Bob is tired, Mike is excited, Wade is peaceful, Kobe is happy. The excited one is butterfly, the peaceful one is cat, the happy one is snake, the tired one is tiger. Snake has seen butterfly, butterfly has seen tiger, tiger has seen cat, cat has seen snake. What has Kobe seen?",
+		"candidates": [
+			"cat",
+			"tiger",
+			"snake",
+			"butterfly"
+		],
+		"answer": 3
+	},
+	{
+		"question": "Paul is excited, Wade is angry, Victory is sad, Chris is peaceful. The peaceful one is dog, the excited one is butterfly, the angry one is fox, the sad one is frog. Dog has seen butterfly, butterfly has seen fox, fox has seen frog, frog has seen dog. What has Chris seen?",
+		"candidates": [
+			"butterfly",
+			"fox",
+			"frog",
+			"dog"
+		],
+		"answer": 0
+	},
+	{
+		"question": "Anna is angry, Victory is sad, Selina is peaceful, Jessica is excited. The peaceful one is tiger, the sad one is snake, the angry one is butterfly, the excited one is dog. Butterfly is chasing dog, dog is chasing tiger, tiger is chasing snake, snake is chasing butterfly. What is Anna chasing for?",
+		"candidates": [
+			"butterfly",
+			"dog",
+			"tiger",
+			"snake"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is excited, Nash is peaceful, Selina is sad, Victory is crying. The excited one is tiger, the sad one is butterfly, the peaceful one is giraffe, the crying one is cat. Tiger admires cat, cat admires giraffe, giraffe admires butterfly, butterfly admires tiger. What does Wade admire?",
+		"candidates": [
+			"tiger",
+			"butterfly",
+			"cat",
+			"giraffe"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Bob is excited, Paul is sad, Anna is happy, Kobe is tired. The excited one is bird, the sad one is butterfly, the happy one is penguin, the tired one is swan. Bird fears swan, swan fears butterfly, butterfly fears penguin, penguin fears bird. What does Bob fear of?",
+		"candidates": [
+			"butterfly",
+			"swan",
+			"bird",
+			"penguin"
+		],
+		"answer": 1
+	},
+	{
+		"question": "Wade is happy, Jessica is excited, Anna is peaceful, Victory is crying. The excited one is pig, the peaceful one is swan, the happy one is dog, the crying one is giraffe. Giraffe is looking for dog, dog is looking for swan, swan is looking for pig, pig is looking for giraffe. What is Victory looking for?",
+		"candidates": [
+			"giraffe",
+			"pig",
+			"dog",
+			"swan"
+		],
+		"answer": 2
+	},
+	{
+		"question": "Kobe is peaceful, Mike is happy, Alex is tired, Victory is sad. The sad one is deer, the peaceful one is swan, the tired one is pig, the happy one is penguin. Penguin is looking for pig, pig is looking for deer, deer is looking for swan, swan is looking for penguin. What is Mike looking for?",
+		"candidates": [
+			"swan",
+			"deer",
+			"penguin",
+			"pig"
+		],
+		"answer": 3
+	}
+]
