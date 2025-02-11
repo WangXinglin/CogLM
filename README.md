@@ -20,6 +20,9 @@ test_{OPT, GPT2, OPT_logit, GPT2_logit, llama, ChatGPT}.py are scripts for data 
 ### Model Result Evaluation
 {llama_chat, chatgpt, llm}_result.py are scripts for calculating the accuracy of different models on CogLM.
 
+## Paper link
+https://arxiv.org/abs/2408.09150
+
 
 
 
